@@ -44,13 +44,13 @@
 
 （1）LDASAGE是两阶段模型。第一阶段：使用预训练图卷积模型（Deepwalk、node2vec）、和与miRNA的邻接关系得到了表征lncRNA的向量L1、L2, 表征disease的向量D1、D2。第二阶段：使用了SAGE框架，实现merge 和 aggregation 两个步骤。最后通过机器学习模型包括xgboost, lightgbm等实现二分类。
 
-![ldasage](F:\Python\Python_Github\LDASAGE\images\ldasage.jpg)
+![ldasage](images\ldasage.jpg)
 
 
 
 （2）模型的算法步骤
 
-![steps](F:\Python\Python_Github\LDASAGE\images\steps.jpg)
+![steps](images\steps.jpg)
 
 
 
