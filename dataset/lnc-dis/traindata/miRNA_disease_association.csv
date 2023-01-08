@@ -1,0 +1,2972 @@
+miRNA,disease
+hsa-miR-186-5p,Medulloblastoma
+hsa-miR-186-5p,Alzheimer disease
+hsa-miR-186-5p,Colon cancer
+hsa-miR-186-5p,Amyotrophic lateral sclerosis
+hsa-miR-186-5p,Colorectal cancer
+hsa-miR-19a-3p,Spinocerebellar ataxia type 1
+hsa-miR-19a-3p,Lymphoblastic lymphoma
+hsa-miR-19a-3p,Thyroid carcinoma anaplastic
+hsa-miR-19a-3p,Bladder cancer
+hsa-miR-19a-3p,Breast cancer
+hsa-miR-19a-3p,Breast neoplasms
+hsa-miR-19a-3p,Melanoma
+hsa-miR-19a-3p,Thyroid adenomas
+hsa-miR-19a-3p,Glioblastoma
+hsa-miR-19a-3p,Glioma
+hsa-miR-19a-3p,Malignant glioma
+hsa-miR-19a-3p,Notch-induced t-cell acute lymphoblastic leukemia
+hsa-miR-19a-3p,T-cell acute lymphoblastic leukemia
+hsa-miR-19a-3p,Cowden disease
+hsa-miR-19a-3p,Hepatocellular carcinoma
+hsa-miR-19a-3p,Neuroblastoma
+hsa-miR-19a-3p,Lymphosarcoma
+hsa-miR-19a-3p,Acute myelogenous leukemia
+hsa-miR-19a-3p,Acute myeloid leukemia
+hsa-miR-19a-3p,Colorectal cancer
+hsa-miR-19a-3p,Multiple myeloma
+hsa-miR-19a-3p,Esophageal squamous cell carcinoma
+hsa-miR-19a-3p,Chronic pain
+hsa-miR-19b-3p,Medulloblastoma
+hsa-miR-19b-3p,Malignant lymphoma
+hsa-miR-19b-3p,Alzheimer disease
+hsa-miR-19b-3p,Encephalitis japanese
+hsa-miR-19b-3p,Lung cancer
+hsa-miR-19b-3p,Fragile x syndrome
+hsa-miR-19b-3p,Breast cancer
+hsa-miR-19b-3p,Breast neoplasms
+hsa-miR-19b-3p,Malignant melanoma
+hsa-miR-19b-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-19b-3p,Thyroid adenomas
+hsa-miR-19b-3p,Glioblastoma
+hsa-miR-19b-3p,malignant glioma
+hsa-miR-19b-3p,Coronary artery disease
+hsa-miR-19b-3p,Myasthenia gravis autoimmune experimental
+hsa-miR-19b-3p,Hepatocellular carcinoma
+hsa-miR-19b-3p,B-cell lymphoma
+hsa-miR-19b-3p,B-cell non-hodgkin lymphoma
+hsa-miR-19b-3p,Neuroblastoma
+hsa-miR-19b-3p,Lymphosarcoma
+hsa-miR-19b-3p,Crohn disease
+hsa-miR-19b-3p,Intermediate coronary syndrome
+hsa-miR-19b-3p,Acute myelogenous leukemia
+hsa-miR-19b-3p,Acute myeloid leukemia
+hsa-miR-19b-3p,Colorectal cancer
+hsa-miR-19b-3p,Nasopharyngeal carcinoma
+hsa-miR-19b-3p,Multiple myeloma
+hsa-miR-19b-3p,Esophageal squamous cell carcinoma
+hsa-miR-19b-3p,Uterine cervical neoplasms
+hsa-miR-19b-3p,Stroke lacunar
+hsa-miR-208a-3p,Cardiac hypertrophy
+hsa-miR-208a-3p,Myocardial reperfusion injury
+hsa-miR-25-3p,Medulloblastoma
+hsa-miR-25-3p,Gastric cancer
+hsa-miR-25-3p,Atherosclerosis
+hsa-miR-25-3p,Colon cancer
+hsa-miR-25-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-25-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-25-3p,Amyotrophic lateral sclerosis
+hsa-miR-25-3p,Coronary artery disease
+hsa-miR-25-3p,Adenocarcinoma of esophagus
+hsa-miR-25-3p,Esophageal adenocarcinoma
+hsa-miR-25-3p,Nasopharynx carcinoma
+hsa-miR-25-3p,Multiple myeloma
+hsa-miR-299-3p,Hepatocellular carcinoma
+hsa-miR-32-5p,Alzheimer disease
+hsa-miR-32-5p,Uterine fibroid
+hsa-miR-32-5p,Breast cancer
+hsa-miR-32-5p,Breast neoplasms
+hsa-miR-32-5p,Williams syndrome
+hsa-miR-32-5p,Multiple myeloma
+hsa-miR-32-5p,Infection
+hsa-miR-363-3p,Gastric cancer
+hsa-miR-363-3p,Stomach cancer
+hsa-miR-367-3p,Medulloblastoma
+hsa-miR-367-3p,Alzheimer disease
+hsa-miR-367-3p,Hepatocellular carcinoma
+hsa-miR-590-3p,Colon cancer
+hsa-miR-590-3p,Glioblastoma
+hsa-miR-590-3p,Hepatocellular carcinoma
+hsa-miR-92a-3p,Medulloblastoma
+hsa-miR-92a-3p,Chronic lymphocytic leukemia
+hsa-miR-92a-3p,Gastric cancer
+hsa-miR-92a-3p,Stomach cancer
+hsa-miR-92a-3p,Alzheimer disease
+hsa-miR-92a-3p,Carotid stenosis
+hsa-miR-92a-3p,Breast cancer
+hsa-miR-92a-3p,Colon cancer
+hsa-miR-92a-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-92a-3p,Glioblastoma
+hsa-miR-92a-3p,Glioma
+hsa-miR-92a-3p,Malignant glioma
+hsa-miR-92a-3p,Schizophrenia
+hsa-miR-92a-3p,Hepatocellular carcinoma
+hsa-miR-92a-3p,T-cell leukemia
+hsa-miR-92a-3p,Neuroblastoma
+hsa-miR-92a-3p,Lymphosarcoma
+hsa-miR-92a-3p,Acute myelocytic leukemia
+hsa-miR-92a-3p,Colorectal cancer
+hsa-miR-92a-3p,Pelvic organ prolapse
+hsa-miR-92b-3p,Breast cancer
+hsa-miR-92b-3p,Breast neoplasms
+hsa-miR-92b-3p,Schizophrenia
+hsa-miR-92b-3p,Neuroblastoma
+hsa-miR-138-5p,Tongue squamous cell carcinoma
+hsa-miR-138-5p,Oral squamous cell carcinoma
+hsa-miR-138-5p,Medulloblastoma
+hsa-miR-138-5p,Anencephaly
+hsa-miR-138-5p,Anaplastic thyroid carcinoma
+hsa-miR-138-5p,Alzheimer disease
+hsa-miR-138-5p,Fragile x syndrome
+hsa-miR-138-5p,Pancreatic cancer
+hsa-miR-138-5p,Melanoma
+hsa-miR-138-5p,Glioblastoma
+hsa-miR-138-5p,Astrocytoma
+hsa-miR-138-5p,Gallbladder cancer
+hsa-miR-138-5p,Non-small cell lung cancer
+hsa-miR-138-5p,Cervical cancer
+hsa-miR-138-5p,Renal carcinoma
+hsa-miR-138-5p,Cholangiocarcinoma
+hsa-miR-138-5p,Gallbladder carcinoma
+hsa-miR-138-5p,Head and neck squamous cell carcinoma
+hsa-miR-138-5p,Heart failure
+hsa-miR-138-5p,Retinoblastoma
+hsa-miR-138-5p,Osteoarthritis
+hsa-miR-138-5p,Nasopharyngeal carcinoma
+hsa-miR-138-5p,Prostatic neoplasms
+hsa-miR-138-5p,Myocardial ischemia
+hsa-miR-149-5p,Gastric cancer
+hsa-miR-149-5p,Melanoma
+hsa-miR-149-5p,Williams syndrome
+hsa-miR-149-5p,Glioblastoma
+hsa-miR-149-5p,Osteosarcoma
+hsa-miR-149-5p,Pituitary adenoma
+hsa-miR-149-5p,Carcinoma lung non-small-cell
+hsa-miR-149-5p,Non-small cell lung adenocarcinoma
+hsa-miR-149-5p,Hepatocellular carcinoma
+hsa-miR-149-5p,Colorectal cancer
+hsa-miR-149-5p,Cardiomegaly
+hsa-miR-320b,Multiple sclerosis relapsing-remitting
+hsa-miR-320b,Relapsing-remitting multiple sclerosis
+hsa-miR-320c,Pancreatic neoplasms
+hsa-miR-320d,Glioma
+hsa-miR-377-3p,Lung cancer
+hsa-miR-377-3p,Melanoma
+hsa-miR-377-3p,Glioblastoma
+hsa-miR-377-3p,Ovarian epithelial cancer
+hsa-miR-4429,Papillary thyroid carcinoma
+hsa-miR-485-5p,Alzheimer disease
+hsa-miR-873-5p,Gastric cancer
+hsa-miR-155-5p,Diffuse large b cell lymphoma
+hsa-miR-155-5p,Multiple sclerosis chronic progressive
+hsa-miR-155-5p,Renal fibrosis
+hsa-miR-155-5p,Precursor cell lymphoblastic leukemia-lymphoma
+hsa-miR-155-5p,Pre-eclampsia
+hsa-miR-155-5p,Alzheimer disease
+hsa-miR-155-5p,Hypertension
+hsa-miR-155-5p,Lung cancer
+hsa-miR-155-5p,Kawasaki disease
+hsa-miR-155-5p,Tuberous sclerosis
+hsa-miR-155-5p,Down syndrome
+hsa-miR-155-5p,Breast cancer
+hsa-miR-155-5p,Breast neoplasms
+hsa-miR-155-5p,Pituitary neoplasms
+hsa-miR-155-5p,Melanoma
+hsa-miR-155-5p,Atherosclerosis
+hsa-miR-155-5p,Hepatitis B
+hsa-miR-155-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-155-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-155-5p,Thyroid adenomas
+hsa-miR-155-5p,Pulmonary tuberculosis
+hsa-miR-155-5p,Glioblastoma
+hsa-miR-155-5p,Glioblastoma multiforme
+hsa-miR-155-5p,Coronary artery disease
+hsa-miR-155-5p,Pancreatic ductal adenocarcinoma
+hsa-miR-155-5p,Pituitary adenoma
+hsa-miR-155-5p,Acute myocarditis
+hsa-miR-155-5p,Scleroderma
+hsa-miR-155-5p,Cervical cancer
+hsa-miR-155-5p,HIV
+hsa-miR-155-5p,Juvenile rheumatoid arthritis
+hsa-miR-155-5p,Hepatocellular carcinoma
+hsa-miR-155-5p,B-cell lymphoma
+hsa-miR-155-5p,Leukemic b-cells
+hsa-miR-155-5p,Hodgkin disease
+hsa-miR-155-5p,Hodgkin lymphoma
+hsa-miR-155-5p,Intermediate coronary syndrome
+hsa-miR-155-5p,Colorectal cancer
+hsa-miR-155-5p,Colorectal neoplasms
+hsa-miR-155-5p,Cardiomegaly
+hsa-miR-155-5p,Inflammation
+hsa-miR-155-5p,Lung injury
+hsa-miR-155-5p,Plaque atherosclerotic
+hsa-miR-199a-5p,Idiopathic pulmonary fibrosis
+hsa-miR-199a-5p,Multiple sclerosis chronic progressive
+hsa-miR-199a-5p,Gastric cancer
+hsa-miR-199a-5p,Stomach cancer
+hsa-miR-199a-5p,Alzheimer disease
+hsa-miR-199a-5p,Bladder cancer
+hsa-miR-199a-5p,Duchenne muscular dystrophy
+hsa-miR-199a-5p,Breast cancer
+hsa-miR-199a-5p,Breast neoplasms
+hsa-miR-199a-5p,Cancer
+hsa-miR-199a-5p,Invasive squamous cell carcinomas
+hsa-miR-199a-5p,Squamous cell carcinoma
+hsa-miR-199a-5p,Melanoma
+hsa-miR-199a-5p,Epithelial ovarian cancer
+hsa-miR-199a-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-199a-5p,Prostate adenocarcinoma
+hsa-miR-199a-5p,Endometriosis
+hsa-miR-199a-5p,malignant glioma
+hsa-miR-199a-5p,Meningioma
+hsa-miR-199a-5p,Carcinoma lung non-small-cell
+hsa-miR-199a-5p,Papillary thyroid carcinoma
+hsa-miR-199a-5p,Adenocarcinoma of esophagus
+hsa-miR-199a-5p,Intrahepatic cholangiocarcinoma
+hsa-miR-199a-5p,Gastric carcinoma
+hsa-miR-199a-5p,Head and neck squamous cell carcinoma
+hsa-miR-199a-5p,Heart failure
+hsa-miR-199a-5p,Uveal melanoma
+hsa-miR-199a-5p,Hepatocellular carcinoma
+hsa-miR-199a-5p,Colorectal cancer
+hsa-miR-199a-5p,Ovarian epithelial cancer
+hsa-miR-199a-5p,Cardiac hypertrophy
+hsa-miR-199b-5p,Medulloblastoma
+hsa-miR-199b-5p,Breast cancer
+hsa-miR-199b-5p,Breast neoplasms
+hsa-miR-199b-5p,Melanoma
+hsa-miR-199b-5p,Choriocarcinoma
+hsa-miR-199b-5p,Cervical cancer
+hsa-miR-199b-5p,Gastric carcinoma
+hsa-miR-199b-5p,Head and neck squamous cell carcinoma
+hsa-miR-199b-5p,Diabetic nephropathies
+hsa-miR-199b-5p,Cardiomegaly
+hsa-miR-125a-5p,Medulloblastoma
+hsa-miR-125a-5p,Alzheimer disease
+hsa-miR-125a-5p,Acute leukemia
+hsa-miR-125a-5p,Lung cancer
+hsa-miR-125a-5p,Breast cancer
+hsa-miR-125a-5p,Breast neoplasms
+hsa-miR-125a-5p,Vascular diseases
+hsa-miR-125a-5p,Malignant melanoma
+hsa-miR-125a-5p,Melanoma
+hsa-miR-125a-5p,Ovarian cancer
+hsa-miR-125a-5p,Ovarian neoplasms
+hsa-miR-125a-5p,Glioblastoma
+hsa-miR-125a-5p,Pancreatic ductal adenocarcinoma
+hsa-miR-125a-5p,Lung adenocarcinoma
+hsa-miR-125a-5p,Head and neck squamous cell carcinoma
+hsa-miR-125a-5p,Neuroblastoma
+hsa-miR-125a-5p,Colorectal cancer
+hsa-miR-125a-5p,Recurrent pregnancy loss
+hsa-miR-125b-5p,Oral squamous cell carcinoma
+hsa-miR-125b-5p,Medulloblastoma
+hsa-miR-125b-5p,Acute promyelocytic leukemia
+hsa-miR-125b-5p,Pediatric acute promyelocytic leukemia
+hsa-miR-125b-5p,Anaplastic thyroid cancer
+hsa-miR-125b-5p,Prostate cancer
+hsa-miR-125b-5p,Chronic lymphocytic leukemia
+hsa-miR-125b-5p,Gastric cancer
+hsa-miR-125b-5p,Stomach cancer
+hsa-miR-125b-5p,Alzheimer disease
+hsa-miR-125b-5p,Bladder cancer
+hsa-miR-125b-5p,Urinary bladder cancer
+hsa-miR-125b-5p,Ataxia telangiectasia
+hsa-miR-125b-5p,Huntington disease
+hsa-miR-125b-5p,Uterine fibroid
+hsa-miR-125b-5p,Fragile x syndrome
+hsa-miR-125b-5p,Breast cancer
+hsa-miR-125b-5p,Breast neoplasms
+hsa-miR-125b-5p,Vascular diseases
+hsa-miR-125b-5p,Melanoma
+hsa-miR-125b-5p,Williams syndrome
+hsa-miR-125b-5p,Hepatitis B
+hsa-miR-125b-5p,Ovarian cancer
+hsa-miR-125b-5p,Cerebellar disease
+hsa-miR-125b-5p,Thyroid adenomas
+hsa-miR-125b-5p,Glioblastoma
+hsa-miR-125b-5p,Glioma
+hsa-miR-125b-5p,malignant glioma
+hsa-miR-125b-5p,Osteosarcoma
+hsa-miR-125b-5p,Cervical cancer
+hsa-miR-125b-5p,Arteriosclerosis obliterans
+hsa-miR-125b-5p,Heart failure
+hsa-miR-125b-5p,Aortic valve disease
+hsa-miR-125b-5p,Early hepatocellular carcinoma
+hsa-miR-125b-5p,Hepatocellular carcinoma
+hsa-miR-125b-5p,Neuroblastoma
+hsa-miR-125b-5p,Psoriasis
+hsa-miR-125b-5p,Acute myeloid leukemia
+hsa-miR-125b-5p,Ovarian epithelial cancer
+hsa-miR-125b-5p,Serous ovarian cancer
+hsa-miR-125b-5p,Cardiac hypertrophy
+hsa-miR-125b-5p,Cerebellar neurodegeneration
+hsa-miR-125b-5p,Neuroinflammation
+hsa-miR-1271-5p,Breast cancer
+hsa-miR-134-5p,Acute promyelocytic leukemia
+hsa-miR-134-5p,Alzheimer disease
+hsa-miR-134-5p,Fragile x syndrome
+hsa-miR-134-5p,Melanoma
+hsa-miR-134-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-134-5p,Carcinoma lung non-small-cell
+hsa-miR-134-5p,Non-small cell lung cancer
+hsa-miR-134-5p,Lung adenocarcinoma
+hsa-miR-134-5p,Carcinoma renal cell
+hsa-miR-134-5p,Kidney chromophobe cancer
+hsa-miR-134-5p,Renal cell carcinoma
+hsa-miR-134-5p,Nasopharyngeal carcinoma
+hsa-miR-141-3p,Renal fibrosis
+hsa-miR-141-3p,Oral squamous cell carcinoma
+hsa-miR-141-3p,Prostate cancer
+hsa-miR-141-3p,Gastric cancer
+hsa-miR-141-3p,Stomach cancer
+hsa-miR-141-3p,Alzheimer disease
+hsa-miR-141-3p,Cancer
+hsa-miR-141-3p,Melanoma
+hsa-miR-141-3p,Ovarian cancer
+hsa-miR-141-3p,Ovarian neoplasms
+hsa-miR-141-3p,Endometrial endometrioid carcinoma
+hsa-miR-141-3p,Glioblastoma
+hsa-miR-141-3p,Cholangiocarcinoma
+hsa-miR-141-3p,Ulcerative colitis
+hsa-miR-141-3p,Crohn disease
+hsa-miR-141-3p,Colorectal cancer
+hsa-miR-141-3p,Nasopharyngeal carcinoma
+hsa-miR-141-3p,Ovarian epithelial cancer
+hsa-miR-141-3p,Prostatic neoplasms
+hsa-miR-200a-3p,Oral squamous cell carcinoma
+hsa-miR-200a-3p,Prostate cancer
+hsa-miR-200a-3p,Gastric cancer
+hsa-miR-200a-3p,Lung cancer
+hsa-miR-200a-3p,Breast cancer
+hsa-miR-200a-3p,Breast neoplasms
+hsa-miR-200a-3p,Cancer
+hsa-miR-200a-3p,Melanoma
+hsa-miR-200a-3p,Colon cancer
+hsa-miR-200a-3p,Ovarian cancer
+hsa-miR-200a-3p,Ovarian neoplasms
+hsa-miR-200a-3p,Endometrial endometrioid carcinoma
+hsa-miR-200a-3p,Glioblastoma
+hsa-miR-200a-3p,Meningioma
+hsa-miR-200a-3p,Biliary tract cancer
+hsa-miR-200a-3p,Cholangiocarcinoma
+hsa-miR-200a-3p,Early hepatocellular carcinoma
+hsa-miR-200a-3p,Hepatocellular carcinoma
+hsa-miR-200a-3p,Nasopharyngeal carcinoma
+hsa-miR-96-5p,Idiopathic pulmonary fibrosis
+hsa-miR-96-5p,Tongue squamous cell carcinoma
+hsa-miR-96-5p,Retinitis pigmentosa
+hsa-miR-96-5p,Alzheimer disease
+hsa-miR-96-5p,Breast cancer
+hsa-miR-96-5p,Breast neoplasms
+hsa-miR-96-5p,Pancreatic cancer
+hsa-miR-96-5p,Melanoma
+hsa-miR-96-5p,Hereditary spastic paraplegia
+hsa-miR-96-5p,Glioma
+hsa-miR-96-5p,Malignant glioma
+hsa-miR-96-5p,Bladder urothelial carcinoma
+hsa-miR-96-5p,Hepatocellular carcinoma
+hsa-miR-96-5p,Liver hepatocellular carcinoma
+hsa-miR-96-5p,Colorectal cancer
+hsa-miR-128-3p,Multiple sclerosis chronic progressive
+hsa-miR-128-3p,Medulloblastoma
+hsa-miR-128-3p,Acute promyelocytic leukemia
+hsa-miR-128-3p,Precursor cell lymphoblastic leukemia-lymphoma
+hsa-miR-128-3p,Neurofibromatosis 1
+hsa-miR-128-3p,Prostate cancer
+hsa-miR-128-3p,Alzheimer disease
+hsa-miR-128-3p,Breast cancer
+hsa-miR-128-3p,Breast neoplasms
+hsa-miR-128-3p,Pituitary neoplasms
+hsa-miR-128-3p,Pituitary somatomammotrophic tumor
+hsa-miR-128-3p,Melanoma
+hsa-miR-128-3p,Atherosclerosis
+hsa-miR-128-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-128-3p,Ovarian neoplasms
+hsa-miR-128-3p,Glioblastoma
+hsa-miR-128-3p,Glioma
+hsa-miR-128-3p,Malignant glioma
+hsa-miR-128-3p,Amyotrophic lateral sclerosis
+hsa-miR-128-3p,Pituitary adenoma
+hsa-miR-128-3p,Growth hormone-secreting pituitary adenoma
+hsa-miR-128-3p,Neuroblastoma
+hsa-miR-128-3p,Acute myelogenous leukemia
+hsa-miR-128-3p,Acute myeloid leukemia
+hsa-miR-128-3p,Acute lymphoblastic leukemia
+hsa-miR-128-3p,Acute lymphocytic leukemia
+hsa-miR-128-3p,Leukemia lymphoblastic acute
+hsa-miR-128-3p,Nerve degeneration
+hsa-miR-130a-3p,Multiple sclerosis chronic progressive
+hsa-miR-130a-3p,Spinocerebellar ataxia type 1
+hsa-miR-130a-3p,Myeloid neoplasm
+hsa-miR-130a-3p,Prostate carcinoma
+hsa-miR-130a-3p,Alzheimer disease
+hsa-miR-130a-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-130a-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-130a-3p,Infantile hemangioma
+hsa-miR-130a-3p,Glioma
+hsa-miR-130a-3p,Malignant glioma
+hsa-miR-130a-3p,Carcinoma lung non-small-cell
+hsa-miR-130a-3p,Non-small cell lung adenocarcinoma
+hsa-miR-130a-3p,Non-small cell lung cancer
+hsa-miR-130a-3p,Cervical cancer
+hsa-miR-130a-3p,Nasopharyngeal carcinoma
+hsa-miR-130a-3p,Diabetes mellitus
+hsa-miR-130a-3p,Type 2 diabetes mellitus
+hsa-miR-130b-3p,Idiopathic pulmonary fibrosis
+hsa-miR-130b-3p,Gastric cancer
+hsa-miR-130b-3p,Alzheimer disease
+hsa-miR-130b-3p,Bladder cancer
+hsa-miR-130b-3p,Pituitary neoplasms
+hsa-miR-130b-3p,Glioma
+hsa-miR-130b-3p,Malignant glioma
+hsa-miR-130b-3p,Pituitary adenoma
+hsa-miR-130b-3p,Carcinoma lung non-small-cell
+hsa-miR-130b-3p,Non-small cell lung adenocarcinoma
+hsa-miR-130b-3p,Hepatocellular carcinoma
+hsa-miR-130b-3p,T-cell leukemia
+hsa-miR-130b-3p,Diabetic nephropathies
+hsa-miR-148a-3p,Multiple sclerosis chronic progressive
+hsa-miR-148a-3p,Medulloblastoma
+hsa-miR-148a-3p,Castration-resistant prostate cancer
+hsa-miR-148a-3p,Prostate cancer
+hsa-miR-148a-3p,Gastric cancer
+hsa-miR-148a-3p,Stomach cancer
+hsa-miR-148a-3p,Alzheimer disease
+hsa-miR-148a-3p,Chorea
+hsa-miR-148a-3p,Breast cancer
+hsa-miR-148a-3p,Breast neoplasms
+hsa-miR-148a-3p,Intrahepatic cholestasis
+hsa-miR-148a-3p,Melanoma
+hsa-miR-148a-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-148a-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-148a-3p,Amyotrophic lateral sclerosis
+hsa-miR-148a-3p,Acute myocarditis
+hsa-miR-148a-3p,Bladder urothelial carcinoma
+hsa-miR-148a-3p,Skin cancer
+hsa-miR-148a-3p,Kidney renal clear cell carcinoma
+hsa-miR-148a-3p,Renal cell carcinoma
+hsa-miR-148a-3p,Cholangiocarcinoma
+hsa-miR-148a-3p,Aortic valve disease
+hsa-miR-148a-3p,Early hepatocellular carcinoma
+hsa-miR-148a-3p,Hepatocellular carcinoma
+hsa-miR-148a-3p,Laryngeal squamous cell carcinoma
+hsa-miR-148b-3p,Gastric cancer
+hsa-miR-148b-3p,Alzheimer disease
+hsa-miR-148b-3p,Melanoma
+hsa-miR-148b-3p,Glioma
+hsa-miR-148b-3p,Amyotrophic lateral sclerosis
+hsa-miR-148b-3p,Renal cell carcinoma
+hsa-miR-148b-3p,Early hepatocellular carcinoma
+hsa-miR-148b-3p,Hepatocellular carcinoma
+hsa-miR-148b-3p,Gastrointestinal stromal tumor
+hsa-miR-152-3p,Multiple sclerosis chronic progressive
+hsa-miR-152-3p,Prostate cancer
+hsa-miR-152-3p,Breast cancer
+hsa-miR-152-3p,Breast neoplasms
+hsa-miR-152-3p,Malignant melanoma
+hsa-miR-152-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-152-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-152-3p,Glioblastoma
+hsa-miR-152-3p,Liver neoplasms
+hsa-miR-152-3p,Lung carcinoma
+hsa-miR-152-3p,Cholangiocarcinoma
+hsa-miR-152-3p,Early hepatocellular carcinoma
+hsa-miR-152-3p,HBV+ hepatocellular carcinoma
+hsa-miR-152-3p,Hepatocellular carcinoma
+hsa-miR-152-3p,Rheumatoid arthritis
+hsa-miR-152-3p,Neuroblastoma
+hsa-miR-15a-5p,Polycystic liver disease
+hsa-miR-15a-5p,Multiple sclerosis chronic progressive
+hsa-miR-15a-5p,Estrogen-receptor positive breast cancer
+hsa-miR-15a-5p,Acute promyelocytic leukemia
+hsa-miR-15a-5p,B-cell chronic lymphocytic leukemia
+hsa-miR-15a-5p,Chronic lymphocytic leukemia
+hsa-miR-15a-5p,Endometrial cancer
+hsa-miR-15a-5p,Breast cancer
+hsa-miR-15a-5p,Breast neoplasms
+hsa-miR-15a-5p,Pituitary neoplasms
+hsa-miR-15a-5p,Pancreatic cancer
+hsa-miR-15a-5p,Malignant melanoma
+hsa-miR-15a-5p,Melanoma
+hsa-miR-15a-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-15a-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-15a-5p,Ovarian cancer
+hsa-miR-15a-5p,Glioma
+hsa-miR-15a-5p,Malignant glioma
+hsa-miR-15a-5p,Amyotrophic lateral sclerosis
+hsa-miR-15a-5p,Carcinoma lung non-small-cell
+hsa-miR-15a-5p,Non-small cell lung adenocarcinoma
+hsa-miR-15a-5p,Non-small cell lung cancer
+hsa-miR-15a-5p,Hepatocellular carcinoma
+hsa-miR-15a-5p,Chronic myeloid leukemia
+hsa-miR-15a-5p,Myeloid leukemia
+hsa-miR-15a-5p,Multiple myeloma
+hsa-miR-15a-5p,Myeloma
+hsa-miR-15b-5p,Gastric cancer
+hsa-miR-15b-5p,Alzheimer disease
+hsa-miR-15b-5p,Encephalitis japanese
+hsa-miR-15b-5p,Breast cancer
+hsa-miR-15b-5p,Pancreatic cancer
+hsa-miR-15b-5p,Malignant melanoma
+hsa-miR-15b-5p,Melanoma
+hsa-miR-15b-5p,Glioma
+hsa-miR-15b-5p,Malignant glioma
+hsa-miR-15b-5p,Amyotrophic lateral sclerosis
+hsa-miR-15b-5p,Colorectal cancer
+hsa-miR-15b-5p,Cardiac hypertrophy
+hsa-miR-15b-5p,Cardiomegaly
+hsa-miR-16-5p,Mantle cell lymphoma
+hsa-miR-16-5p,Oral squamous cell carcinoma
+hsa-miR-16-5p,Estrogen-receptor positive breast cancer
+hsa-miR-16-5p,Prostate cancer
+hsa-miR-16-5p,B-cell chronic lymphocytic leukemia
+hsa-miR-16-5p,Chronic lymphocytic leukemia
+hsa-miR-16-5p,Gastric cancer
+hsa-miR-16-5p,Stomach cancer
+hsa-miR-16-5p,Alzheimer disease
+hsa-miR-16-5p,Malaria
+hsa-miR-16-5p,Down syndrome
+hsa-miR-16-5p,Breast cancer
+hsa-miR-16-5p,Breast neoplasms
+hsa-miR-16-5p,Cancer
+hsa-miR-16-5p,Pituitary neoplasms
+hsa-miR-16-5p,Melanoma
+hsa-miR-16-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-16-5p,Ovarian cancer
+hsa-miR-16-5p,Glioblastoma
+hsa-miR-16-5p,Astrocytoma
+hsa-miR-16-5p,Glioma
+hsa-miR-16-5p,Malignant glioma
+hsa-miR-16-5p,Amyotrophic lateral sclerosis
+hsa-miR-16-5p,Carcinoma lung non small cell
+hsa-miR-16-5p,Carcinoma lung non-small-cell
+hsa-miR-16-5p,Non-small cell lung adenocarcinoma
+hsa-miR-16-5p,Non-small cell lung cancer
+hsa-miR-16-5p,Heart failure
+hsa-miR-16-5p,Juvenile rheumatoid arthritis
+hsa-miR-16-5p,Hepatocellular carcinoma
+hsa-miR-16-5p,Osteoarthritis
+hsa-miR-16-5p,Ulcerative colitis
+hsa-miR-16-5p,Colorectal cancer
+hsa-miR-16-5p,Multiple myeloma
+hsa-miR-16-5p,Stroke lacunar
+hsa-miR-195-5p,Pheochromocytoma
+hsa-miR-195-5p,Paraganglioma
+hsa-miR-195-5p,Multiple sclerosis chronic progressive
+hsa-miR-195-5p,Hirschsprung disease
+hsa-miR-195-5p,Alzheimer disease
+hsa-miR-195-5p,Bladder cancer
+hsa-miR-195-5p,Urinary bladder cancer
+hsa-miR-195-5p,Breast cancer
+hsa-miR-195-5p,Breast neoplasms
+hsa-miR-195-5p,Thyroid cancer
+hsa-miR-195-5p,Malignant melanoma
+hsa-miR-195-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-195-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-195-5p,Glioblastoma
+hsa-miR-195-5p,Osteosarcoma
+hsa-miR-195-5p,Adrenocortical cancer
+hsa-miR-195-5p,Adrenocortical carcinoma
+hsa-miR-195-5p,Renal cell carcinoma
+hsa-miR-195-5p,Schizophrenia
+hsa-miR-195-5p,Colorectal cancer
+hsa-miR-195-5p,Cardiomegaly
+hsa-miR-214-3p,Multiple sclerosis chronic progressive
+hsa-miR-214-3p,Gastric cancer
+hsa-miR-214-3p,Stomach cancer
+hsa-miR-214-3p,Alzheimer disease
+hsa-miR-214-3p,Chorea
+hsa-miR-214-3p,Parkinson disease
+hsa-miR-214-3p,Breast cancer
+hsa-miR-214-3p,Breast neoplasms
+hsa-miR-214-3p,Squamous cell carcinoma
+hsa-miR-214-3p,Vascular diseases
+hsa-miR-214-3p,Pancreatic cancer
+hsa-miR-214-3p,Melanoma
+hsa-miR-214-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-214-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-214-3p,Ovarian cancer
+hsa-miR-214-3p,Ovarian neoplasms
+hsa-miR-214-3p,Amyotrophic lateral sclerosis
+hsa-miR-214-3p,Osteosarcoma
+hsa-miR-214-3p,Non-small cell lung cancer
+hsa-miR-214-3p,Lung adenocarcinoma
+hsa-miR-214-3p,Thyroid carcinoma
+hsa-miR-214-3p,Cervical cancer
+hsa-miR-214-3p,Intrahepatic cholangiocarcinoma
+hsa-miR-214-3p,Heart failure
+hsa-miR-214-3p,Pulmonary hypertension
+hsa-miR-214-3p,Hepatocellular carcinoma
+hsa-miR-214-3p,Multiple myeloma
+hsa-miR-214-3p,Cardiomegaly
+hsa-miR-218-5p,Medulloblastoma
+hsa-miR-218-5p,Prostate cancer
+hsa-miR-218-5p,Gastric cancer
+hsa-miR-218-5p,Stomach cancer
+hsa-miR-218-5p,Bladder cancer
+hsa-miR-218-5p,Pancreatic cancer
+hsa-miR-218-5p,Astrocytoma
+hsa-miR-218-5p,Glioma
+hsa-miR-218-5p,malignant glioma
+hsa-miR-218-5p,Epilepsy temporal lobe
+hsa-miR-218-5p,Lung carcinoma
+hsa-miR-218-5p,Carcinoma lung non-small-cell
+hsa-miR-218-5p,Non-small cell lung cancer
+hsa-miR-218-5p,Acute myocardial infarction
+hsa-miR-218-5p,Uterine cervical neoplasms
+hsa-miR-218-5p,Cardiac hypertrophy
+hsa-miR-218-5p,Prostatic neoplasms
+hsa-miR-219a-5p,Multiple sclerosis chronic progressive
+hsa-miR-219a-5p,Medulloblastoma
+hsa-miR-219a-5p,Alzheimer disease
+hsa-miR-219a-5p,Breast cancer
+hsa-miR-219a-5p,Epilepsy
+hsa-miR-219a-5p,Melanoma
+hsa-miR-219a-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-219a-5p,Glioblastoma
+hsa-miR-219a-5p,Astrocytoma
+hsa-miR-219a-5p,Chordoma
+hsa-miR-219a-5p,Hepatocellular carcinoma
+hsa-miR-219a-5p,Neuroblastoma
+hsa-miR-301a-3p,Alzheimer disease
+hsa-miR-301a-3p,Vogt-koyanagi-harada disease
+hsa-miR-301a-3p,Lung cancer
+hsa-miR-301a-3p,Breast cancer
+hsa-miR-301a-3p,Breast neoplasms
+hsa-miR-301a-3p,Pancreatic cancer
+hsa-miR-301a-3p,Chronic pain
+hsa-miR-338-3p,Multiple sclerosis chronic progressive
+hsa-miR-338-3p,Colorectal carcinoma
+hsa-miR-338-3p,Gastric cancer
+hsa-miR-338-3p,Alzheimer disease
+hsa-miR-338-3p,Neurodegenerative diseases
+hsa-miR-338-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-338-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-338-3p,Osteosarcoma
+hsa-miR-338-3p,Cervical cancer
+hsa-miR-338-3p,Hepatocellular carcinoma
+hsa-miR-338-3p,Prostatic neoplasms
+hsa-miR-3619-5p,Prostate cancer
+hsa-miR-424-5p,Triple negative breast cancer
+hsa-miR-424-5p,Chronic lymphocytic leukemia
+hsa-miR-424-5p,Gastric cancer
+hsa-miR-424-5p,Alzheimer disease
+hsa-miR-424-5p,Pancreatic cancer
+hsa-miR-424-5p,Renal cell carcinoma
+hsa-miR-424-5p,Intrahepatic cholangiocarcinoma
+hsa-miR-424-5p,Aortic valve disease
+hsa-miR-424-5p,Esophageal squamous cell carcinoma
+hsa-miR-424-5p,Cardiomegaly
+hsa-miR-424-5p,Stroke lacunar
+hsa-miR-4295,Bladder cancer
+hsa-miR-4295,Malignant glioma
+hsa-miR-454-3p,Cervical cancer
+hsa-miR-454-3p,Renal carcinoma
+hsa-miR-497-5p,Multiple sclerosis chronic progressive
+hsa-miR-497-5p,Alzheimer disease
+hsa-miR-497-5p,Breast cancer
+hsa-miR-497-5p,Breast neoplasms
+hsa-miR-497-5p,Malignant melanoma
+hsa-miR-497-5p,Melanoma
+hsa-miR-497-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-497-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-497-5p,Uterine cervical neoplasms
+hsa-miR-539-5p,Glioma
+hsa-miR-539-5p,Hepatocellular carcinoma
+hsa-miR-761,Breast cancer
+hsa-miR-135a-5p,Multiple sclerosis chronic progressive
+hsa-miR-135a-5p,Medulloblastoma
+hsa-miR-135a-5p,Gastric cancer
+hsa-miR-135a-5p,Alzheimer disease
+hsa-miR-135a-5p,Bladder cancer
+hsa-miR-135a-5p,Melanoma
+hsa-miR-135a-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-135a-5p,Thyroid adenomas
+hsa-miR-135a-5p,malignant glioma
+hsa-miR-135a-5p,Hepatocellular carcinoma
+hsa-miR-135a-5p,Liver hepatocellular carcinoma
+hsa-miR-135a-5p,Classic hodgkin lymphoma
+hsa-miR-135a-5p,Hodgkin lymphoma
+hsa-miR-135a-5p,Colorectal cancer
+hsa-miR-135a-5p,Wounds and injuries
+hsa-miR-135b-5p,Alzheimer disease
+hsa-miR-135b-5p,Breast cancer
+hsa-miR-135b-5p,Breast neoplasms
+hsa-miR-135b-5p,Melanoma
+hsa-miR-135b-5p,Atherosclerosis
+hsa-miR-135b-5p,Thyroid adenomas
+hsa-miR-135b-5p,Glioma
+hsa-miR-135b-5p,Malignant glioma
+hsa-miR-135b-5p,Peutz-jeghers syndrome
+hsa-miR-135b-5p,Carcinoma lung non-small-cell
+hsa-miR-135b-5p,Colorectal cancer
+hsa-miR-135b-5p,Wounds and injuries
+hsa-miR-139-5p,Oral squamous cell carcinoma
+hsa-miR-139-5p,Gastric cancer
+hsa-miR-139-5p,Stomach cancer
+hsa-miR-139-5p,Bladder cancer
+hsa-miR-139-5p,Urinary bladder cancer
+hsa-miR-139-5p,Primary biliary cirrhosis
+hsa-miR-139-5p,Uterine fibroid
+hsa-miR-139-5p,Endometrial cancer
+hsa-miR-139-5p,Breast cancer
+hsa-miR-139-5p,Breast neoplasms
+hsa-miR-139-5p,Melanoma
+hsa-miR-139-5p,Ovarian cancer
+hsa-miR-139-5p,Glioblastoma
+hsa-miR-139-5p,Glioma
+hsa-miR-139-5p,Malignant glioma
+hsa-miR-139-5p,Osteosarcoma
+hsa-miR-139-5p,Clear cell renal cell carcinoma
+hsa-miR-139-5p,Renal clear cell carcinoma
+hsa-miR-139-5p,Gallbladder carcinoma
+hsa-miR-139-5p,Hepatocellular carcinoma
+hsa-miR-139-5p,Chronic myeloid leukemia
+hsa-miR-139-5p,Colorectal cancer
+hsa-miR-139-5p,Cardiomegaly
+hsa-miR-182-5p,Oral squamous cell carcinoma
+hsa-miR-182-5p,Triple negative breast cancer
+hsa-miR-182-5p,Prostate cancer
+hsa-miR-182-5p,Bladder cancer
+hsa-miR-182-5p,Lung cancer
+hsa-miR-182-5p,Breast cancer
+hsa-miR-182-5p,Breast neoplasms
+hsa-miR-182-5p,Melanoma
+hsa-miR-182-5p,Hereditary spastic paraplegia
+hsa-miR-182-5p,Lung adenocarcinoma
+hsa-miR-182-5p,Cholangiocarcinoma
+hsa-miR-182-5p,Hepatocellular carcinoma
+hsa-miR-182-5p,Uterine cervical neoplasms
+hsa-miR-182-5p,Prostatic neoplasms
+hsa-miR-196a-5p,Oral squamous cell carcinoma
+hsa-miR-196a-5p,Gastric cancer
+hsa-miR-196a-5p,Adrenoleukodystrophy
+hsa-miR-196a-5p,Vitiligo
+hsa-miR-196a-5p,Acute leukemia
+hsa-miR-196a-5p,Huntington disease
+hsa-miR-196a-5p,Chorea
+hsa-miR-196a-5p,Breast cancer
+hsa-miR-196a-5p,Breast neoplasms
+hsa-miR-196a-5p,Congenital heart disease
+hsa-miR-196a-5p,Pancreatic endocrine carcinoma
+hsa-miR-196a-5p,Malignant melanoma
+hsa-miR-196a-5p,Melanoma
+hsa-miR-196a-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-196a-5p,Endometriosis
+hsa-miR-196a-5p,Glioblastoma
+hsa-miR-196a-5p,Osteosarcoma
+hsa-miR-196a-5p,Pancreatic ductal adenocarcinoma
+hsa-miR-196a-5p,Scleroderma
+hsa-miR-196a-5p,Esophageal adenocarcinoma
+hsa-miR-196a-5p,Esophageal cancer
+hsa-miR-196a-5p,Colorectal cancer
+hsa-miR-196b-5p,Acute leukemia
+hsa-miR-196b-5p,Breast cancer
+hsa-miR-196b-5p,Hypoxia
+hsa-miR-216a-5p,Alzheimer disease
+hsa-miR-216a-5p,Osteoporosis
+hsa-miR-216a-5p,Melanoma
+hsa-miR-216a-5p,Pancreatic adenocarcinoma
+hsa-miR-216a-5p,Renal cell carcinoma
+hsa-miR-216a-5p,Uveal melanoma
+hsa-miR-326,Multiple sclerosis chronic progressive
+hsa-miR-326,Medulloblastoma
+hsa-miR-326,Gastric cancer
+hsa-miR-326,Brain cancer
+hsa-miR-326,Brain neoplasms
+hsa-miR-326,Lung cancer
+hsa-miR-326,Lung neoplasms
+hsa-miR-326,Breast cancer
+hsa-miR-326,Breast neoplasms
+hsa-miR-326,Colon neoplasms
+hsa-miR-326,Multiple sclerosis
+hsa-miR-326,Multiple sclerosis relapsing-remitting
+hsa-miR-326,Relapsing-remitting multiple sclerosis
+hsa-miR-326,Glioma
+hsa-miR-326,Malignant glioma
+hsa-miR-326,Lung fibrosis
+hsa-miR-326,Cervical cancer
+hsa-miR-326,Hepatocellular carcinoma
+hsa-miR-326,Diabetes mellitus type 1
+hsa-miR-326,Type 1 diabetes mellitus
+hsa-miR-326,Osteosarcoma
+hsa-miR-330-5p,Prostate cancer
+hsa-miR-330-5p,Glioblastoma
+hsa-miR-330-5p,Non-small cell lung cancer
+hsa-miR-330-5p,Esophagus adenocarcinoma
+hsa-miR-340-5p,Multiple sclerosis chronic progressive
+hsa-miR-340-5p,Rheumatic heart diseases
+hsa-miR-340-5p,Medulloblastoma
+hsa-miR-340-5p,Gastric cancer
+hsa-miR-340-5p,Stomach cancer
+hsa-miR-340-5p,Alzheimer disease
+hsa-miR-340-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-340-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-340-5p,Colorectal cancer
+hsa-miR-371a-5p,Lupus nephritis
+hsa-miR-371a-5p,Gastric cancer
+hsa-miR-371a-5p,Nasopharyngeal carcinoma
+hsa-miR-384,Alzheimer disease
+hsa-miR-384,Breast cancer
+hsa-miR-384,Papillary thyroid carcinoma
+hsa-miR-384,Hepatocellular carcinoma
+hsa-miR-384,myocardial ischaemia-reperfusion (I/R) injury
+hsa-miR-384,Myocardial ischemia
+hsa-miR-544a,Lung cancer
+hsa-miR-544a,Liver cancer
+hsa-miR-544a,Colorectal cancer
+hsa-miR-758-3p,Hepatitis C
+hsa-miR-181a-5p,Oral squamous cell carcinoma
+hsa-miR-181a-5p,Lymphoma non-hodgkin
+hsa-miR-181a-5p,Non-hodgkin lymphoma
+hsa-miR-181a-5p,B-cell chronic lymphocytic leukemia
+hsa-miR-181a-5p,Chronic lymphocytic leukemia
+hsa-miR-181a-5p,Gastric cancer
+hsa-miR-181a-5p,Alzheimer disease
+hsa-miR-181a-5p,Breast cancer
+hsa-miR-181a-5p,Breast neoplasms
+hsa-miR-181a-5p,Thyroid cancer
+hsa-miR-181a-5p,Pancreatic cancer
+hsa-miR-181a-5p,Melanoma
+hsa-miR-181a-5p,Lesch-nyhan syndrome
+hsa-miR-181a-5p,Cerebellar disease
+hsa-miR-181a-5p,Glioblastoma
+hsa-miR-181a-5p,Glioma
+hsa-miR-181a-5p,Malignant glioma
+hsa-miR-181a-5p,Non-small cell lung cancer
+hsa-miR-181a-5p,Cholangiocarcinoma
+hsa-miR-181a-5p,Hepatocellular carcinoma
+hsa-miR-181a-5p,Neuroblastoma
+hsa-miR-181a-5p,Myeloid leukemia
+hsa-miR-181a-5p,Acute myelocytic leukemia
+hsa-miR-181a-5p,Acute myelogenous leukemia
+hsa-miR-181a-5p,Acute myeloid leukemia
+hsa-miR-181a-5p,Colorectal cancer
+hsa-miR-181a-5p,Multiple myeloma
+hsa-miR-181a-5p,Graft vs host disease
+hsa-miR-181a-5p,Keloid
+hsa-miR-181a-5p,Cerebellar neurodegeneration
+hsa-miR-181b-5p,Multiple sclerosis chronic progressive
+hsa-miR-181b-5p,Oral carcinoma
+hsa-miR-181b-5p,Prostate cancer
+hsa-miR-181b-5p,B-cell chronic lymphocytic leukemia
+hsa-miR-181b-5p,Chronic lymphocytic leukemia
+hsa-miR-181b-5p,Alzheimer disease
+hsa-miR-181b-5p,Breast cancer
+hsa-miR-181b-5p,Breast neoplasms
+hsa-miR-181b-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-181b-5p,Glioblastoma
+hsa-miR-181b-5p,Astrocytoma
+hsa-miR-181b-5p,Glioma
+hsa-miR-181b-5p,Malignant glioma
+hsa-miR-181b-5p,Neuroblastoma
+hsa-miR-181b-5p,Chronic myelogenous leukemia
+hsa-miR-181b-5p,Mouth neoplasms
+hsa-miR-181b-5p,Acute myelogenous leukemia
+hsa-miR-181b-5p,Acute myeloid leukemia
+hsa-miR-181b-5p,Colorectal cancer
+hsa-miR-181b-5p,Multiple myeloma
+hsa-miR-181b-5p,Prostatic neoplasms
+hsa-miR-181c-5p,Multiple sclerosis chronic progressive
+hsa-miR-181c-5p,Gastric cancer
+hsa-miR-181c-5p,Pancreatic cancer
+hsa-miR-181c-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-181c-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-181c-5p,Glioblastoma
+hsa-miR-181c-5p,Glioma
+hsa-miR-181c-5p,Malignant glioma
+hsa-miR-181c-5p,Myasthenia gravis autoimmune experimental
+hsa-miR-181c-5p,Inflammatory breast neoplasms
+hsa-miR-181d-5p,Multiple sclerosis chronic progressive
+hsa-miR-181d-5p,Gastric cancer
+hsa-miR-181d-5p,Stomach cancer
+hsa-miR-181d-5p,Alzheimer disease
+hsa-miR-181d-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-181d-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-181d-5p,Glioma
+hsa-miR-181d-5p,Malignant glioma
+hsa-miR-197-3p,Gastric cancer
+hsa-miR-197-3p,Stomach cancer
+hsa-miR-197-3p,Uterine fibroid
+hsa-miR-197-3p,Lung cancer
+hsa-miR-197-3p,Breast cancer
+hsa-miR-197-3p,Breast neoplasms
+hsa-miR-197-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-197-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-197-3p,Follicular thyroid carcinoma
+hsa-miR-4262,Colon cancer
+hsa-miR-494-3p,Alzheimer disease
+hsa-miR-494-3p,Leukemia
+hsa-miR-494-3p,Pancreatic cancer
+hsa-miR-494-3p,Hepatocellular carcinoma
+hsa-miR-494-3p,Mouth neoplasms
+hsa-miR-494-3p,Ovarian epithelial cancer
+hsa-miR-503-5p,Breast cancer
+hsa-miR-503-5p,Breast neoplasms
+hsa-miR-503-5p,Squamous cell carcinoma
+hsa-miR-503-5p,Glioblastoma
+hsa-miR-503-5p,Osteosarcoma
+hsa-miR-200b-3p,Triple negative breast cancer
+hsa-miR-200b-3p,Androgen-independent prostate cancer
+hsa-miR-200b-3p,Prostate cancer
+hsa-miR-200b-3p,Gastric cancer
+hsa-miR-200b-3p,Stomach cancer
+hsa-miR-200b-3p,Bladder cancer
+hsa-miR-200b-3p,Urinary bladder cancer
+hsa-miR-200b-3p,Lung cancer
+hsa-miR-200b-3p,Breast cancer
+hsa-miR-200b-3p,Breast neoplasms
+hsa-miR-200b-3p,Cancer
+hsa-miR-200b-3p,Melanoma
+hsa-miR-200b-3p,Colon cancer
+hsa-miR-200b-3p,Endometrial adenocarcinoma
+hsa-miR-200b-3p,Endometrial endometrioid carcinoma
+hsa-miR-200b-3p,Endometriosis
+hsa-miR-200b-3p,Glioblastoma
+hsa-miR-200b-3p,Biliary tract cancer
+hsa-miR-200b-3p,Cholangiocarcinoma
+hsa-miR-200b-3p,Ulcerative colitis
+hsa-miR-200b-3p,Crohn disease
+hsa-miR-200b-3p,Colorectal cancer
+hsa-miR-200b-3p,Autoimmune diseases
+hsa-miR-200b-3p,Graft vs host disease
+hsa-miR-200b-3p,Prostatic neoplasms
+hsa-miR-200b-3p,Cholestatic liver injury
+hsa-miR-200b-3p,Esophageal squamous cell carcinoma
+hsa-miR-200c-3p,Idiopathic pulmonary fibrosis
+hsa-miR-200c-3p,Multiple sclerosis chronic progressive
+hsa-miR-200c-3p,Gastric cancer
+hsa-miR-200c-3p,Stomach cancer
+hsa-miR-200c-3p,Alzheimer disease
+hsa-miR-200c-3p,Bladder cancer
+hsa-miR-200c-3p,Urinary bladder cancer
+hsa-miR-200c-3p,Huntington disease
+hsa-miR-200c-3p,Lung cancer
+hsa-miR-200c-3p,Endometrial cancer
+hsa-miR-200c-3p,Primary pulmonary hypertension
+hsa-miR-200c-3p,Breast cancer
+hsa-miR-200c-3p,Breast neoplasms
+hsa-miR-200c-3p,Cancer
+hsa-miR-200c-3p,Pancreatic cancer
+hsa-miR-200c-3p,Hepatitis C
+hsa-miR-200c-3p,Melanoma
+hsa-miR-200c-3p,Williams syndrome
+hsa-miR-200c-3p,Colon cancer
+hsa-miR-200c-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-200c-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-200c-3p,Endometrial adenocarcinoma
+hsa-miR-200c-3p,Endometrial carcinoma
+hsa-miR-200c-3p,Endometrial endometrioid carcinoma
+hsa-miR-200c-3p,Glioblastoma
+hsa-miR-200c-3p,Glioma
+hsa-miR-200c-3p,Malignant glioma
+hsa-miR-200c-3p,Non-small cell lung cancer
+hsa-miR-200c-3p,Biliary tract cancer
+hsa-miR-200c-3p,Cholangiocarcinoma
+hsa-miR-200c-3p,Uterus leiomyosarcoma
+hsa-miR-200c-3p,Ovarian endometrial cancer
+hsa-miR-200c-3p,Colorectal cancer
+hsa-miR-200c-3p,Nasopharynx carcinoma
+hsa-miR-429,Colorectal carcinoma
+hsa-miR-429,Fatty liver non-alcoholic
+hsa-miR-429,Prostate cancer
+hsa-miR-429,Gastric cancer
+hsa-miR-429,Gastric neoplasms
+hsa-miR-429,Stomach cancer
+hsa-miR-429,Alzheimer disease
+hsa-miR-429,Bladder cancer
+hsa-miR-429,Urinary bladder cancer
+hsa-miR-429,Urinary bladder neoplasms
+hsa-miR-429,Carcinoma esophageal
+hsa-miR-429,Lung cancer
+hsa-miR-429,Endometrial cancer
+hsa-miR-429,Endometrial neoplasms
+hsa-miR-429,Breast cancer
+hsa-miR-429,Breast neoplasms
+hsa-miR-429,Cancer
+hsa-miR-429,Neoplasms
+hsa-miR-429,Pancreatic cancer
+hsa-miR-429,Pancreatic neoplasms
+hsa-miR-429,Malignant melanoma
+hsa-miR-429,Melanoma
+hsa-miR-429,Nephroblastoma
+hsa-miR-429,Ovarian cancer
+hsa-miR-429,Ovarian neoplasms
+hsa-miR-429,Endometrial endometrioid carcinoma
+hsa-miR-429,Glomerulonephritis
+hsa-miR-429,Glioblastoma
+hsa-miR-429,Astrocytoma
+hsa-miR-429,Glioma
+hsa-miR-429,Malignant glioma
+hsa-miR-429,Osteosarcoma
+hsa-miR-429,Mesenchymal cancer
+hsa-miR-429,Mesenchymal cell neoplasm
+hsa-miR-429,Adenocarcinoma pancreatic ductal
+hsa-miR-429,Liver cancer
+hsa-miR-429,Liver neoplasms
+hsa-miR-429,Lung adenocarcinoma
+hsa-miR-429,Carcinoma renal cell
+hsa-miR-429,Renal cell carcinoma
+hsa-miR-429,Biliary tract cancer
+hsa-miR-429,Carcinoma ehrlich tumor
+hsa-miR-429,Ehrlich tumor carcinoma
+hsa-miR-429,Carcinoma hepatocellular
+hsa-miR-429,Hepatocellular carcinoma
+hsa-miR-429,Ulcerative colitis
+hsa-miR-429,Mouth neoplasms
+hsa-miR-429,Crohn disease
+hsa-miR-429,Colorectal cancer
+hsa-miR-429,Colorectal neoplasms
+hsa-miR-429,Myocardial ischemia
+hsa-miR-185-5p,Idiopathic pulmonary fibrosis
+hsa-miR-185-5p,Prostate cancer
+hsa-miR-185-5p,Melanoma
+hsa-miR-185-5p,Glioblastoma
+hsa-miR-185-5p,Non-small cell lung cancer
+hsa-miR-185-5p,Early hepatocellular carcinoma
+hsa-miR-185-5p,Hepatocellular carcinoma
+hsa-miR-185-5p,Neuroblastoma
+hsa-miR-185-5p,Colorectal cancer
+hsa-miR-185-5p,Cardiomegaly
+hsa-miR-4306,Breast neoplasms
+hsa-miR-455-5p,Alzheimer disease
+hsa-miR-455-5p,Colon cancer
+hsa-miR-455-5p,Hepatocellular carcinoma
+hsa-miR-24-3p,Multiple sclerosis chronic progressive
+hsa-miR-24-3p,Tongue squamous cell carcinoma
+hsa-miR-24-3p,Oral squamous cell carcinoma
+hsa-miR-24-3p,Alzheimer disease
+hsa-miR-24-3p,Bladder cancer
+hsa-miR-24-3p,Lung cancer
+hsa-miR-24-3p,Glioblastoma
+hsa-miR-24-3p,Astrocytoma
+hsa-miR-24-3p,Osteosarcoma
+hsa-miR-24-3p,Lung small cell carcinoma
+hsa-miR-24-3p,Small cell lung cancer
+hsa-miR-24-3p,Schizophrenia
+hsa-miR-24-3p,Heart failure
+hsa-miR-24-3p,Hepatocellular carcinoma
+hsa-miR-24-3p,Hodgkin lymphoma
+hsa-miR-24-3p,Acute myeloid leukemia
+hsa-miR-24-3p,Colorectal cancer
+hsa-miR-24-3p,Colorectal neoplasms
+hsa-miR-24-3p,Cardiac hypertrophy
+hsa-miR-24-3p,Vesicular stomatitis
+hsa-miR-150-5p,Medulloblastoma
+hsa-miR-150-5p,Lymphoma
+hsa-miR-150-5p,Malignant lymphoma
+hsa-miR-150-5p,Chronic lymphocytic leukemia
+hsa-miR-150-5p,Osteoporosis
+hsa-miR-150-5p,Non-small cell lung cancer
+hsa-miR-150-5p,Papillary thyroid carcinoma
+hsa-miR-150-5p,Neuroblastoma
+hsa-miR-150-5p,Esophageal squamous cell carcinoma
+hsa-miR-150-5p,Cardiomegaly
+hsa-miR-136-5p,Breast cancer
+hsa-miR-136-5p,Breast neoplasms
+hsa-miR-136-5p,Colon cancer
+hsa-miR-136-5p,Glioma
+hsa-miR-136-5p,Malignant glioma
+hsa-miR-136-5p,Lung adenocarcinoma
+hsa-miR-136-5p,Osteoarthritis
+hsa-miR-136-5p,Ischemia/reperfusion injury
+hsa-miR-122-5p,Disease of metabolism
+hsa-miR-122-5p,Gastric cancer
+hsa-miR-122-5p,Primary biliary cirrhosis
+hsa-miR-122-5p,Cardiovascular disease
+hsa-miR-122-5p,Breast cancer
+hsa-miR-122-5p,Breast neoplasms
+hsa-miR-122-5p,HCV
+hsa-miR-122-5p,Hepatitis B
+hsa-miR-122-5p,Glioma
+hsa-miR-122-5p,Malignant glioma
+hsa-miR-122-5p,Pancreatic ductal adenocarcinoma
+hsa-miR-122-5p,Early hepatocellular carcinoma
+hsa-miR-122-5p,HBV+ hepatocellular carcinoma
+hsa-miR-122-5p,Hepatocelluar carcinoma
+hsa-miR-122-5p,Hepatocellular carcinoma
+hsa-miR-122-5p,Osteoarthritis
+hsa-miR-122-5p,Type 2 diabetes mellitus
+hsa-miR-122-5p,Fatty liver disease
+hsa-miR-122-5p,Infection
+hsa-miR-122-5p,Acute liver failure
+hsa-miR-122-5p,Liver failure acute
+hsa-miR-122-5p,Non-alcoholic fatty liver disease
+hsa-miR-421,Gastric cancer
+hsa-miR-421,Gastric neoplasms
+hsa-miR-421,Stomach cancer
+hsa-miR-421,Hypertension
+hsa-miR-421,Heart disease
+hsa-miR-421,Ataxia telangiectasia
+hsa-miR-421,Squamous cell carcinoma
+hsa-miR-421,Pulmonary tuberculosis
+hsa-miR-421,Tuberculosis pulmonary
+hsa-miR-421,Gastrointestinal neoplasms
+hsa-miR-421,Squamous cell carcinoma skin or unspecific
+hsa-miR-421,Osteosarcoma
+hsa-miR-421,Gastric carcinoma
+hsa-miR-421,Stomach carcinoma
+hsa-miR-421,Carcinoma hepatocellular
+hsa-miR-421,Hepatocellular carcinoma
+hsa-miR-421,Neuroblastoma
+hsa-miR-505-3p,Alzheimer disease
+hsa-miR-505-3p,Hypertension
+hsa-miR-374a-5p,Alzheimer disease
+hsa-miR-374a-5p,Melanoma
+hsa-miR-374a-5p,Osteosarcoma
+hsa-miR-374b-5p,Alzheimer disease
+hsa-miR-374b-5p,Stroke lacunar
+hsa-miR-124-3p,Inflammatory bowel disease
+hsa-miR-124-3p,Multiple sclerosis chronic progressive
+hsa-miR-124-3p,Oral squamous cell carcinoma
+hsa-miR-124-3p,Medulloblastoma
+hsa-miR-124-3p,Precursor cell lymphoblastic leukemia-lymphoma
+hsa-miR-124-3p,Chronic lymphocytic leukemia
+hsa-miR-124-3p,Alzheimer disease
+hsa-miR-124-3p,Alzheimer disease susceptibility to
+hsa-miR-124-3p,Bladder cancer
+hsa-miR-124-3p,Seizures
+hsa-miR-124-3p,Chorea
+hsa-miR-124-3p,Lung cancer
+hsa-miR-124-3p,Fragile x syndrome
+hsa-miR-124-3p,Parkinson disease
+hsa-miR-124-3p,Breast cancer
+hsa-miR-124-3p,Breast neoplasms
+hsa-miR-124-3p,Cancer
+hsa-miR-124-3p,Hepatitis C
+hsa-miR-124-3p,Melanoma
+hsa-miR-124-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-124-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-124-3p,Cerebellar disease
+hsa-miR-124-3p,Glioblastoma
+hsa-miR-124-3p,Astrocytoma
+hsa-miR-124-3p,Glioma
+hsa-miR-124-3p,malignant glioma
+hsa-miR-124-3p,Teratocarcinoma
+hsa-miR-124-3p,Osteosarcoma
+hsa-miR-124-3p,Ewing sarcoma
+hsa-miR-124-3p,Carcinoma lung non-small-cell
+hsa-miR-124-3p,Non-small cell lung cancer
+hsa-miR-124-3p,Cervical cancer
+hsa-miR-124-3p,Renal clear cell carcinoma
+hsa-miR-124-3p,Cholangiocarcinoma
+hsa-miR-124-3p,Uveal melanoma
+hsa-miR-124-3p,Bladder transitional cell carcinoma
+hsa-miR-124-3p,Progressive supranuclear palsy
+hsa-miR-124-3p,Hepatocellular carcinoma
+hsa-miR-124-3p,Retinoblastoma
+hsa-miR-124-3p,Neuroblastoma
+hsa-miR-124-3p,Tongue cancer
+hsa-miR-124-3p,Colorectal cancer
+hsa-miR-124-3p,Nasopharyngeal carcinoma
+hsa-miR-124-3p,Leukemia lymphoblastic acute
+hsa-miR-124-3p,Uterine cervical neoplasms
+hsa-miR-124-3p,Cerebellar neurodegeneration
+hsa-miR-124-3p,Cholestatic liver injury
+hsa-miR-27a-3p,Multiple sclerosis chronic progressive
+hsa-miR-27a-3p,Gastric cancer
+hsa-miR-27a-3p,Stomach cancer
+hsa-miR-27a-3p,Alzheimer disease
+hsa-miR-27a-3p,Hand foot and mouth disease
+hsa-miR-27a-3p,Osteoporosis
+hsa-miR-27a-3p,Leukemia
+hsa-miR-27a-3p,Uterine fibroid
+hsa-miR-27a-3p,Breast cancer
+hsa-miR-27a-3p,Breast neoplasms
+hsa-miR-27a-3p,Melanoma
+hsa-miR-27a-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-27a-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-27a-3p,Ovarian cancer
+hsa-miR-27a-3p,Gastric adenocarcinoma
+hsa-miR-27a-3p,Pancreatic adenocarcinoma
+hsa-miR-27a-3p,Early hepatocellular carcinoma
+hsa-miR-27a-3p,Hepatocellular carcinoma
+hsa-miR-27a-3p,Rheumatoid arthritis
+hsa-miR-27a-3p,Colorectal cancer
+hsa-miR-27a-3p,Nasopharyngeal carcinoma
+hsa-miR-27a-3p,Diabetes mellitus
+hsa-miR-27a-3p,Type 2 diabetes mellitus
+hsa-miR-27a-3p,Esophageal squamous cell carcinoma
+hsa-miR-27a-3p,Cardiomegaly
+hsa-miR-27b-3p,Multiple sclerosis chronic progressive
+hsa-miR-27b-3p,Gastric cancer
+hsa-miR-27b-3p,Stomach cancer
+hsa-miR-27b-3p,Alzheimer disease
+hsa-miR-27b-3p,Primary pulmonary hypertension
+hsa-miR-27b-3p,Breast cancer
+hsa-miR-27b-3p,Breast neoplasms
+hsa-miR-27b-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-27b-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-27b-3p,Glioma
+hsa-miR-27b-3p,Malignant glioma
+hsa-miR-27b-3p,Cholangiocarcinoma
+hsa-miR-27b-3p,Diabetes mellitus
+hsa-miR-27b-3p,Type 2 diabetes mellitus
+hsa-miR-27b-3p,Cardiomegaly
+hsa-miR-362-3p,Gastric cancer
+hsa-miR-362-3p,Breast cancer
+hsa-miR-362-3p,Breast neoplasms
+hsa-miR-362-3p,Hepatocellular carcinoma
+hsa-miR-362-3p,Colorectal cancer
+hsa-miR-495-3p,Gastric cancer
+hsa-miR-495-3p,Stomach cancer
+hsa-miR-495-3p,Leukemia
+hsa-miR-495-3p,Breast cancer
+hsa-miR-495-3p,Breast neoplasms
+hsa-miR-495-3p,Osteosarcoma
+hsa-miR-495-3p,Coronary artery disease
+hsa-miR-495-3p,Acute myeloid leukemia with mixed lineage leukemia
+hsa-miR-495-3p,Ovarian epithelial cancer
+hsa-miR-142-3p,Multiple sclerosis chronic progressive
+hsa-miR-142-3p,Precursor cell lymphoblastic leukemia-lymphoma
+hsa-miR-142-3p,Breast cancer
+hsa-miR-142-3p,Breast neoplasms
+hsa-miR-142-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-142-3p,Ovarian cancer
+hsa-miR-142-3p,Asthma
+hsa-miR-142-3p,Kidney diseases
+hsa-miR-142-3p,Hepatocellular carcinoma
+hsa-miR-142-3p,Osteoarthritis
+hsa-miR-142-3p,Acute myeloid leukemia
+hsa-miR-140-5p,Multiple sclerosis chronic progressive
+hsa-miR-140-5p,Gastric cancer
+hsa-miR-140-5p,Alzheimer disease
+hsa-miR-140-5p,Urinary bladder cancer
+hsa-miR-140-5p,Primary pulmonary hypertension
+hsa-miR-140-5p,Breast cancer
+hsa-miR-140-5p,Squamous cell carcinoma
+hsa-miR-140-5p,Melanoma
+hsa-miR-140-5p,Multiple sclerosis
+hsa-miR-140-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-140-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-140-5p,Ovarian cancer
+hsa-miR-140-5p,Glioma
+hsa-miR-140-5p,Malignant glioma
+hsa-miR-140-5p,Liver cancer
+hsa-miR-140-5p,Retinoblastoma
+hsa-miR-140-5p,Cardiomegaly
+hsa-miR-140-5p,Hypopharyngeal carcinoma
+hsa-miR-140-5p,Hypopharyngeal squamous cell carcinoma
+hsa-miR-365a-3p,Multiple sclerosis chronic progressive
+hsa-miR-365a-3p,Lung cancer
+hsa-miR-365a-3p,Squamous cell carcinoma
+hsa-miR-365a-3p,Vascular diseases
+hsa-miR-365a-3p,Colon cancer
+hsa-miR-365a-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-365a-3p,Lung adenocarcinoma
+hsa-miR-1297,Oral squamous cell carcinoma
+hsa-miR-1297,Prostate cancer
+hsa-miR-1297,Gastric cancer
+hsa-miR-1297,Stomach cancer
+hsa-miR-1297,Lung cancer
+hsa-miR-1297,Lung neoplasms
+hsa-miR-1297,Pancreatic cancer
+hsa-miR-1297,Liver cancer
+hsa-miR-1297,Pancreatic adenocarcinoma
+hsa-miR-1297,Cervical cancer
+hsa-miR-18a-5p,Multiple sclerosis chronic progressive
+hsa-miR-18a-5p,Triple negative breast cancer
+hsa-miR-18a-5p,Thyroid carcinoma anaplastic
+hsa-miR-18a-5p,Carotid stenosis
+hsa-miR-18a-5p,Lung cancer
+hsa-miR-18a-5p,Breast cancer
+hsa-miR-18a-5p,Breast neoplasms
+hsa-miR-18a-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-18a-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-18a-5p,Non-small cell lung cancer
+hsa-miR-18a-5p,Renal cell carcinoma
+hsa-miR-18a-5p,Hepatocellular carcinoma
+hsa-miR-18a-5p,Neuroblastoma
+hsa-miR-18a-5p,Colorectal cancer
+hsa-miR-18a-5p,Colorectal neoplasms
+hsa-miR-18a-5p,Nasopharyngeal carcinoma
+hsa-miR-18b-5p,Breast cancer
+hsa-miR-18b-5p,Breast neoplasms
+hsa-miR-18b-5p,Cardiomegaly
+hsa-miR-205-5p,Prostate cancer
+hsa-miR-205-5p,Prostate carcinoma
+hsa-miR-205-5p,Alzheimer disease
+hsa-miR-205-5p,Head and neck cancer
+hsa-miR-205-5p,Parkinson disease
+hsa-miR-205-5p,Breast cancer
+hsa-miR-205-5p,Breast neoplasms
+hsa-miR-205-5p,Aggressive squamous cell carcinoma
+hsa-miR-205-5p,Melanoma
+hsa-miR-205-5p,Glioma
+hsa-miR-205-5p,Malignant glioma
+hsa-miR-205-5p,Biliary tract cancer
+hsa-miR-205-5p,Head and neck squamous cell carcinoma
+hsa-miR-205-5p,Hepatocellular carcinoma
+hsa-miR-205-5p,Ovarian epithelial cancer
+hsa-miR-221-3p,Acute promyelocytic leukemia
+hsa-miR-221-3p,Colorectal carcinoma
+hsa-miR-221-3p,Prostate cancer
+hsa-miR-221-3p,Prostate carcinoma
+hsa-miR-221-3p,Chronic lymphocytic leukemia
+hsa-miR-221-3p,Alzheimer disease
+hsa-miR-221-3p,Bladder cancer
+hsa-miR-221-3p,Urinary bladder cancer
+hsa-miR-221-3p,Leukemia
+hsa-miR-221-3p,Breast cancer
+hsa-miR-221-3p,Breast neoplasms
+hsa-miR-221-3p,Vascular diseases
+hsa-miR-221-3p,Thyroid cancer
+hsa-miR-221-3p,Melanoma
+hsa-miR-221-3p,Essential thrombocythemia
+hsa-miR-221-3p,Glioblastoma
+hsa-miR-221-3p,Astrocytoma
+hsa-miR-221-3p,Glioma
+hsa-miR-221-3p,Malignant glioma
+hsa-miR-221-3p,Amyotrophic lateral sclerosis
+hsa-miR-221-3p,Osteosarcoma
+hsa-miR-221-3p,Carcinoma lung non-small-cell
+hsa-miR-221-3p,Non-small cell lung cancer
+hsa-miR-221-3p,Papillary thyroid carcinoma
+hsa-miR-221-3p,Thyroid papillary carcinoma
+hsa-miR-221-3p,Pancreatic adenocarcinoma
+hsa-miR-221-3p,Gastric carcinoma
+hsa-miR-221-3p,Stomach carcinoma
+hsa-miR-221-3p,Hepatocellular carcinoma
+hsa-miR-221-3p,Embryonal cancer
+hsa-miR-221-3p,Neuroblastoma
+hsa-miR-221-3p,Type 2 diabetes mellitus
+hsa-miR-221-3p,Multiple myeloma
+hsa-miR-221-3p,Acute lymphoblastic leukemia
+hsa-miR-221-3p,Acute lymphocytic leukemia
+hsa-miR-221-3p,Cardiomegaly
+hsa-miR-222-3p,Oral tongue squamous cell carcinoma
+hsa-miR-222-3p,Prostate cancer
+hsa-miR-222-3p,Prostate carcinoma
+hsa-miR-222-3p,Chronic lymphocytic leukemia
+hsa-miR-222-3p,Alzheimer disease
+hsa-miR-222-3p,Urinary bladder cancer
+hsa-miR-222-3p,Leukemia
+hsa-miR-222-3p,Lung cancer
+hsa-miR-222-3p,Breast cancer
+hsa-miR-222-3p,Breast neoplasms
+hsa-miR-222-3p,Thyroid cancer
+hsa-miR-222-3p,Melanoma
+hsa-miR-222-3p,Glioblastoma
+hsa-miR-222-3p,Glioma
+hsa-miR-222-3p,Malignant glioma
+hsa-miR-222-3p,Pancreatic ductal adenocarcinoma
+hsa-miR-222-3p,Carcinoma lung non-small-cell
+hsa-miR-222-3p,Non-small cell lung cancer
+hsa-miR-222-3p,Papillary thyroid carcinoma
+hsa-miR-222-3p,Thyroid papillary carcinoma
+hsa-miR-222-3p,Liver cirrhosis
+hsa-miR-222-3p,Gastric carcinoma
+hsa-miR-222-3p,Hepatocellular carcinoma
+hsa-miR-222-3p,Embryonal cancer
+hsa-miR-222-3p,Psoriasis
+hsa-miR-222-3p,Multiple myeloma
+hsa-miR-222-3p,Cardiomegaly
+hsa-miR-223-3p,Inflammatory bowel disease
+hsa-miR-223-3p,Multiple sclerosis chronic progressive
+hsa-miR-223-3p,Acute promyelocytic leukemia
+hsa-miR-223-3p,Precursor cell lymphoblastic leukemia-lymphoma
+hsa-miR-223-3p,Hereditary neutrophilia
+hsa-miR-223-3p,Gastric cancer
+hsa-miR-223-3p,Stomach cancer
+hsa-miR-223-3p,Bladder cancer
+hsa-miR-223-3p,Lung cancer
+hsa-miR-223-3p,Breast cancer
+hsa-miR-223-3p,Breast neoplasms
+hsa-miR-223-3p,Essential thrombocythemia
+hsa-miR-223-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-223-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-223-3p,Asthma
+hsa-miR-223-3p,Glioblastoma
+hsa-miR-223-3p,Myelofibrosis
+hsa-miR-223-3p,Esophageal cancer
+hsa-miR-223-3p,HIV
+hsa-miR-223-3p,Hepatocellular carcinoma
+hsa-miR-223-3p,Malignant pleural mesothelioma
+hsa-miR-223-3p,Chronic myeloid leukemia
+hsa-miR-223-3p,Oesophageal squamous cell carcinoma
+hsa-miR-223-3p,Chronic kidney disease-mineral and bone disorder
+hsa-miR-23a-3p,Multiple sclerosis chronic progressive
+hsa-miR-23a-3p,Tongue squamous cell carcinoma
+hsa-miR-23a-3p,Acute promyelocytic leukemia
+hsa-miR-23a-3p,Gastric cancer
+hsa-miR-23a-3p,Stomach cancer
+hsa-miR-23a-3p,Leukodystrophy metachromatic
+hsa-miR-23a-3p,Alzheimer disease
+hsa-miR-23a-3p,Vogt-koyanagi-harada disease
+hsa-miR-23a-3p,Breast cancer
+hsa-miR-23a-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-23a-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-23a-3p,Glioma
+hsa-miR-23a-3p,Malignant glioma
+hsa-miR-23a-3p,Amyotrophic lateral sclerosis
+hsa-miR-23a-3p,Osteosarcoma
+hsa-miR-23a-3p,Heart failure
+hsa-miR-23a-3p,Hepatocellular carcinoma
+hsa-miR-23a-3p,Osteoarthritis
+hsa-miR-23a-3p,Colorectal cancer
+hsa-miR-23a-3p,Cardiomegaly
+hsa-miR-23b-3p,Multiple sclerosis chronic progressive
+hsa-miR-23b-3p,Gastric cancer
+hsa-miR-23b-3p,Stomach cancer
+hsa-miR-23b-3p,Uterine fibroid
+hsa-miR-23b-3p,Breast cancer
+hsa-miR-23b-3p,Pituitary neoplasms
+hsa-miR-23b-3p,Melanoma
+hsa-miR-23b-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-23b-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-23b-3p,Pituitary adenoma
+hsa-miR-23b-3p,Carcinoma lung non-small-cell
+hsa-miR-23b-3p,Hepatocellular carcinoma
+hsa-miR-23b-3p,Neuroblastoma
+hsa-miR-23b-3p,Multiple myeloma
+hsa-miR-23b-3p,Diabetic nephropathies
+hsa-miR-23b-3p,Cardiomegaly
+hsa-miR-23b-3p,Brain injury chronic
+hsa-miR-26a-5p,Idiopathic pulmonary fibrosis
+hsa-miR-26a-5p,Medulloblastoma
+hsa-miR-26a-5p,Lymphoma
+hsa-miR-26a-5p,Anaplastic thyroid cancer
+hsa-miR-26a-5p,Prostate cancer
+hsa-miR-26a-5p,Alzheimer disease
+hsa-miR-26a-5p,Bladder cancer
+hsa-miR-26a-5p,Urinary bladder cancer
+hsa-miR-26a-5p,Duchenne muscular dystrophy
+hsa-miR-26a-5p,Primary biliary cirrhosis
+hsa-miR-26a-5p,Breast cancer
+hsa-miR-26a-5p,Breast neoplasms
+hsa-miR-26a-5p,Pituitary neoplasms
+hsa-miR-26a-5p,Melanoma
+hsa-miR-26a-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-26a-5p,Thyroid adenomas
+hsa-miR-26a-5p,Glomerulonephritis
+hsa-miR-26a-5p,Glioblastoma
+hsa-miR-26a-5p,Glioma
+hsa-miR-26a-5p,malignant glioma
+hsa-miR-26a-5p,Amyotrophic lateral sclerosis
+hsa-miR-26a-5p,Cholangiocarcinoma
+hsa-miR-26a-5p,Head and neck squamous cell carcinoma
+hsa-miR-26a-5p,Hepatocellular carcinoma
+hsa-miR-26a-5p,Neuroblastoma
+hsa-miR-26a-5p,Osteoarthritis
+hsa-miR-26a-5p,Burkitt lymphoma
+hsa-miR-26a-5p,Colorectal cancer
+hsa-miR-26a-5p,Diabetic nephropathies
+hsa-miR-26a-5p,Cardiac hypertrophy
+hsa-miR-26b-5p,Lewy body dementia
+hsa-miR-26b-5p,Breast cancer
+hsa-miR-26b-5p,Breast neoplasms
+hsa-miR-26b-5p,Laryngeal carcinoma
+hsa-miR-26b-5p,Ovarian carcinoma
+hsa-miR-26b-5p,Rheumatoid arthritis
+hsa-miR-26b-5p,Neuroblastoma
+hsa-miR-26b-5p,Osteoarthritis
+hsa-miR-26b-5p,Ulcerative colitis
+hsa-miR-26b-5p,Colorectal cancer
+hsa-miR-26b-5p,Multiple myeloma
+hsa-miR-26b-5p,Cardiomegaly
+hsa-miR-29a-3p,Disease of metabolism
+hsa-miR-29a-3p,Idiopathic pulmonary fibrosis
+hsa-miR-29a-3p,Spinocerebellar ataxia type 17
+hsa-miR-29a-3p,B-cell chronic lymphocytic leukemia
+hsa-miR-29a-3p,Gastric cancer
+hsa-miR-29a-3p,Alzheimer disease
+hsa-miR-29a-3p,Duchenne muscular dystrophy
+hsa-miR-29a-3p,Muscular dystrophy duchenne
+hsa-miR-29a-3p,Huntington disease
+hsa-miR-29a-3p,Lung cancer
+hsa-miR-29a-3p,Cerebellar disease
+hsa-miR-29a-3p,Thyroid adenomas
+hsa-miR-29a-3p,Nervous system cancer
+hsa-miR-29a-3p,Osteosarcoma
+hsa-miR-29a-3p,Lung squamous cell carcinoma
+hsa-miR-29a-3p,Non-small cell lung cancer
+hsa-miR-29a-3p,Systemic scleroderma
+hsa-miR-29a-3p,HIV
+hsa-miR-29a-3p,Head and neck squamous cell carcinoma
+hsa-miR-29a-3p,Ankylosing spondylitis
+hsa-miR-29a-3p,Neuroblastoma
+hsa-miR-29a-3p,Burkitt lymphoma
+hsa-miR-29a-3p,Type 2 diabetes mellitus
+hsa-miR-29a-3p,Cardiomegaly
+hsa-miR-29a-3p,Tendon injuries
+hsa-miR-29a-3p,Sarcopenia
+hsa-miR-29b-3p,Multiple sclerosis chronic progressive
+hsa-miR-29b-3p,Medulloblastoma
+hsa-miR-29b-3p,Spinocerebellar ataxia type 17
+hsa-miR-29b-3p,Prostate cancer
+hsa-miR-29b-3p,Chronic lymphocytic leukemia
+hsa-miR-29b-3p,Alzheimer disease
+hsa-miR-29b-3p,Myotonic dystrophy
+hsa-miR-29b-3p,Huntington disease
+hsa-miR-29b-3p,Chorea
+hsa-miR-29b-3p,Uterine fibroid
+hsa-miR-29b-3p,Breast cancer
+hsa-miR-29b-3p,Breast neoplasms
+hsa-miR-29b-3p,Melanoma
+hsa-miR-29b-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-29b-3p,Thyroid adenomas
+hsa-miR-29b-3p,Glioblastoma
+hsa-miR-29b-3p,Astrocytoma
+hsa-miR-29b-3p,Lung squamous cell carcinoma
+hsa-miR-29b-3p,Cholangiocarcinoma
+hsa-miR-29b-3p,Schizophrenia
+hsa-miR-29b-3p,Neuroblastoma
+hsa-miR-29b-3p,Burkitt lymphoma
+hsa-miR-29b-3p,Acute myeloid leukemia
+hsa-miR-29b-3p,Kit-driven acute myeloid leukemia
+hsa-miR-29b-3p,Frontotemporal dementia
+hsa-miR-29b-3p,Type 2 diabetes
+hsa-miR-29b-3p,Type 2 diabetes mellitus
+hsa-miR-29b-3p,Multiple myeloma
+hsa-miR-29b-3p,Cardiomegaly
+hsa-miR-29b-3p,Acute myelogeneous leukemia
+hsa-miR-29b-3p,Stroke lacunar
+hsa-miR-29c-3p,Gastric cancer
+hsa-miR-29c-3p,Stomach cancer
+hsa-miR-29c-3p,Urinary bladder cancer
+hsa-miR-29c-3p,Myotonic dystrophy
+hsa-miR-29c-3p,Duchenne muscular dystrophy
+hsa-miR-29c-3p,Muscular dystrophy duchenne
+hsa-miR-29c-3p,Thyroid adenomas
+hsa-miR-29c-3p,Rhabdomyosarcoma
+hsa-miR-29c-3p,Lung squamous cell carcinoma
+hsa-miR-29c-3p,Head and neck squamous cell carcinoma
+hsa-miR-29c-3p,Neuroblastoma
+hsa-miR-29c-3p,Burkitt lymphoma
+hsa-miR-29c-3p,Colorectal cancer
+hsa-miR-29c-3p,Nasopharyngeal carcinoma
+hsa-miR-29c-3p,Type 2 diabetes mellitus
+hsa-miR-29c-3p,Cardiomegaly
+hsa-miR-29c-3p,Sarcopenia
+hsa-miR-346,Medulloblastoma
+hsa-miR-346,Alzheimer disease
+hsa-miR-346,Primary biliary cirrhosis
+hsa-miR-346,Lung cancer
+hsa-miR-346,Lung neoplasms
+hsa-miR-346,Breast cancer
+hsa-miR-346,Astrocytoma
+hsa-miR-346,Liver cancer
+hsa-miR-346,Schizophrenia
+hsa-miR-346,Hepatocellular carcinoma
+hsa-miR-361-5p,Medulloblastoma
+hsa-miR-361-5p,Alzheimer disease
+hsa-miR-361-5p,Lung cancer
+hsa-miR-361-5p,Breast cancer
+hsa-miR-361-5p,Glioma
+hsa-miR-361-5p,Papillary thyroid carcinoma
+hsa-miR-361-5p,Hepatocellular carcinoma
+hsa-miR-361-5p,Colorectal cancer
+hsa-miR-433-3p,Alzheimer disease
+hsa-miR-433-3p,Parkinson disease
+hsa-miR-433-3p,Glioma
+hsa-miR-876-5p,Head and neck squamous cell carcinoma
+hsa-miR-106a-5p,Alzheimer disease
+hsa-miR-106a-5p,Melanoma
+hsa-miR-106a-5p,Hepatitis B
+hsa-miR-106a-5p,Epithelial ovarian cancer
+hsa-miR-106a-5p,Astrocytoma
+hsa-miR-106a-5p,Carcinoma lung non-small-cell
+hsa-miR-106a-5p,Aortic valve disease
+hsa-miR-106a-5p,Hepatocellular carcinoma
+hsa-miR-106a-5p,T-cell leukemia
+hsa-miR-106a-5p,Neuroblastoma
+hsa-miR-106b-5p,Medulloblastoma
+hsa-miR-106b-5p,Acute promyelocytic leukemia
+hsa-miR-106b-5p,Prostate cancer
+hsa-miR-106b-5p,Chronic lymphocytic leukemia
+hsa-miR-106b-5p,Gastric cancer
+hsa-miR-106b-5p,Stomach cancer
+hsa-miR-106b-5p,Alzheimer disease
+hsa-miR-106b-5p,Breast cancer
+hsa-miR-106b-5p,Breast neoplasms
+hsa-miR-106b-5p,Colon cancer
+hsa-miR-106b-5p,Colonic neoplasms
+hsa-miR-106b-5p,Glioblastoma
+hsa-miR-106b-5p,Non-small cell lung cancer
+hsa-miR-106b-5p,Renal cell carcinoma
+hsa-miR-106b-5p,Esophageal adenocarcinoma
+hsa-miR-106b-5p,Hepatocellular carcinoma
+hsa-miR-106b-5p,Colorectal cancer
+hsa-miR-106b-5p,Multiple myeloma
+hsa-miR-106b-5p,Prostatic neoplasms
+hsa-miR-17-5p,Polycystic kidney diseases
+hsa-miR-17-5p,Thyroid carcinoma anaplastic
+hsa-miR-17-5p,Gastric cancer
+hsa-miR-17-5p,Stomach cancer
+hsa-miR-17-5p,Alzheimer disease
+hsa-miR-17-5p,Primary biliary cirrhosis
+hsa-miR-17-5p,Carotid stenosis
+hsa-miR-17-5p,Lung cancer
+hsa-miR-17-5p,Breast cancer
+hsa-miR-17-5p,Breast neoplasms
+hsa-miR-17-5p,Malignant melanoma
+hsa-miR-17-5p,Melanoma
+hsa-miR-17-5p,Colon cancer
+hsa-miR-17-5p,Glioblastoma
+hsa-miR-17-5p,Glioma
+hsa-miR-17-5p,Malignant glioma
+hsa-miR-17-5p,Coronary artery disease
+hsa-miR-17-5p,Cervical cancer
+hsa-miR-17-5p,Kidney renal clear cell carcinoma
+hsa-miR-17-5p,Renal cell carcinoma
+hsa-miR-17-5p,Clear cell renal cell carcinoma
+hsa-miR-17-5p,Renal clear cell carcinoma
+hsa-miR-17-5p,Kidney diseases
+hsa-miR-17-5p,Pulmonary hypertension
+hsa-miR-17-5p,Hepatocellular carcinoma
+hsa-miR-17-5p,Neuroblastoma
+hsa-miR-17-5p,Lymphosarcoma
+hsa-miR-17-5p,Colorectal cancer
+hsa-miR-17-5p,Nasopharyngeal carcinoma
+hsa-miR-20a-5p,Medulloblastoma
+hsa-miR-20a-5p,Prostate cancer
+hsa-miR-20a-5p,Alzheimer disease
+hsa-miR-20a-5p,Primary biliary cirrhosis
+hsa-miR-20a-5p,Carotid stenosis
+hsa-miR-20a-5p,Lung cancer
+hsa-miR-20a-5p,Colon carcinoma
+hsa-miR-20a-5p,Breast cancer
+hsa-miR-20a-5p,Pituitary neoplasms
+hsa-miR-20a-5p,Ovarian cancer
+hsa-miR-20a-5p,Glioblastoma
+hsa-miR-20a-5p,Glioma
+hsa-miR-20a-5p,Malignant glioma
+hsa-miR-20a-5p,Pituitary adenoma
+hsa-miR-20a-5p,Clear cell renal cell carcinoma
+hsa-miR-20a-5p,Renal clear cell carcinoma
+hsa-miR-20a-5p,Pulmonary hypertension
+hsa-miR-20a-5p,Neuroblastoma
+hsa-miR-20a-5p,Chronic myeloid leukemia
+hsa-miR-20a-5p,Lymphosarcoma
+hsa-miR-20a-5p,Colorectal cancer
+hsa-miR-20b-5p,Multiple sclerosis chronic progressive
+hsa-miR-20b-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-20b-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-20b-5p,Myasthenia gravis
+hsa-miR-20b-5p,T-cell leukemia
+hsa-miR-302a-3p,Melanoma
+hsa-miR-302a-3p,Glioma
+hsa-miR-302a-3p,Malignant glioma
+hsa-miR-302a-3p,Hepatocellular carcinoma
+hsa-miR-302b-3p,Gastric cancer
+hsa-miR-302b-3p,Alzheimer disease
+hsa-miR-302b-3p,Melanoma
+hsa-miR-302b-3p,Glioma
+hsa-miR-302b-3p,Malignant glioma
+hsa-miR-302c-3p,Breast cancer
+hsa-miR-302c-3p,Melanoma
+hsa-miR-302c-3p,Glioma
+hsa-miR-302c-3p,Malignant glioma
+hsa-miR-302c-3p,Renal cell carcinoma
+hsa-miR-302d-3p,Melanoma
+hsa-miR-302d-3p,Glioma
+hsa-miR-302d-3p,Malignant glioma
+hsa-miR-302e,Gastric neoplasms
+hsa-miR-302e,Stomach cancer
+hsa-miR-302e,Head and neck cancer
+hsa-miR-302e,Head and neck neoplasms
+hsa-miR-339-5p,Alzheimer disease
+hsa-miR-339-5p,Breast cancer
+hsa-miR-339-5p,Breast neoplasms
+hsa-miR-339-5p,Glioma
+hsa-miR-339-5p,Colorectal cancer
+hsa-miR-339-5p,Nerve degeneration
+hsa-miR-372-3p,Gastric cancer
+hsa-miR-372-3p,Osteosarcoma
+hsa-miR-372-3p,Carcinoma lung non-small-cell
+hsa-miR-372-3p,Lung adenocarcinoma
+hsa-miR-372-3p,Cholangiocarcinoma
+hsa-miR-372-3p,Testicular germ cell cancer
+hsa-miR-372-3p,Testicular germ cell tumor
+hsa-miR-372-3p,Hepatocellular carcinoma
+hsa-miR-372-3p,Colorectal cancer
+hsa-miR-373-3p,Prostate cancer
+hsa-miR-373-3p,Breast cancer
+hsa-miR-373-3p,Breast neoplasms
+hsa-miR-373-3p,Hepatitis C
+hsa-miR-373-3p,Hilar cholangiocarcinoma
+hsa-miR-373-3p,Cholangiocarcinoma
+hsa-miR-373-3p,Esophageal cancer
+hsa-miR-373-3p,Testicular germ cell cancer
+hsa-miR-373-3p,Testicular germ cell tumor
+hsa-miR-373-3p,Colorectal cancer
+hsa-miR-373-3p,Esophageal squamous cell carcinoma
+hsa-miR-519d-3p,Alzheimer disease
+hsa-miR-519d-3p,Breast cancer
+hsa-miR-519d-3p,Breast neoplasms
+hsa-miR-519d-3p,Cervical cancer
+hsa-miR-519d-3p,Colorectal cancer
+hsa-miR-520a-3p,Carcinoma lung non-small-cell
+hsa-miR-520a-3p,Non-small cell lung cancer
+hsa-miR-520a-3p,Small cell lung cancer
+hsa-miR-520c-3p,Prostate cancer
+hsa-miR-520c-3p,Breast cancer
+hsa-miR-520c-3p,Breast neoplasms
+hsa-miR-520c-3p,Hepatocellular carcinoma
+hsa-miR-520c-3p,Liver hepatocellular carcinoma
+hsa-miR-520d-3p,Gastric cancer
+hsa-miR-520d-3p,Osteosarcoma
+hsa-miR-874-3p,Prostatic neoplasms
+hsa-miR-93-5p,Gastric cancer
+hsa-miR-93-5p,Stomach cancer
+hsa-miR-93-5p,Polycystic ovary syndrome
+hsa-miR-93-5p,Leiomyoma
+hsa-miR-93-5p,Endometrial cancer
+hsa-miR-93-5p,Breast cancer
+hsa-miR-93-5p,Breast neoplasms
+hsa-miR-93-5p,Pituitary neoplasms
+hsa-miR-93-5p,Syndrome
+hsa-miR-93-5p,Osteosarcoma
+hsa-miR-93-5p,Pituitary adenoma
+hsa-miR-93-5p,Non-small cell lung cancer
+hsa-miR-93-5p,Esophageal adenocarcinoma
+hsa-miR-93-5p,Prolactinoma
+hsa-miR-93-5p,Early hepatocellular carcinoma
+hsa-miR-93-5p,Hepatocellular carcinoma
+hsa-miR-93-5p,T-cell leukemia
+hsa-miR-93-5p,Neuroblastoma
+hsa-miR-93-5p,Burkitt lymphoma
+hsa-miR-93-5p,Colorectal cancer
+hsa-miR-93-5p,Colorectal neoplasms
+hsa-miR-93-5p,Multiple myeloma
+hsa-miR-93-5p,Prostatic neoplasms
+hsa-miR-93-5p,Trophoblasts
+hsa-miR-93-5p,Vesicular stomatitis
+hsa-miR-224-5p,Alzheimer disease
+hsa-miR-224-5p,Lewy body dementia
+hsa-miR-224-5p,Breast cancer
+hsa-miR-224-5p,Breast neoplasms
+hsa-miR-224-5p,Melanoma
+hsa-miR-224-5p,Ovarian cancer
+hsa-miR-224-5p,Ovarian neoplasms
+hsa-miR-224-5p,Uveal melanoma
+hsa-miR-224-5p,Hepatocellular carcinoma
+hsa-miR-224-5p,Prostatic neoplasms
+hsa-miR-101-3p,Rheumatic heart diseases
+hsa-miR-101-3p,Spinocerebellar ataxia type 1
+hsa-miR-101-3p,Triple negative breast cancer
+hsa-miR-101-3p,Prostate cancer
+hsa-miR-101-3p,Gastric cancer
+hsa-miR-101-3p,Stomach cancer
+hsa-miR-101-3p,Urinary bladder cancer
+hsa-miR-101-3p,Heart disease
+hsa-miR-101-3p,Lung cancer
+hsa-miR-101-3p,Breast cancer
+hsa-miR-101-3p,Breast neoplasms
+hsa-miR-101-3p,Colon cancer
+hsa-miR-101-3p,Thyroid adenomas
+hsa-miR-101-3p,Glioblastoma
+hsa-miR-101-3p,Astrocytoma
+hsa-miR-101-3p,Glioma
+hsa-miR-101-3p,Malignant glioma
+hsa-miR-101-3p,Gallbladder cancer
+hsa-miR-101-3p,Osteosarcoma
+hsa-miR-101-3p,Non small cell lung carcinoma
+hsa-miR-101-3p,Non-small cell lung adenocarcinoma
+hsa-miR-101-3p,Non-small cell lung cancer
+hsa-miR-101-3p,Bladder transitional cell carcinoma
+hsa-miR-101-3p,Early hepatocellular carcinoma
+hsa-miR-101-3p,Hepatocellular carcinoma
+hsa-miR-101-3p,Neuroblastoma
+hsa-miR-101-3p,Acute myeloid leukemia
+hsa-miR-101-3p,Colon and rectal adenocarcinoma
+hsa-miR-101-3p,Colorectal cancer
+hsa-miR-194-5p,Her2-receptor positive breast cancer
+hsa-miR-194-5p,Autoimmune lymphoproliferative syndrome type 4
+hsa-miR-194-5p,Alzheimer disease
+hsa-miR-194-5p,Endometrial carcinoma
+hsa-miR-194-5p,Glioblastoma
+hsa-miR-194-5p,Glioma
+hsa-miR-194-5p,Pancreatic ductal adenocarcinoma
+hsa-miR-194-5p,Liver cancer
+hsa-miR-194-5p,Esophageal cancer
+hsa-miR-194-5p,Hepatocellular carcinoma
+hsa-miR-194-5p,Neuroblastoma
+hsa-miR-194-5p,Colorectal cancer
+hsa-miR-194-5p,Diabetic nephropathies
+hsa-miR-194-5p,Cardiac hypertrophy
+hsa-miR-34a-5p,Multiple sclerosis chronic progressive
+hsa-miR-34a-5p,Glomerulosclerosis
+hsa-miR-34a-5p,Medulloblastoma
+hsa-miR-34a-5p,Lymphoma
+hsa-miR-34a-5p,Neuroblastoma with 1p36 deletion
+hsa-miR-34a-5p,Prostate cancer
+hsa-miR-34a-5p,Gastric cancer
+hsa-miR-34a-5p,Stomach cancer
+hsa-miR-34a-5p,Alzheimer disease
+hsa-miR-34a-5p,Uterine fibroid
+hsa-miR-34a-5p,Tuberous sclerosis
+hsa-miR-34a-5p,Breast cancer
+hsa-miR-34a-5p,Breast neoplasms
+hsa-miR-34a-5p,Pancreatic cancer
+hsa-miR-34a-5p,Melanoma
+hsa-miR-34a-5p,Colon cancer
+hsa-miR-34a-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-34a-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-34a-5p,Ovarian cancer
+hsa-miR-34a-5p,Glioblastoma
+hsa-miR-34a-5p,Glioblastoma multiforme
+hsa-miR-34a-5p,Glioma
+hsa-miR-34a-5p,Malignant glioma
+hsa-miR-34a-5p,Chronic obstructive pulmonary disease
+hsa-miR-34a-5p,Bipolar disorder
+hsa-miR-34a-5p,Osteosarcoma
+hsa-miR-34a-5p,Ewing sarcoma
+hsa-miR-34a-5p,Pulmonary fibrosis
+hsa-miR-34a-5p,Carcinoma lung non-small-cell
+hsa-miR-34a-5p,Non-small cell lung cancer
+hsa-miR-34a-5p,Kidney renal clear cell carcinoma
+hsa-miR-34a-5p,Renal cell carcinoma
+hsa-miR-34a-5p,Uveal melanoma
+hsa-miR-34a-5p,HBV+ hepatocellular carcinoma
+hsa-miR-34a-5p,Hepatocellular carcinoma
+hsa-miR-34a-5p,Retinoblastoma
+hsa-miR-34a-5p,Neuroblastoma
+hsa-miR-34a-5p,Acute myelocytic leukemia
+hsa-miR-34a-5p,Acute myeloid leukemia
+hsa-miR-34a-5p,Nasopharynx carcinoma
+hsa-miR-34c-5p,Parkinson disease
+hsa-miR-34c-5p,Breast cancer
+hsa-miR-34c-5p,Breast neoplasms
+hsa-miR-34c-5p,Melanoma
+hsa-miR-34c-5p,Ovarian neoplasms
+hsa-miR-34c-5p,Laryngeal carcinoma
+hsa-miR-34c-5p,Pancreatic ductal adenocarcinoma
+hsa-miR-34c-5p,Carcinoma lung non-small-cell
+hsa-miR-34c-5p,Non-small cell lung cancer
+hsa-miR-34c-5p,Neuroblastoma
+hsa-miR-34c-5p,Colorectal cancer
+hsa-miR-449a,Prostate cancer
+hsa-miR-449a,Prostate neoplasms
+hsa-miR-449a,Gastric cancer
+hsa-miR-449a,Gastric neoplasms
+hsa-miR-449a,Alzheimer disease
+hsa-miR-449a,Lung cancer
+hsa-miR-449a,Lung neoplasms
+hsa-miR-449a,Breast cancer
+hsa-miR-449a,Neoplasms
+hsa-miR-449a,Hepatitis C
+hsa-miR-449a,Hepatitis c virus infection
+hsa-miR-449a,Colon cancer
+hsa-miR-449a,Colon neoplasms
+hsa-miR-449a,Liver cancer
+hsa-miR-449a,Adenocarcinoma gastric
+hsa-miR-449a,Gastric adenocarcinoma
+hsa-miR-449a,Pulmonary fibrosis
+hsa-miR-449a,Carcinoma lung non-small-cell
+hsa-miR-449a,Non-small cell lung cancer
+hsa-miR-449a,Adenocarcinoma lung
+hsa-miR-449a,Adrenocortical carcinoma
+hsa-miR-449a,Carcinoma adrenocortical
+hsa-miR-449a,Hepatocellular carcinoma
+hsa-miR-449a,Neuroblastoma
+hsa-miR-449a,Salivary gland cancer
+hsa-miR-449a,Salivary gland neoplasms
+hsa-miR-449a,Colorectal cancer
+hsa-miR-551a,Gastric neoplasms
+hsa-miR-143-3p,Diffuse large b cell lymphoma
+hsa-miR-143-3p,Colorectal carcinoma
+hsa-miR-143-3p,Prostate cancer
+hsa-miR-143-3p,B-cell malignancy
+hsa-miR-143-3p,Gastric cancer
+hsa-miR-143-3p,Stomach cancer
+hsa-miR-143-3p,Alzheimer disease
+hsa-miR-143-3p,Bladder cancer
+hsa-miR-143-3p,Urinary bladder cancer
+hsa-miR-143-3p,Duchenne muscular dystrophy
+hsa-miR-143-3p,Breast cancer
+hsa-miR-143-3p,Breast neoplasms
+hsa-miR-143-3p,Squamous cell carcinoma
+hsa-miR-143-3p,Vascular diseases
+hsa-miR-143-3p,Pancreatic cancer
+hsa-miR-143-3p,Atherosclerosis
+hsa-miR-143-3p,Colon cancer
+hsa-miR-143-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-143-3p,Glioma
+hsa-miR-143-3p,Malignant glioma
+hsa-miR-143-3p,Amyotrophic lateral sclerosis
+hsa-miR-143-3p,Osteosarcoma
+hsa-miR-143-3p,Cervical squamous cell carcinoma
+hsa-miR-143-3p,Cervical cancer
+hsa-miR-143-3p,T-cell leukemia
+hsa-miR-143-3p,T-cell leukemia jurkat cells
+hsa-miR-143-3p,Burkitt lymphoma
+hsa-miR-143-3p,Degenerative disc disease
+hsa-miR-143-3p,Colorectal cancer
+hsa-miR-143-3p,Obesity
+hsa-miR-143-3p,Esophageal squamous cell carcinoma
+hsa-miR-143-3p,Uterine cervical neoplasms
+hsa-miR-143-3p,Fever
+hsa-miR-143-3p,Stroke lacunar
+hsa-miR-33a-5p,Alzheimer disease
+hsa-miR-33a-5p,Japanese encephalitis
+hsa-miR-33a-5p,Myotonic dystrophy
+hsa-miR-33a-5p,Lung cancer bone metastasis
+hsa-miR-33a-5p,Glioma
+hsa-miR-33a-5p,Malignant glioma
+hsa-miR-33a-5p,Hepatocellular carcinoma
+hsa-miR-33b-5p,Medulloblastoma
+hsa-miR-33b-5p,Multiple myeloma
+hsa-miR-33b-5p,Obesity
+hsa-miR-30a-5p,Multiple sclerosis chronic progressive
+hsa-miR-30a-5p,Triple negative breast cancer
+hsa-miR-30a-5p,Thyroid carcinoma anaplastic
+hsa-miR-30a-5p,Gastric cancer
+hsa-miR-30a-5p,Stomach cancer
+hsa-miR-30a-5p,Alzheimer disease
+hsa-miR-30a-5p,Uterine fibroid
+hsa-miR-30a-5p,Breast cancer
+hsa-miR-30a-5p,Thyroid cancer
+hsa-miR-30a-5p,Glioma
+hsa-miR-30a-5p,Malignant glioma
+hsa-miR-30a-5p,Osteosarcoma
+hsa-miR-30a-5p,Liver cancer
+hsa-miR-30a-5p,Non-small cell lung cancer
+hsa-miR-30a-5p,Bladder urothelial carcinoma
+hsa-miR-30a-5p,Hepatocellular carcinoma
+hsa-miR-30a-5p,Osteoarthritis
+hsa-miR-30a-5p,Cardiomegaly
+hsa-miR-30a-5p,Glomerular disease
+hsa-miR-30b-5p,Glomerulosclerosis
+hsa-miR-30b-5p,Medulloblastoma
+hsa-miR-30b-5p,Alzheimer disease
+hsa-miR-30b-5p,Hypertension
+hsa-miR-30b-5p,Cardiovascular disease
+hsa-miR-30b-5p,Breast cancer
+hsa-miR-30b-5p,Breast neoplasms
+hsa-miR-30b-5p,Melanoma
+hsa-miR-30b-5p,Amyotrophic lateral sclerosis
+hsa-miR-30b-5p,Carcinoma lung non-small-cell
+hsa-miR-30b-5p,Non-small cell lung cancer
+hsa-miR-30b-5p,Cardiomegaly
+hsa-miR-30b-5p,Stroke
+hsa-miR-30c-5p,Glomerulosclerosis
+hsa-miR-30c-5p,Medulloblastoma
+hsa-miR-30c-5p,Prostate cancer
+hsa-miR-30c-5p,Alzheimer disease
+hsa-miR-30c-5p,Bladder cancer
+hsa-miR-30c-5p,Cerebellar disease
+hsa-miR-30c-5p,Glioblastoma
+hsa-miR-30c-5p,malignant glioma
+hsa-miR-30c-5p,Carcinoma lung non-small-cell
+hsa-miR-30c-5p,Non-small cell lung adenocarcinoma
+hsa-miR-30c-5p,Non-small cell lung cancer
+hsa-miR-30c-5p,Aortic valve disease
+hsa-miR-30c-5p,Colorectal cancer
+hsa-miR-30c-5p,Diabetic nephropathies
+hsa-miR-30c-5p,Cardiac hypertrophy
+hsa-miR-30c-5p,Sclerosis
+hsa-miR-30c-5p,Cerebellar neurodegeneration
+hsa-miR-30d-5p,Multiple sclerosis chronic progressive
+hsa-miR-30d-5p,Glomerulosclerosis
+hsa-miR-30d-5p,Anaplastic thyroid carcinoma
+hsa-miR-30d-5p,Thyroid carcinoma anaplastic
+hsa-miR-30d-5p,Chronic lymphocytic leukemia
+hsa-miR-30d-5p,Alzheimer disease
+hsa-miR-30d-5p,Cardiovascular disease
+hsa-miR-30d-5p,Colon cancer
+hsa-miR-30d-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-30d-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-30d-5p,Hepatocellular carcinoma
+hsa-miR-30d-5p,Cardiomegaly
+hsa-miR-30e-5p,Alzheimer disease
+hsa-miR-30e-5p,Bladder cancer
+hsa-miR-30e-5p,Urinary bladder cancer
+hsa-miR-30e-5p,Hepatocellular carcinoma
+hsa-miR-30e-5p,Cardiomegaly
+hsa-let-7a-5p,Idiopathic pulmonary fibrosis
+hsa-let-7a-5p,Estrogen-receptor positive breast cancer
+hsa-let-7a-5p,Prostate cancer
+hsa-let-7a-5p,Chronic lymphocytic leukemia
+hsa-let-7a-5p,Gastric cancer
+hsa-let-7a-5p,Stomach cancer
+hsa-let-7a-5p,Sarcoma
+hsa-let-7a-5p,Uterine leiomyoma
+hsa-let-7a-5p,Lung cancer
+hsa-let-7a-5p,Breast cancer
+hsa-let-7a-5p,Breast neoplasms
+hsa-let-7a-5p,Squamous cell carcinoma
+hsa-let-7a-5p,Malignant melanoma
+hsa-let-7a-5p,Melanoma
+hsa-let-7a-5p,Ovarian cancer
+hsa-let-7a-5p,Ovarian neoplasms
+hsa-let-7a-5p,Laryngeal cancer
+hsa-let-7a-5p,Laryngeal carcinoma
+hsa-let-7a-5p,Myoma
+hsa-let-7a-5p,Glioblastoma
+hsa-let-7a-5p,Lipoma
+hsa-let-7a-5p,Amyotrophic lateral sclerosis
+hsa-let-7a-5p,Ewing sarcoma
+hsa-let-7a-5p,Pancreatic ductal adenocarcinoma
+hsa-let-7a-5p,Lafora disease
+hsa-let-7a-5p,Carcinoma lung non-small-cell
+hsa-let-7a-5p,Non-small cell lung cancer cell
+hsa-let-7a-5p,Scleroderma
+hsa-let-7a-5p,Cholangiocarcinoma
+hsa-let-7a-5p,Adenoma
+hsa-let-7a-5p,Early hepatocellular carcinoma
+hsa-let-7a-5p,HBV+ hepatocellular carcinoma
+hsa-let-7a-5p,Hepatocellular carcinoma
+hsa-let-7a-5p,Neuroblastoma
+hsa-let-7a-5p,Hodgkin lymphoma
+hsa-let-7a-5p,Burkitt lymphoma
+hsa-let-7a-5p,Colorectal cancer
+hsa-let-7a-5p,Multiple myeloma
+hsa-let-7a-5p,Hamartoma
+hsa-let-7a-5p,Malignant cholangiocyte
+hsa-let-7b-5p,Diffuse large b cell lymphoma
+hsa-let-7b-5p,Breast cancer
+hsa-let-7b-5p,Melanoma
+hsa-let-7b-5p,Amyotrophic lateral sclerosis
+hsa-let-7b-5p,Early hepatocellular carcinoma
+hsa-let-7b-5p,Hepatocellular carcinoma
+hsa-let-7b-5p,Neuroblastoma
+hsa-let-7b-5p,Multiple myeloma
+hsa-let-7c-5p,Prostate cancer
+hsa-let-7c-5p,Middle cerebral artery infarction
+hsa-let-7c-5p,Myasthenia gravis
+hsa-let-7c-5p,Early hepatocellular carcinoma
+hsa-let-7c-5p,Hepatocellular carcinoma
+hsa-let-7c-5p,Neuroblastoma
+hsa-let-7c-5p,Colorectal cancer
+hsa-let-7c-5p,Multiple myeloma
+hsa-let-7c-5p,Reperfusion injury
+hsa-let-7d-5p,Oral squamous cell carcinoma
+hsa-let-7d-5p,Prostate cancer
+hsa-let-7d-5p,Amyotrophic lateral sclerosis
+hsa-let-7d-5p,Neuroblastoma
+hsa-let-7d-5p,Multiple myeloma
+hsa-let-7e-5p,Breast cancer
+hsa-let-7e-5p,Neuroblastoma
+hsa-let-7e-5p,Multiple myeloma
+hsa-let-7e-5p,Stroke
+hsa-let-7f-5p,Estrogen-receptor positive breast cancer
+hsa-let-7f-5p,Oestrogen receptor-positive postmenopausal breast cancer
+hsa-let-7f-5p,Alzheimer disease
+hsa-let-7f-5p,Lung cancer
+hsa-let-7f-5p,Ovarian cancer
+hsa-let-7f-5p,Ovarian neoplasms
+hsa-let-7f-5p,Glioblastoma
+hsa-let-7f-5p,Amyotrophic lateral sclerosis
+hsa-let-7f-5p,Papillary thyroid carcinoma
+hsa-let-7f-5p,Multiple myeloma
+hsa-let-7g-5p,Breast cancer
+hsa-let-7g-5p,Glioblastoma
+hsa-let-7g-5p,Amyotrophic lateral sclerosis
+hsa-let-7g-5p,Early hepatocellular carcinoma
+hsa-let-7g-5p,Hepatocellular carcinoma
+hsa-let-7g-5p,Neuroblastoma
+hsa-let-7g-5p,Multiple myeloma
+hsa-let-7i-5p,Epithelial ovarian cancer
+hsa-let-7i-5p,Ovarian cancer
+hsa-let-7i-5p,Ovarian neoplasms
+hsa-let-7i-5p,Neuroblastoma
+hsa-let-7i-5p,Multiple myeloma
+hsa-let-7i-5p,Aldh1+ cancer stem cells
+hsa-miR-103a-3p,Anencephaly
+hsa-miR-103a-3p,Neurofibromatosis 1
+hsa-miR-103a-3p,Alzheimer disease
+hsa-miR-103a-3p,Pancreatic cancer
+hsa-miR-103a-3p,Cerebellar disease
+hsa-miR-103a-3p,Amyotrophic lateral sclerosis
+hsa-miR-103a-3p,Carcinoma lung non-small-cell
+hsa-miR-103a-3p,Non-small cell lung cancer
+hsa-miR-103a-3p,Esophageal cancer
+hsa-miR-103a-3p,Hepatocellular carcinoma
+hsa-miR-103a-3p,Hepatoma
+hsa-miR-103a-3p,Cardiomegaly
+hsa-miR-107,Acute promyelocytic leukemia
+hsa-miR-107,Colorectal carcinoma
+hsa-miR-107,Prostate cancer
+hsa-miR-107,Prostate neoplasms
+hsa-miR-107,Gastric cancer
+hsa-miR-107,Gastric neoplasms
+hsa-miR-107,Stomach cancer
+hsa-miR-107,Alzheimer disease
+hsa-miR-107,Urinary bladder cancer
+hsa-miR-107,Urinary bladder neoplasms
+hsa-miR-107,Head and neck neoplasms
+hsa-miR-107,Lung cancer
+hsa-miR-107,Lung neoplasms
+hsa-miR-107,Breast cancer
+hsa-miR-107,Breast neoplasms
+hsa-miR-107,Cancer
+hsa-miR-107,Neoplasms
+hsa-miR-107,Squamous cell carcinoma
+hsa-miR-107,Pituitary neoplasms
+hsa-miR-107,Pancreatic cancer
+hsa-miR-107,Pancreatic neoplasms
+hsa-miR-107,Hepatitis c virus infection
+hsa-miR-107,Melanoma
+hsa-miR-107,Colon cancer
+hsa-miR-107,Ovarian cancer
+hsa-miR-107,Ovarian neoplasms
+hsa-miR-107,Acute kidney injury
+hsa-miR-107,Glioblastoma
+hsa-miR-107,Glioma
+hsa-miR-107,Malignant glioma
+hsa-miR-107,Gastrointestinal neoplasms
+hsa-miR-107,Gastrointestinal system cancer
+hsa-miR-107,Osteosarcoma
+hsa-miR-107,Pancreatic ductal adenocarcinoma
+hsa-miR-107,Carcinoma lung non-small-cell
+hsa-miR-107,Non-small cell lung cancer
+hsa-miR-107,Renal clear cell carcinoma
+hsa-miR-107,Esophageal cancer
+hsa-miR-107,Schizophrenia
+hsa-miR-107,Myocardial infarction
+hsa-miR-107,Carcinoma hepatocellular
+hsa-miR-107,Hepatocellular carcinoma
+hsa-miR-107,Diabetes mellitus type 2
+hsa-miR-107,Type 2 diabetes mellitus
+hsa-miR-107,Esophageal squamous cell carcinoma
+hsa-miR-107,Cardiomegaly
+hsa-miR-129-5p,Gastric cancer
+hsa-miR-129-5p,Stomach cancer
+hsa-miR-129-5p,Alzheimer disease
+hsa-miR-129-5p,Bladder cancer
+hsa-miR-129-5p,Primary biliary cirrhosis
+hsa-miR-129-5p,Lung cancer
+hsa-miR-129-5p,Endometrial cancer
+hsa-miR-129-5p,Breast cancer
+hsa-miR-129-5p,Breast neoplasms
+hsa-miR-129-5p,Pancreatic cancer
+hsa-miR-129-5p,Malignant melanoma
+hsa-miR-129-5p,Melanoma
+hsa-miR-129-5p,Colon cancer
+hsa-miR-129-5p,Laryngeal squamous cell carcinoma
+hsa-miR-129-5p,Glioblastoma
+hsa-miR-129-5p,Glioma
+hsa-miR-129-5p,Malignant glioma
+hsa-miR-129-5p,Osteosarcoma
+hsa-miR-129-5p,Non-small cell lung cancer
+hsa-miR-129-5p,Kidney renal clear cell carcinoma
+hsa-miR-129-5p,Renal cell carcinoma
+hsa-miR-129-5p,Hepatocellular carcinoma
+hsa-miR-129-5p,Colorectal cancer
+hsa-miR-206,Lymphoplasmacytic lymphoma
+hsa-miR-206,Oral squamous cell carcinoma
+hsa-miR-206,Estrogen-receptor positive breast cancer
+hsa-miR-206,Waldenstrom macroglobulinemia
+hsa-miR-206,Prostate cancer
+hsa-miR-206,Chronic lymphocytic leukemia
+hsa-miR-206,Leukemia lymphocytic chronic b-cell
+hsa-miR-206,Hirschsprung disease
+hsa-miR-206,Gastric cancer
+hsa-miR-206,Gastric neoplasms
+hsa-miR-206,Stomach cancer
+hsa-miR-206,Pre-eclampsia
+hsa-miR-206,Alzheimer disease
+hsa-miR-206,Urinary bladder cancer
+hsa-miR-206,Duchenne muscular dystrophy
+hsa-miR-206,Muscular dystrophy duchenne
+hsa-miR-206,Lung cancer
+hsa-miR-206,Lung neoplasms
+hsa-miR-206,Facial paralysis
+hsa-miR-206,Breast cancer
+hsa-miR-206,Breast neoplasms
+hsa-miR-206,Cancer
+hsa-miR-206,Neoplasms
+hsa-miR-206,Thyroid cancer
+hsa-miR-206,Malignant melanoma
+hsa-miR-206,Melanoma
+hsa-miR-206,Ovarian cancer
+hsa-miR-206,Ovarian neoplasms
+hsa-miR-206,Carcinoma endometrioid endometrial
+hsa-miR-206,Endometrial carcinoma
+hsa-miR-206,Laryngeal squamous cell carcinoma
+hsa-miR-206,Pulmonary tuberculosis
+hsa-miR-206,Rhabdomyosarcoma
+hsa-miR-206,Amyotrophic lateral sclerosis
+hsa-miR-206,Osteosarcoma
+hsa-miR-206,Coronary artery disease
+hsa-miR-206,Carcinoma breast
+hsa-miR-206,Lung squamous cell carcinoma
+hsa-miR-206,Lung adenocarcinoma
+hsa-miR-206,Muscle diseases
+hsa-miR-206,Cervical cancer
+hsa-miR-206,Carcinoma renal cell
+hsa-miR-206,Renal cell carcinoma
+hsa-miR-206,Schizophrenia
+hsa-miR-206,Head and neck squamous cell carcinoma
+hsa-miR-206,Squamous cell carcinoma head and neck
+hsa-miR-206,Myocardial infarction
+hsa-miR-206,Hepatocellular carcinoma
+hsa-miR-206,Colorectal cancer
+hsa-miR-206,Bronchopulmonary dysplasia
+hsa-miR-206,Inflammation
+hsa-miR-206,Vascular hypertrophy
+hsa-miR-376a-3p,Alzheimer disease
+hsa-miR-376a-3p,Pancreatic cancer
+hsa-miR-376a-3p,Intrahepatic cholangiocarcinoma
+hsa-miR-376a-3p,Ovarian epithelial cancer
+hsa-miR-376b-3p,Ovarian epithelial cancer
+hsa-miR-4458,Melioidosis
+hsa-miR-613,Prostate cancer
+hsa-miR-613,Gastric cancer
+hsa-miR-613,Stomach cancer
+hsa-miR-613,Bladder cancer
+hsa-miR-613,Breast cancer
+hsa-miR-613,Pancreatic cancer
+hsa-miR-613,Glioma
+hsa-miR-613,Carcinoma lung non-small-cell
+hsa-miR-613,Hepatocellular carcinoma
+hsa-miR-613,Retinoblastoma
+hsa-miR-613,Colorectal cancer
+hsa-miR-98-5p,Alzheimer disease
+hsa-miR-98-5p,Leukemia
+hsa-miR-98-5p,Lung cancer
+hsa-miR-98-5p,Breast cancer
+hsa-miR-98-5p,Breast neoplasms
+hsa-miR-98-5p,Ovarian cancer
+hsa-miR-98-5p,Pancreatic ductal adenocarcinoma
+hsa-miR-98-5p,Non-small cell lung cancer
+hsa-miR-98-5p,Head and neck squamous cell carcinoma
+hsa-miR-98-5p,Myocarditis
+hsa-miR-98-5p,Degenerative disc disease
+hsa-miR-98-5p,Myotrophin
+hsa-miR-144-3p,Thalassemia
+hsa-miR-144-3p,Prostate cancer
+hsa-miR-144-3p,Gastric cancer
+hsa-miR-144-3p,Stomach cancer
+hsa-miR-144-3p,Alzheimer disease
+hsa-miR-144-3p,Uterine fibroid
+hsa-miR-144-3p,Thyroid cancer
+hsa-miR-144-3p,Melanoma
+hsa-miR-144-3p,Thyroid adenomas
+hsa-miR-144-3p,Astrocytoma
+hsa-miR-144-3p,Glioma
+hsa-miR-144-3p,Malignant glioma
+hsa-miR-144-3p,Papillary thyroid carcinoma
+hsa-miR-144-3p,Renal clear cell carcinoma
+hsa-miR-144-3p,Hepatocellular carcinoma
+hsa-miR-324-5p,Medulloblastoma
+hsa-miR-324-5p,Alzheimer disease
+hsa-miR-324-5p,Melanoma
+hsa-miR-324-5p,Neuroblastoma
+hsa-miR-410-3p,Liver neoplasms
+hsa-miR-410-3p,Colorectal cancer
+hsa-miR-153-3p,Medulloblastoma
+hsa-miR-153-3p,Prostate cancer
+hsa-miR-153-3p,Alzheimer disease
+hsa-miR-153-3p,Parkinson disease
+hsa-miR-153-3p,Glioblastoma
+hsa-miR-153-3p,Neuroblastoma
+hsa-miR-153-3p,Mptp poisoning
+hsa-miR-28-5p,Multiple sclerosis chronic progressive
+hsa-miR-28-5p,Glomerulosclerosis
+hsa-miR-28-5p,Alzheimer disease
+hsa-miR-28-5p,Melanoma
+hsa-miR-28-5p,Myeloproliferative neoplasm
+hsa-miR-28-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-28-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-28-5p,Ovarian cancer
+hsa-miR-28-5p,Glioma
+hsa-miR-28-5p,Malignant glioma
+hsa-miR-28-5p,Renal cell carcinoma
+hsa-miR-28-5p,Hepatocellular carcinoma
+hsa-miR-708-5p,Urinary bladder cancer
+hsa-miR-708-5p,Urinary bladder neoplasms
+hsa-miR-708-5p,Primary pulmonary hypertension
+hsa-miR-708-5p,Breast cancer
+hsa-miR-708-5p,Breast neoplasms
+hsa-miR-708-5p,Cancer
+hsa-miR-708-5p,Neoplasms
+hsa-miR-708-5p,Non-small cell lung cancer
+hsa-miR-193a-3p,Multiple sclerosis chronic progressive
+hsa-miR-193a-3p,Oral squamous cell carcinoma
+hsa-miR-193a-3p,Prostate cancer
+hsa-miR-193a-3p,Alzheimer disease
+hsa-miR-193a-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-193a-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-193a-3p,Renal cell carcinoma
+hsa-miR-193a-3p,Esophageal squamous cell carcinoma
+hsa-miR-193a-3p,Inflammation
+hsa-miR-193a-3p,Hepatocellular carcinoma
+hsa-miR-193b-3p,Prostate cancer
+hsa-miR-193b-3p,Breast cancer
+hsa-miR-193b-3p,Breast neoplasms
+hsa-miR-193b-3p,Bladder urothelial carcinoma
+hsa-miR-193b-3p,Chronic kidney disease
+hsa-miR-193b-3p,Autosomal dominant polycystic kidney disease
+hsa-miR-193b-3p,Nasopharynx carcinoma
+hsa-miR-216b-5p,Breast cancer
+hsa-miR-216b-5p,Breast neoplasms
+hsa-miR-216b-5p,Hepatocellular carcinoma
+hsa-miR-216b-5p,Liver hepatocellular carcinoma
+hsa-miR-216b-5p,Colorectal cancer
+hsa-miR-370-3p,Medulloblastoma
+hsa-miR-370-3p,Carcinoma lung non-small-cell
+hsa-miR-370-3p,Cholangiocarcinoma
+hsa-miR-370-3p,Acute myeloid leukemia
+hsa-miR-491-5p,Gastric cancer
+hsa-miR-491-5p,Alzheimer disease
+hsa-miR-491-5p,Multiple sclerosis
+hsa-miR-491-5p,Osteosarcoma
+hsa-miR-491-5p,Cervical cancer
+hsa-miR-491-5p,Stroke lacunar
+hsa-miR-599,Gastric cancer
+hsa-miR-599,Breast cancer
+hsa-miR-599,Glioma
+hsa-miR-599,Non-small cell lung cancer
+hsa-miR-490-3p,Gastric cancer
+hsa-miR-490-3p,Lung cancer
+hsa-miR-490-3p,Endometrial cancer
+hsa-miR-490-3p,Ovary epithelial cancer
+hsa-miR-490-3p,Osteosarcoma
+hsa-miR-490-3p,Ovarian carcinoma
+hsa-miR-490-3p,Hepatocellular carcinoma
+hsa-miR-145-5p,Diffuse large b cell lymphoma
+hsa-miR-145-5p,Agressive prostate cancer
+hsa-miR-145-5p,Prostate cancer
+hsa-miR-145-5p,B-cell malignancy
+hsa-miR-145-5p,Gastric cancer
+hsa-miR-145-5p,Stomach cancer
+hsa-miR-145-5p,Alzheimer disease
+hsa-miR-145-5p,Bladder cancer
+hsa-miR-145-5p,Urinary bladder cancer
+hsa-miR-145-5p,Lung cancer
+hsa-miR-145-5p,Breast cancer
+hsa-miR-145-5p,Breast neoplasms
+hsa-miR-145-5p,Congenital heart disease
+hsa-miR-145-5p,Squamous cell carcinoma
+hsa-miR-145-5p,Vascular diseases
+hsa-miR-145-5p,Thyroid cancer
+hsa-miR-145-5p,Colon cancer
+hsa-miR-145-5p,Endometrial carcinoma
+hsa-miR-145-5p,Glioma
+hsa-miR-145-5p,Malignant glioma
+hsa-miR-145-5p,Osteosarcoma
+hsa-miR-145-5p,Ewing sarcoma
+hsa-miR-145-5p,Ewing sarcoma family tumor
+hsa-miR-145-5p,Coronary artery disease
+hsa-miR-145-5p,Pancreatic ductal adenocarcinoma
+hsa-miR-145-5p,Cervical squamous cell carcinoma
+hsa-miR-145-5p,Lung squamous cell carcinoma
+hsa-miR-145-5p,Carcinoma lung non-small-cell
+hsa-miR-145-5p,Egfr mutant non-small cell lung cancer
+hsa-miR-145-5p,Non-small cell lung cancer
+hsa-miR-145-5p,Lung adenocarcinoma
+hsa-miR-145-5p,Carcinoma renal cell
+hsa-miR-145-5p,Kidney chromophobe
+hsa-miR-145-5p,Kidney chromophobe cancer
+hsa-miR-145-5p,Renal cell carcinoma
+hsa-miR-145-5p,Hepatocellular carcinoma
+hsa-miR-145-5p,Burkitt lymphoma
+hsa-miR-145-5p,Esophageal squamous cell carcinoma
+hsa-miR-145-5p,Non small cell lung carcinoma
+hsa-miR-154-5p,Medulloblastoma
+hsa-miR-154-5p,Prostate cancer
+hsa-miR-154-5p,Alzheimer disease
+hsa-miR-154-5p,Melanoma
+hsa-miR-154-5p,Neuroblastoma
+hsa-miR-154-5p,Prostatic neoplasms
+hsa-miR-21-5p,Idiopathic pulmonary fibrosis
+hsa-miR-21-5p,Diffuse large b cell lymphoma
+hsa-miR-21-5p,Multiple sclerosis chronic progressive
+hsa-miR-21-5p,Tongue squamous cell carcinoma
+hsa-miR-21-5p,Oral squamous cell carcinoma
+hsa-miR-21-5p,Medulloblastoma
+hsa-miR-21-5p,Estrogen-receptor positive breast cancer
+hsa-miR-21-5p,Acute promyelocytic leukemia
+hsa-miR-21-5p,Bone disease
+hsa-miR-21-5p,Thyroid carcinoma anaplastic
+hsa-miR-21-5p,Neurofibromatosis 2
+hsa-miR-21-5p,Prostate cancer
+hsa-miR-21-5p,Gastric cancer
+hsa-miR-21-5p,Stomach cancer
+hsa-miR-21-5p,Alzheimer disease
+hsa-miR-21-5p,Hypertension
+hsa-miR-21-5p,Heart disease
+hsa-miR-21-5p,Leukemia
+hsa-miR-21-5p,Vestibular schwannoma
+hsa-miR-21-5p,Uterine fibroid
+hsa-miR-21-5p,Lung cancer
+hsa-miR-21-5p,Kawasaki disease
+hsa-miR-21-5p,Tuberous sclerosis
+hsa-miR-21-5p,Colon carcinoma
+hsa-miR-21-5p,Breast cancer
+hsa-miR-21-5p,Breast neoplasms
+hsa-miR-21-5p,Squamous cell carcinoma
+hsa-miR-21-5p,Vascular diseases
+hsa-miR-21-5p,Thyroid cancer
+hsa-miR-21-5p,Pancreatic cancer
+hsa-miR-21-5p,Atherosclerosis
+hsa-miR-21-5p,Colon cancer
+hsa-miR-21-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-21-5p,Laryngeal carcinoma
+hsa-miR-21-5p,Laryngeal squamous cell carcinoma
+hsa-miR-21-5p,Glioblastoma
+hsa-miR-21-5p,Glioblastoma multiforme
+hsa-miR-21-5p,Astrocytoma
+hsa-miR-21-5p,Glioma
+hsa-miR-21-5p,Malignant glioma
+hsa-miR-21-5p,Osteosarcoma
+hsa-miR-21-5p,Pancreatic ductal adenocarcinoma
+hsa-miR-21-5p,Liver cancer
+hsa-miR-21-5p,Liver neoplasms
+hsa-miR-21-5p,Carcinoma lung non-small-cell
+hsa-miR-21-5p,Non-small cell lung adenocarcinoma
+hsa-miR-21-5p,Non-small cell lung cancer
+hsa-miR-21-5p,Lung adenocarcinoma
+hsa-miR-21-5p,Pancreatic adenocarcinoma
+hsa-miR-21-5p,Carcinoma renal cell
+hsa-miR-21-5p,Kidney chromophobe cancer
+hsa-miR-21-5p,Kidney renal clear cell carcinoma
+hsa-miR-21-5p,Renal cell carcinoma
+hsa-miR-21-5p,Cholangiocarcinoma
+hsa-miR-21-5p,Head and neck squamous cell carcinoma
+hsa-miR-21-5p,Heart failure
+hsa-miR-21-5p,Cowden disease
+hsa-miR-21-5p,Hepatocellular carcinoma
+hsa-miR-21-5p,Cervical carcinoma
+hsa-miR-21-5p,Chronic myelogenous leukemia
+hsa-miR-21-5p,Oropharynx cancer
+hsa-miR-21-5p,Mouth neoplasms
+hsa-miR-21-5p,Cholesteatoma
+hsa-miR-21-5p,Colorectal cancer
+hsa-miR-21-5p,Diabetes mellitus
+hsa-miR-21-5p,Type 2 diabetes mellitus
+hsa-miR-21-5p,Brain disease
+hsa-miR-21-5p,Multiple myeloma
+hsa-miR-21-5p,Hyaloideoretinal degeneration of wagner
+hsa-miR-21-5p,Ovarian epithelial cancer
+hsa-miR-21-5p,Ovarian epithelial carcinoma
+hsa-miR-21-5p,Esophageal squamous cell carcinoma
+hsa-miR-21-5p,Uterine cervical neoplasms
+hsa-miR-21-5p,Cicatrix
+hsa-miR-21-5p,Cardiomegaly
+hsa-miR-21-5p,Inflammation
+hsa-miR-21-5p,Brain injury chronic
+hsa-miR-328-3p,Medulloblastoma
+hsa-miR-328-3p,Alzheimer disease
+hsa-miR-328-3p,Breast cancer
+hsa-miR-328-3p,Breast neoplasms
+hsa-miR-328-3p,Glioblastoma
+hsa-miR-328-3p,Glioma
+hsa-miR-328-3p,Malignant glioma
+hsa-miR-328-3p,Carcinoma lung non-small-cell
+hsa-miR-328-3p,Non-small cell lung cancer
+hsa-miR-328-3p,Hepatocellular carcinoma
+hsa-miR-383-5p,Medulloblastoma
+hsa-miR-383-5p,Squamous cell carcinoma
+hsa-miR-590-5p,Gastric cancer
+hsa-miR-590-5p,Breast cancer
+hsa-miR-590-5p,Malignant melanoma
+hsa-miR-590-5p,Hepatocellular carcinoma
+hsa-miR-10a-5p,Alzheimer disease
+hsa-miR-10a-5p,Cardiovascular disease
+hsa-miR-10a-5p,Breast cancer
+hsa-miR-10a-5p,Breast neoplasms
+hsa-miR-10a-5p,Neuroblastoma
+hsa-miR-10a-5p,Chronic myeloid leukemia
+hsa-miR-10a-5p,Acute myelocytic leukemia
+hsa-miR-10a-5p,Acute myeloid leukemia
+hsa-miR-10a-5p,Colorectal cancer
+hsa-miR-10a-5p,Abortion spontaneous
+hsa-miR-10a-5p,Cardiomegaly
+hsa-miR-10b-5p,Neurofibromatosis 1
+hsa-miR-10b-5p,Alzheimer disease
+hsa-miR-10b-5p,Breast cancer
+hsa-miR-10b-5p,Breast neoplasms
+hsa-miR-10b-5p,Endometriosis of uterus
+hsa-miR-10b-5p,Glioblastoma
+hsa-miR-10b-5p,Glioma
+hsa-miR-10b-5p,Malignant glioma
+hsa-miR-10b-5p,Malignant peripheral nerve sheath tumor
+hsa-miR-10b-5p,Hepatocellular carcinoma
+hsa-miR-10b-5p,Neuroblastoma
+hsa-miR-10b-5p,Esophageal squamous cell carcinoma
+hsa-miR-10b-5p,Uterine cervical neoplasms
+hsa-miR-10b-5p,Cardiomegaly
+hsa-miR-10b-5p,Prostatic neoplasms
+hsa-miR-125a-3p,Multiple symmetric lipomatosis
+hsa-miR-125a-3p,Glioblastoma
+hsa-miR-125a-3p,Glioma
+hsa-miR-125a-3p,Malignant glioma
+hsa-miR-125a-3p,Pancreatic ductal adenocarcinoma
+hsa-miR-125a-3p,Autoimmune thyroiditis
+hsa-miR-125a-3p,Acute myeloid leukemia
+hsa-miR-125a-3p,Multiple myeloma
+hsa-miR-125a-3p,Myeloma
+hsa-miR-146a-5p,Multiple sclerosis chronic progressive
+hsa-miR-146a-5p,Triple negative breast cancer
+hsa-miR-146a-5p,Triple negative sporadic breast cancer
+hsa-miR-146a-5p,Acute promyelocytic leukemia
+hsa-miR-146a-5p,Anaplastic thyroid carcinoma
+hsa-miR-146a-5p,Gastric cancer
+hsa-miR-146a-5p,Stomach cancer
+hsa-miR-146a-5p,Alzheimer disease
+hsa-miR-146a-5p,Osteoporosis
+hsa-miR-146a-5p,Vogt-koyanagi-harada disease
+hsa-miR-146a-5p,Tuberous sclerosis
+hsa-miR-146a-5p,Breast cancer
+hsa-miR-146a-5p,Breast neoplasms
+hsa-miR-146a-5p,Vascular diseases
+hsa-miR-146a-5p,Pancreatic cancer
+hsa-miR-146a-5p,Hepatitis C
+hsa-miR-146a-5p,Atherosclerosis
+hsa-miR-146a-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-146a-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-146a-5p,Dermatitis
+hsa-miR-146a-5p,Chronic obstructive pulmonary disease
+hsa-miR-146a-5p,Papillary thyroid carcinoma
+hsa-miR-146a-5p,Pulmonary hypertension
+hsa-miR-146a-5p,Juvenile rheumatoid arthritis
+hsa-miR-146a-5p,Rheumatoid arthritis
+hsa-miR-146a-5p,Neuroblastoma
+hsa-miR-146a-5p,Kaposi sarcoma
+hsa-miR-146a-5p,Cardiomegaly
+hsa-miR-146a-5p,Prostatic neoplasms
+hsa-miR-146a-5p,Encephalitis herpes simplex
+hsa-miR-146b-5p,Multiple sclerosis chronic progressive
+hsa-miR-146b-5p,Hormone-refractory prostate carcinoma
+hsa-miR-146b-5p,Alzheimer disease
+hsa-miR-146b-5p,Huntington disease
+hsa-miR-146b-5p,Lung cancer
+hsa-miR-146b-5p,Breast cancer
+hsa-miR-146b-5p,Breast neoplasms
+hsa-miR-146b-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-146b-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-146b-5p,Glioma
+hsa-miR-146b-5p,Malignant glioma
+hsa-miR-146b-5p,Myelofibrosis
+hsa-miR-146b-5p,Hepatocellular carcinoma
+hsa-miR-146b-5p,Neoplasm residual
+hsa-miR-202-3p,Carcinoma lung non-small-cell
+hsa-miR-202-3p,Multiple system atrophy
+hsa-miR-202-3p,Neuroblastoma
+hsa-miR-204-5p,Multiple sclerosis chronic progressive
+hsa-miR-204-5p,Prostate cancer
+hsa-miR-204-5p,Gastric cancer
+hsa-miR-204-5p,Alzheimer disease
+hsa-miR-204-5p,Melanoma
+hsa-miR-204-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-204-5p,Relapsing-remitting multiple sclerosis
+hsa-miR-204-5p,Epilepsy temporal lobe
+hsa-miR-204-5p,Insulinoma
+hsa-miR-204-5p,Intrahepatic cholangiocarcinoma
+hsa-miR-204-5p,Cholangiocarcinoma
+hsa-miR-204-5p,Aortic valve disease
+hsa-miR-204-5p,Hepatocellular carcinoma
+hsa-miR-204-5p,Neuroblastoma
+hsa-miR-204-5p,Acute myeloid leukemia
+hsa-miR-211-5p,Melanoma
+hsa-miR-211-5p,Kidney diseases
+hsa-miR-211-5p,Aortic valve disease
+hsa-miR-211-5p,Colorectal cancer
+hsa-miR-22-3p,Multiple sclerosis chronic progressive
+hsa-miR-22-3p,Medulloblastoma
+hsa-miR-22-3p,Estrogen-receptor positive breast cancer
+hsa-miR-22-3p,Chorea
+hsa-miR-22-3p,Thrombocytopenia
+hsa-miR-22-3p,Breast cancer
+hsa-miR-22-3p,Breast neoplasms
+hsa-miR-22-3p,Colon cancer
+hsa-miR-22-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-22-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-22-3p,Asthma
+hsa-miR-22-3p,Amyotrophic lateral sclerosis
+hsa-miR-22-3p,Intrahepatic cholangiocarcinoma
+hsa-miR-22-3p,Early hepatocellular carcinoma
+hsa-miR-22-3p,Hepatocellular carcinoma
+hsa-miR-22-3p,Pulmonary emphysema
+hsa-miR-335-5p,Gastric cancer
+hsa-miR-335-5p,Alzheimer disease
+hsa-miR-335-5p,Myotonic dystrophy
+hsa-miR-335-5p,Breast cancer
+hsa-miR-335-5p,Breast neoplasms
+hsa-miR-335-5p,Thyroid cancer
+hsa-miR-335-5p,Non-alcoholic fatty liver disease
+hsa-miR-342-3p,Acute promyelocytic leukemia
+hsa-miR-342-3p,Alzheimer disease
+hsa-miR-342-3p,Neurodegenerative diseases
+hsa-miR-342-3p,Lung cancer
+hsa-miR-342-3p,Breast cancer
+hsa-miR-342-3p,Breast neoplasms
+hsa-miR-342-3p,Osteosarcoma
+hsa-miR-342-3p,Cervical cancer
+hsa-miR-342-3p,Prion disease
+hsa-miR-342-3p,Hepatocellular carcinoma
+hsa-miR-379-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-379-5p,Osteosarcoma
+hsa-miR-379-5p,Prostatic neoplasms
+hsa-miR-425-5p,Medulloblastoma
+hsa-miR-425-5p,Gastric cancer
+hsa-miR-425-5p,Amyotrophic lateral sclerosis
+hsa-miR-499a-5p,Osteosarcoma
+hsa-miR-499a-5p,Hepatocellular carcinoma
+hsa-miR-499a-5p,Prostatic neoplasms
+hsa-miR-543,Prostate cancer
+hsa-miR-543,Gastric cancer
+hsa-miR-543,Hepatocellular carcinoma
+hsa-miR-9-5p,Disease of metabolism
+hsa-miR-9-5p,Metabolic disease
+hsa-miR-9-5p,Multiple sclerosis chronic progressive
+hsa-miR-9-5p,Medulloblastoma
+hsa-miR-9-5p,Triple negative breast cancer
+hsa-miR-9-5p,Anencephaly
+hsa-miR-9-5p,Gastric cancer
+hsa-miR-9-5p,Stomach cancer
+hsa-miR-9-5p,Alzheimer disease
+hsa-miR-9-5p,Alzheimer disease susceptibility to
+hsa-miR-9-5p,Huntington disease
+hsa-miR-9-5p,Chorea
+hsa-miR-9-5p,Breast cancer
+hsa-miR-9-5p,Breast neoplasms
+hsa-miR-9-5p,Malignant melanoma
+hsa-miR-9-5p,Melanoma
+hsa-miR-9-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-9-5p,Ovarian cancer
+hsa-miR-9-5p,Ovarian neoplasms
+hsa-miR-9-5p,Glioblastoma
+hsa-miR-9-5p,Glioma
+hsa-miR-9-5p,malignant glioma
+hsa-miR-9-5p,Melas syndrome
+hsa-miR-9-5p,Gastric adenocarcinoma
+hsa-miR-9-5p,Stomach adenocarcinoma
+hsa-miR-9-5p,Non-small cell lung cancer
+hsa-miR-9-5p,Uveal melanoma
+hsa-miR-9-5p,Progressive supranuclear palsy
+hsa-miR-9-5p,Supranuclear palsy progressive
+hsa-miR-9-5p,Hepatocellular carcinoma
+hsa-miR-9-5p,Hepatoma
+hsa-miR-9-5p,Liver hepatocellular carcinoma
+hsa-miR-9-5p,Neuroblastoma
+hsa-miR-9-5p,Hodgkin lymphoma
+hsa-miR-9-5p,Prostatic neoplasms
+hsa-miR-376c-3p,Gastric adenocarcinoma
+hsa-miR-376c-3p,Ovarian epithelial cancer
+hsa-miR-542-3p,Lymphoplasmacytic lymphoma
+hsa-miR-542-3p,Urinary bladder cancer
+hsa-miR-542-3p,Lung cancer
+hsa-miR-542-3p,Astrocytoma
+hsa-miR-542-3p,Non-small cell lung cancer
+hsa-miR-542-3p,Hepatocellular carcinoma
+hsa-miR-210-3p,Diffuse large b cell lymphoma
+hsa-miR-210-3p,Acute promyelocytic leukemia
+hsa-miR-210-3p,Prostate cancer
+hsa-miR-210-3p,Alzheimer disease
+hsa-miR-210-3p,Head and neck cancer
+hsa-miR-210-3p,Cardiovascular disease
+hsa-miR-210-3p,Breast cancer
+hsa-miR-210-3p,Breast neoplasms
+hsa-miR-210-3p,Glioblastoma
+hsa-miR-210-3p,Glioma
+hsa-miR-210-3p,Malignant glioma
+hsa-miR-210-3p,Gastrointestinal system cancer
+hsa-miR-210-3p,Pancreatic ductal adenocarcinoma
+hsa-miR-210-3p,Carcinoma lung non-small-cell
+hsa-miR-210-3p,Non-small cell lung adenocarcinoma
+hsa-miR-210-3p,Non-small cell lung cancer
+hsa-miR-210-3p,Clear cell renal cell carcinoma
+hsa-miR-210-3p,Renal clear cell carcinoma
+hsa-miR-210-3p,Myocardial infarction
+hsa-miR-210-3p,Early hepatocellular carcinoma
+hsa-miR-210-3p,Hepatocellular carcinoma
+hsa-miR-210-3p,Esophageal squamous cell carcinoma
+hsa-miR-210-3p,Brain injury chronic
+hsa-miR-210-3p,Laryngocarcinoma cancer
+hsa-miR-132-3p,Inflammatory bowel disease
+hsa-miR-132-3p,Alzheimer disease
+hsa-miR-132-3p,Huntington disease
+hsa-miR-132-3p,Pituitary neoplasms
+hsa-miR-132-3p,Pancreatic cancer
+hsa-miR-132-3p,Glioblastoma
+hsa-miR-132-3p,Glioma
+hsa-miR-132-3p,Malignant glioma
+hsa-miR-132-3p,Chronic obstructive pulmonary disease
+hsa-miR-132-3p,Juvenile rheumatoid arthritis
+hsa-miR-132-3p,Progressive supranuclear palsy
+hsa-miR-132-3p,Supranuclear palsy progressive
+hsa-miR-132-3p,Liver carcinoma
+hsa-miR-132-3p,Frontotemporal dementia
+hsa-miR-132-3p,Colorectal cancer
+hsa-miR-132-3p,Colorectal neoplasms
+hsa-miR-132-3p,Chronic pain
+hsa-miR-212-3p,Gastric cancer
+hsa-miR-212-3p,Stomach cancer
+hsa-miR-212-3p,Alzheimer disease
+hsa-miR-212-3p,Uterine fibroid
+hsa-miR-212-3p,Pancreatic ductal adenocarcinoma
+hsa-miR-212-3p,Non-small cell lung cancer
+hsa-miR-212-3p,Frontotemporal dementia
+hsa-miR-31-5p,Idiopathic pulmonary fibrosis
+hsa-miR-31-5p,Diffuse large b cell lymphoma
+hsa-miR-31-5p,Medulloblastoma
+hsa-miR-31-5p,Alzheimer disease
+hsa-miR-31-5p,Lung cancer
+hsa-miR-31-5p,Kawasaki disease
+hsa-miR-31-5p,Colon carcinoma
+hsa-miR-31-5p,Breast cancer
+hsa-miR-31-5p,Breast neoplasms
+hsa-miR-31-5p,Thyroid cancer
+hsa-miR-31-5p,Melanoma
+hsa-miR-31-5p,Colon cancer
+hsa-miR-31-5p,Ovarian cancer
+hsa-miR-31-5p,Glioblastoma
+hsa-miR-31-5p,Esophageal cancer
+hsa-miR-31-5p,Head and neck squamous cell carcinoma
+hsa-miR-31-5p,Aortic valve disease
+hsa-miR-31-5p,Ovarian endometrial cancer
+hsa-miR-31-5p,Hepatocellular carcinoma
+hsa-miR-31-5p,Systemic lupus erythematosus
+hsa-miR-31-5p,Colorectal cancer
+hsa-miR-31-5p,Ovarian epithelial cancer
+hsa-miR-31-5p,Cardiomegaly
+hsa-miR-31-5p,Mouth diseases
+hsa-miR-411-5p,Osteoarthritis
+hsa-miR-7-5p,Tongue squamous cell carcinoma
+hsa-miR-7-5p,Dermatomyositis
+hsa-miR-7-5p,Alzheimer disease
+hsa-miR-7-5p,Neurodegenerative diseases
+hsa-miR-7-5p,Lung cancer
+hsa-miR-7-5p,Parkinson disease
+hsa-miR-7-5p,Breast cancer
+hsa-miR-7-5p,Breast neoplasms
+hsa-miR-7-5p,Malignant melanoma
+hsa-miR-7-5p,Melanoma
+hsa-miR-7-5p,Glioblastoma
+hsa-miR-7-5p,Glioma
+hsa-miR-7-5p,Malignant glioma
+hsa-miR-7-5p,Pancreatic ductal adenocarcinoma
+hsa-miR-7-5p,Carcinoma lung non-small-cell
+hsa-miR-7-5p,Non-small cell lung adenocarcinoma
+hsa-miR-7-5p,Non-small cell lung cancer
+hsa-miR-7-5p,Schizophrenia
+hsa-miR-7-5p,Neuroblastoma
+hsa-miR-7-5p,Ovarian epithelial cancer
+hsa-miR-7-5p,Thyroid cancer papillary
+hsa-miR-7-5p,Mptp poisoning
+hsa-miR-192-5p,Medulloblastoma
+hsa-miR-192-5p,Atrial fibrillation
+hsa-miR-192-5p,Hirschsprung disease
+hsa-miR-192-5p,Gastric cancer
+hsa-miR-192-5p,Alzheimer disease
+hsa-miR-192-5p,Breast cancer
+hsa-miR-192-5p,Colon cancer
+hsa-miR-192-5p,Amyotrophic lateral sclerosis
+hsa-miR-192-5p,Osteosarcoma
+hsa-miR-192-5p,Early hepatocellular carcinoma
+hsa-miR-192-5p,HBV+ hepatocellular carcinoma
+hsa-miR-192-5p,Hepatocellular carcinoma
+hsa-miR-192-5p,Ulcerative colitis
+hsa-miR-192-5p,Colorectal cancer
+hsa-miR-192-5p,Multiple myeloma
+hsa-miR-192-5p,Arrhythmias cardiac
+hsa-miR-192-5p,Death sudden
+hsa-miR-215-5p,Hirschsprung disease
+hsa-miR-215-5p,Gastric cancer
+hsa-miR-215-5p,Stomach cancer
+hsa-miR-215-5p,Breast cancer
+hsa-miR-215-5p,Breast neoplasms
+hsa-miR-215-5p,Melanoma
+hsa-miR-215-5p,Thyroid adenomas
+hsa-miR-215-5p,Colorectal cancer
+hsa-miR-215-5p,Diabetic nephropathies
+hsa-miR-215-5p,Fibrosis
+hsa-miR-215-5p,Stroke lacunar
+hsa-miR-378a-3p,Alzheimer disease
+hsa-miR-378a-3p,Pancreatic cancer
+hsa-miR-378a-3p,Colorectal cancer
+hsa-miR-378b,Urinary bladder cancer
+hsa-miR-378b,Urinary bladder neoplasms
+hsa-miR-378b,Carcinoma renal cell
+hsa-miR-378b,Renal cell carcinoma
+hsa-miR-378c,Urinary bladder cancer
+hsa-miR-378c,Urinary bladder neoplasms
+hsa-miR-378c,Carcinoma renal cell
+hsa-miR-378c,Renal cell carcinoma
+hsa-miR-378e,Urinary bladder cancer
+hsa-miR-378e,Urinary bladder neoplasms
+hsa-miR-378e,Carcinoma renal cell
+hsa-miR-378e,Renal cell carcinoma
+hsa-miR-378h,Urinary bladder cancer
+hsa-miR-378h,Urinary bladder neoplasms
+hsa-miR-378h,Carcinoma renal cell
+hsa-miR-378h,Renal cell carcinoma
+hsa-miR-378i,Urinary bladder cancer
+hsa-miR-378i,Urinary bladder neoplasms
+hsa-miR-378i,Carcinoma renal cell
+hsa-miR-378i,Renal cell carcinoma
+hsa-miR-422a,Alzheimer disease
+hsa-miR-422a,Thyroid cancer
+hsa-miR-422a,Osteosarcoma
+hsa-miR-422a,Colorectal cancer
+hsa-miR-183-5p,Retinitis pigmentosa
+hsa-miR-183-5p,Lung cancer
+hsa-miR-183-5p,Breast cancer
+hsa-miR-183-5p,Breast neoplasms
+hsa-miR-183-5p,Melanoma
+hsa-miR-183-5p,Chronic obstructive pulmonary disease
+hsa-miR-183-5p,Amyotrophic lateral sclerosis
+hsa-miR-183-5p,Osteosarcoma
+hsa-miR-183-5p,Hepatocellular carcinoma
+hsa-miR-183-5p,Liver hepatocellular carcinoma
+hsa-miR-183-5p,Colorectal cancer
+hsa-miR-183-5p,Nasopharynx carcinoma
+hsa-miR-183-5p,Prostatic neoplasms
+hsa-miR-431-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-496,Breast cancer
+hsa-miR-496,Breast neoplasms
+hsa-miR-496,Acute myeloid leukemia
+hsa-miR-496,Leukemia acute myeloid
+hsa-miR-382-5p,Alzheimer disease
+hsa-miR-382-5p,Fragile x syndrome
+hsa-miR-448,Alzheimer disease
+hsa-miR-448,Breast cancer
+hsa-miR-448,Breast neoplasms
+hsa-miR-448,Osteosarcoma
+hsa-miR-300,Breast cancer
+hsa-miR-300,Pancreatic cancer
+hsa-miR-300,Laryngeal squamous cell carcinoma
+hsa-miR-300,Glioma
+hsa-miR-300,Head and neck squamous cell carcinoma
+hsa-miR-300,Hepatocellular carcinoma
+hsa-miR-381-3p,Alzheimer disease
+hsa-miR-381-3p,Breast cancer
+hsa-miR-381-3p,Breast neoplasms
+hsa-miR-381-3p,Pulmonary tuberculosis
+hsa-miR-381-3p,Glioma
+hsa-miR-381-3p,Malignant glioma
+hsa-miR-381-3p,Papillary thyroid carcinoma
+hsa-miR-191-5p,Medulloblastoma
+hsa-miR-191-5p,Alzheimer disease
+hsa-miR-191-5p,Renal cell carcinoma
+hsa-miR-615-3p,Gastric cancer
+hsa-miR-615-3p,Liver cirrhosis
+hsa-miR-190a-5p,Multiple sclerosis chronic progressive
+hsa-miR-190a-5p,Medulloblastoma
+hsa-miR-190a-5p,Alzheimer disease
+hsa-miR-190a-5p,Melanoma
+hsa-miR-190a-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-190a-5p,Arsenic poisoning
+hsa-miR-190a-5p,Stroke lacunar
+hsa-miR-486-5p,Huntington disease
+hsa-miR-486-5p,Chorea
+hsa-miR-486-5p,Down syndrome
+hsa-miR-486-5p,Multiple sclerosis relapsing-remitting
+hsa-miR-486-5p,Glioblastoma
+hsa-miR-486-5p,Non-small cell lung cancer
+hsa-miR-486-5p,Cervical cancer
+hsa-miR-486-5p,Esophageal squamous cell carcinoma
+hsa-miR-486-5p,Cardiomegaly
+hsa-miR-133a-3p,Oral squamous cell carcinoma
+hsa-miR-133a-3p,Prostate cancer
+hsa-miR-133a-3p,Bladder cancer
+hsa-miR-133a-3p,Head and neck squamous cell carcinoma
+hsa-miR-133b,Tongue squamous cell carcinoma
+hsa-miR-133b,Atrial fibrillation
+hsa-miR-133b,Colorectal carcinoma
+hsa-miR-133b,Prostate cancer
+hsa-miR-133b,Prostate neoplasms
+hsa-miR-133b,Gastric cancer
+hsa-miR-133b,Gastric neoplasms
+hsa-miR-133b,Alzheimer disease
+hsa-miR-133b,Bladder cancer
+hsa-miR-133b,Urinary bladder cancer
+hsa-miR-133b,Urinary bladder neoplasms
+hsa-miR-133b,Cardiovascular disease
+hsa-miR-133b,Cardiomyopathy dilated
+hsa-miR-133b,Idiopathic dilated cardiomyopathy
+hsa-miR-133b,Lung cancer
+hsa-miR-133b,Lung neoplasms
+hsa-miR-133b,Carcinoma colon
+hsa-miR-133b,Breast cancer
+hsa-miR-133b,Breast neoplasms
+hsa-miR-133b,Squamous cell carcinoma
+hsa-miR-133b,Atherosclerosis
+hsa-miR-133b,Glioblastoma
+hsa-miR-133b,Glioma
+hsa-miR-133b,Gastrointestinal neoplasms
+hsa-miR-133b,Gastrointestinal system cancer
+hsa-miR-133b,Osteosarcoma
+hsa-miR-133b,Squamous cell carcinoma esophageal
+hsa-miR-133b,Non-small cell lung cancer
+hsa-miR-133b,Lung adenocarcinoma
+hsa-miR-133b,Heart failure
+hsa-miR-133b,Hepatocellular carcinoma
+hsa-miR-133b,Cataract
+hsa-miR-133b,Retinal degeneration
+hsa-miR-133b,Colorectal cancer
+hsa-miR-133b,Nasopharyngeal carcinoma
+hsa-miR-133b,Acute myocardial infarction
+hsa-miR-133b,Esophageal squamous cell carcinoma
+hsa-miR-133b,Bladder neoplasms
+hsa-miR-133b,Cardiomegaly
+hsa-miR-133b,Hypertrophy
+hsa-miR-133b,Prostatic neoplasms
+hsa-miR-133b,Hypertrophy left ventricular
+hsa-miR-451a,Adult T cell leukemia
+hsa-miR-451a,Leukemia-lymphoma adult t-cell
+hsa-miR-451a,Anencephaly
+hsa-miR-451a,Colorectal carcinoma
+hsa-miR-451a,Fatty liver non-alcoholic
+hsa-miR-451a,Gastric neoplasms
+hsa-miR-451a,Stomach cancer
+hsa-miR-451a,Gastric cancer
+hsa-miR-451a,Alzheimer disease
+hsa-miR-451a,Bladder cancer
+hsa-miR-451a,Urinary bladder cancer
+hsa-miR-451a,Esophageal carcinoma
+hsa-miR-451a,Hypertrophic cardiomyopathy
+hsa-miR-451a,Primary biliary cirrhosis
+hsa-miR-451a,Breast cancer
+hsa-miR-451a,Breast neoplasms
+hsa-miR-451a,Neoplasms
+hsa-miR-451a,Pancreatic cancer
+hsa-miR-451a,Pancreatic neoplasms
+hsa-miR-451a,Basal cell carcinoma
+hsa-miR-451a,Thyroid adenomas
+hsa-miR-451a,Pulmonary tuberculosis
+hsa-miR-451a,Tuberculosis pulmonary
+hsa-miR-451a,Glioma
+hsa-miR-451a,Malignant glioma
+hsa-miR-451a,Gastrointestinal neoplasms
+hsa-miR-451a,Gastrointestinal system cancer
+hsa-miR-451a,Amyotrophic lateral sclerosis
+hsa-miR-451a,Renal cell carcinoma
+hsa-miR-451a,Esophageal cancer
+hsa-miR-451a,Esophageal neoplasms
+hsa-miR-451a,Carcinoma hepatocellular
+hsa-miR-451a,Hepatocellular carcinoma
+hsa-miR-451a,Rheumatoid arthritis
+hsa-miR-451a,Chronic myeloid leukemia
+hsa-miR-451a,Leukemia myeloid chronic
+hsa-miR-451a,Polycythemia vera
+hsa-miR-451a,Acute myeloid leukemia
+hsa-miR-451a,Leukemia acute myeloid
+hsa-miR-451a,Colorectal cancer
+hsa-miR-451a,Carcinoma nasopharyngeal
+hsa-miR-451a,Nasopharyngeal carcinoma
+hsa-miR-451a,Nasopharynx carcinoma
+hsa-miR-451a,Erythropoiesis
+hsa-miR-451a,Cardiomegaly
+hsa-miR-451a,Trophoblasts
+hsa-miR-451a,Ischemic heart disease
+hsa-miR-126-3p,Multiple sclerosis chronic progressive
+hsa-miR-126-3p,Acute promyelocytic leukemia
+hsa-miR-126-3p,Anencephaly
+hsa-miR-126-3p,Congenital myopathy
+hsa-miR-126-3p,Gastric cancer
+hsa-miR-126-3p,Alzheimer disease
+hsa-miR-126-3p,Primary pulmonary hypertension
+hsa-miR-126-3p,Breast cancer
+hsa-miR-126-3p,Breast neoplasms
+hsa-miR-126-3p,Thyroid cancer
+hsa-miR-126-3p,Colon cancer
+hsa-miR-126-3p,Multiple sclerosis relapsing-remitting
+hsa-miR-126-3p,Relapsing-remitting multiple sclerosis
+hsa-miR-126-3p,Carcinoma lung non-small-cell
+hsa-miR-126-3p,Non-small cell lung cancer
+hsa-miR-126-3p,Early hepatocellular carcinoma
+hsa-miR-126-3p,Hepatocellular carcinoma
+hsa-miR-126-3p,Rheumatoid arthritis
+hsa-miR-126-3p,Neuroblastoma
+hsa-miR-126-3p,Ulcerative colitis
+hsa-miR-126-3p,Acute myelocytic leukemia
+hsa-miR-126-3p,Acute myeloid leukemia
+hsa-miR-126-3p,Colorectal cancer
+hsa-miR-126-3p,Diabetes mellitus
+hsa-miR-126-3p,Type 2 diabetes mellitus

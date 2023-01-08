@@ -1,0 +1,4851 @@
+﻿lncRNA,disease
+CDKN2B-AS1,Acute Lymphoblastic Leukemia
+CDKN2B-AS1,Acute Myeloid Leukemia
+CDKN2B-AS1,Acute Myocardial Infarction
+CDKN2B-AS1,Adult T-Cell Leukemia
+CDKN2B-AS1,Age-Related Macular Degeneration
+CDKN2B-AS1,Allergic Rhinitis
+CDKN2B-AS1,Alzheimer Disease
+CDKN2B-AS1,Anxiety Disorder
+CDKN2B-AS1,Arteriosclerotic Cardiovascular Disease
+CDKN2B-AS1,Astrocytoma
+CDKN2B-AS1,Atherosclerosis
+CDKN2B-AS1,Atrial Fibrillation
+CDKN2B-AS1,Atrophic Gastritis
+CDKN2B-AS1,Autism Spectrum Disorder
+CDKN2B-AS1,Basal Cell Carcinoma
+CDKN2B-AS1,Beta-Thalassemia
+CDKN2B-AS1,Bipolar Disorder
+CDKN2B-AS1,Bladder Cancer
+CDKN2B-AS1,Bladder Urothelial Carcinoma
+CDKN2B-AS1,Breast Cancer
+CDKN2B-AS1,Bronchial Asthma
+CDKN2B-AS1,Burkitt Lymphoma
+CDKN2B-AS1,Cancer
+CDKN2B-AS1,Cardiovascular Disease
+CDKN2B-AS1,Carotid Stenosis
+CDKN2B-AS1,Cataract
+CDKN2B-AS1,Cell Renal Cell Carcinoma
+CDKN2B-AS1,Cervical Cancer
+CDKN2B-AS1,Cholangiocarcinoma
+CDKN2B-AS1,Chronic Myeloid Leukemia
+CDKN2B-AS1,Chronic Obstructive Pulmonary Disease
+CDKN2B-AS1,Colon Cancer
+CDKN2B-AS1,Colorectal Cancer
+CDKN2B-AS1,Congestive Heart Failure
+CDKN2B-AS1,Coronary Artery Disease
+CDKN2B-AS1,Coronary Atherosclerotic Heart Disease
+CDKN2B-AS1,Coronary Heart Disease
+CDKN2B-AS1,Crohn's Disease
+CDKN2B-AS1,Cutaneous Malignant Melanoma
+CDKN2B-AS1,Diabetes Mellitus
+CDKN2B-AS1,Diabetic Nephropathy
+CDKN2B-AS1,Diabetic Retinopathy
+CDKN2B-AS1,Endometrial Cancer
+CDKN2B-AS1,Endometriosis
+CDKN2B-AS1,Epilepsy
+CDKN2B-AS1,Epithelial Ovarian Cancer
+CDKN2B-AS1,Esophageal Cancer
+CDKN2B-AS1,Esophageal Squamous Cell Cancer
+CDKN2B-AS1,Esophagus Squamous Cell Carcinoma
+CDKN2B-AS1,Gallbladder Cancer
+CDKN2B-AS1,Gastric Cancer
+CDKN2B-AS1,Glaucoma
+CDKN2B-AS1,Glioblastoma
+CDKN2B-AS1,Glioma
+CDKN2B-AS1,Head And Neck Squamous Cell Carcinoma
+CDKN2B-AS1,Hepatocellular Cancer
+CDKN2B-AS1,Hepatocellular Carcinoma
+CDKN2B-AS1,Hypertension
+CDKN2B-AS1,Intracranial Aneurysm
+CDKN2B-AS1,Intrahepatic Cholangiocarcinoma
+CDKN2B-AS1,Invasive Breast Carcinoma
+CDKN2B-AS1,Laryngeal Squamous Cell Cancer
+CDKN2B-AS1,Laryngeal Squamous Cell Carcinoma
+CDKN2B-AS1,Leukemia
+CDKN2B-AS1,Liver Cancer
+CDKN2B-AS1,Liver Fibrosis
+CDKN2B-AS1,Lung Adenocarcinoma
+CDKN2B-AS1,Lung Cancer
+CDKN2B-AS1,Lung Non-Small Cell Carcinoma
+CDKN2B-AS1,Major Depressive Disorder
+CDKN2B-AS1,Malignant Glioma
+CDKN2B-AS1,Medulloblastoma
+CDKN2B-AS1,Melanoma
+CDKN2B-AS1,Mouth Neoplasm
+CDKN2B-AS1,Multiple Myeloma
+CDKN2B-AS1,Multiple Sclerosis
+CDKN2B-AS1,Myelofibrosis
+CDKN2B-AS1,Myocardial Infarction
+CDKN2B-AS1,Nasopharynx Cancer
+CDKN2B-AS1,Nasopharynx Carcinoma
+CDKN2B-AS1,Neck Squamous Cell Carcinoma
+CDKN2B-AS1,Nervous System Cancer
+CDKN2B-AS1,Neuroblastoma
+CDKN2B-AS1,Neurofibromatosis 1
+CDKN2B-AS1,Non-Alcoholic Fatty Liver
+CDKN2B-AS1,Non-Small Cell Lung Cancer
+CDKN2B-AS1,Oral Cancer
+CDKN2B-AS1,Oral Squamous Cell Carcinoma
+CDKN2B-AS1,Osteoarthritis
+CDKN2B-AS1,Osteosarcoma
+CDKN2B-AS1,Ovarian Cancer
+CDKN2B-AS1,Pancreatic Cancer
+CDKN2B-AS1,Papillary Thyroid Cancer
+CDKN2B-AS1,Parkinson Disease
+CDKN2B-AS1,Periodontitis
+CDKN2B-AS1,Peripheral Artery Disease
+CDKN2B-AS1,Pituitary Adenoma
+CDKN2B-AS1,Precursor Cell Lymphoblastic Leukemia-Lymphoma
+CDKN2B-AS1,Primary Myelofibrosis
+CDKN2B-AS1,Primary Open Angle Glaucoma
+CDKN2B-AS1,Prostate Cancer
+CDKN2B-AS1,Prostate Neoplasm
+CDKN2B-AS1,Psoriasis
+CDKN2B-AS1,Pulmonary Artery Hypertension
+CDKN2B-AS1,Renal Cell Carcinoma
+CDKN2B-AS1,Renal Clear Cell Carcinoma
+CDKN2B-AS1,Retinoblastoma
+CDKN2B-AS1,Small Cell Lung Cancer
+CDKN2B-AS1,Squamous Cell Carcinoma
+CDKN2B-AS1,Stomach Cancer
+CDKN2B-AS1,T-Cell Acute Lymphoblastic Leukemia
+CDKN2B-AS1,T-Cell Leukemia
+CDKN2B-AS1,Thoracic Aortic Dissection
+CDKN2B-AS1,Thyroid Anaplastic Carcinoma
+CDKN2B-AS1,Thyroid Cancer
+CDKN2B-AS1,Triple-Negative Breast Cancer
+CDKN2B-AS1,Tumor
+CDKN2B-AS1,Type 2 Diabetes Mellitus
+CDKN2B-AS1,Ulcerative Colitis
+CDKN2B-AS1,Urinary Bladder Cancer
+CDKN2B-AS1,Uterine Cervical Neoplasm
+CDKN2B-AS1,Uterine Corpus Endometrial Carcinoma
+SNHG8,Acute Myocardial Infarction
+SNHG8,Atherosclerosis
+SNHG8,Breast Cancer
+SNHG8,Cervical Cancer
+SNHG8,Colorectal Cancer
+SNHG8,Endometrial Cancer
+SNHG8,Esophageal Squamous Cell Cancer
+SNHG8,Gastric Cancer
+SNHG8,Hepatocellular Carcinoma
+SNHG8,Malignant Pleural Mesothelioma
+SNHG8,Muscle-Invasive Bladder Cancer
+SNHG8,Myocardial Infarction
+SNHG8,Nasopharynx Carcinoma
+SNHG8,Neuroblastoma
+SNHG8,Non-Small Cell Lung Cancer
+SNHG8,Non Small Cell Lung Cancer
+SNHG8,Osteosarcoma
+SNHG8,Ovarian Carcinoma
+SNHG8,Pancreatic Adenocarcinoma
+SNHG8,Periodontitis
+SNHG8,Stomach Cancer
+HOTAIR,Acute Megakaryoblastic Leukemia
+HOTAIR,Acute Myeloid Leukemia
+HOTAIR,Acute Myocardial Infarction
+HOTAIR,Adrenocortical Cancer
+HOTAIR,Adrenocortical Carcinoma
+HOTAIR,Astrocytoma
+HOTAIR,Atherosclerosis
+HOTAIR,Atrial Fibrillation
+HOTAIR,Atrophic Gastritis
+HOTAIR,Attention Deficit Hyperactivity Disorder
+HOTAIR,B-Cell Lymphoma
+HOTAIR,Bipolar Disorder
+HOTAIR,Bladder Cancer
+HOTAIR,Bladder Carcinoma
+HOTAIR,Bladder Transitional Cell Carcinoma
+HOTAIR,Bladder Urothelial Carcinoma
+HOTAIR,Breast Cancer
+HOTAIR,Cancer
+HOTAIR,Cardiovascular Disease
+HOTAIR,Cerebrovascular Disease
+HOTAIR,Cervical Cancer
+HOTAIR,Cholangiocarcinoma
+HOTAIR,Chondrosarcoma
+HOTAIR,Chronic Myeloid Leukemia
+HOTAIR,Chronic Obstructive Pulmonary Disease
+HOTAIR,Clear Cell Renal Cell Carcinoma
+HOTAIR,Colon Adenocarcinoma
+HOTAIR,Colon Cancer
+HOTAIR,Colorectal Cancer
+HOTAIR,Congestive Heart Failure
+HOTAIR,Coronary Artery Disease
+HOTAIR,Cutaneous Squamous Cell Carcinoma
+HOTAIR,Diabetes Mellitus
+HOTAIR,Diabetic Nephropathy
+HOTAIR,Diabetic Retinopathy
+HOTAIR,Diffuse Large B-Cell Lymphoma
+HOTAIR,Embryonal Cancer
+HOTAIR,Embryonal Tumor
+HOTAIR,Endometrial Cancer
+HOTAIR,Endometrial Carcinoma
+HOTAIR,Endometrial Squamous Carcinoma
+HOTAIR,Ependymoma
+HOTAIR,Epithelial Ovarian Cancer
+HOTAIR,Esophageal Adenocarcinoma
+HOTAIR,Esophageal Cancer
+HOTAIR,Esophageal Carcinoma
+HOTAIR,Esophageal Squamous Cell Cancer
+HOTAIR,Esophagus Squamous Cell Carcinoma
+HOTAIR,Fibroadenoma
+HOTAIR,Gallbladder Cancer
+HOTAIR,Gastric Adenocarcinoma
+HOTAIR,Gastric Cancer
+HOTAIR,Gastric Cardia Adenocarcinoma
+HOTAIR,Gastrointestinal Cancer
+HOTAIR,Gastrointestinal Stromal Tumor
+HOTAIR,Gastrointestinal System Cancer
+HOTAIR,Glioblastoma
+HOTAIR,Glioblastoma Multiforme
+HOTAIR,Glioma
+HOTAIR,Head And Neck Squamous Cell Cancer
+HOTAIR,Head And Neck Squamous Cell Carcinoma
+HOTAIR,Heart Disease
+HOTAIR,Hepatitis B
+HOTAIR,Hepatitis C
+HOTAIR,Hepatocellular Cancer
+HOTAIR,Hepatocellular Carcinoma
+HOTAIR,Her2-Receptor Positive Breast Cancer
+HOTAIR,Inflammation
+HOTAIR,Intervertebral Disc Degeneration
+HOTAIR,Kidney Cancer
+HOTAIR,Knee Osteoarthritis
+HOTAIR,Laryngeal Cancer
+HOTAIR,Laryngeal Squamous Cell Cancer
+HOTAIR,Laryngeal Squamous Cell Carcinoma
+HOTAIR,Leukemia
+HOTAIR,Liver Cancer
+HOTAIR,Liver Cirrhosis
+HOTAIR,Liver Fibrosis
+HOTAIR,Lung Adenocarcinoma
+HOTAIR,Lung Cancer
+HOTAIR,Lung Non-Small Cell Carcinoma
+HOTAIR,Lung Small Cell Carcinoma
+HOTAIR,Lung Squamous Cell Carcinoma
+HOTAIR,Major Depressive Disorder
+HOTAIR,Malignant Glioma
+HOTAIR,Malignant Melanoma
+HOTAIR,Medulloblastoma
+HOTAIR,Melanoma
+HOTAIR,Multiple Myeloma
+HOTAIR,Multiple Sclerosis
+HOTAIR,Myeloma
+HOTAIR,Myocardial Infarction
+HOTAIR,Nasopharynx Cancer
+HOTAIR,Nasopharynx Carcinoma
+HOTAIR,Neuroblastoma
+HOTAIR,Neuroendocrine Neoplasm
+HOTAIR,Non-Alcoholic Fatty Liver Disease
+HOTAIR,Non-Functional Pituitary Adenoma
+HOTAIR,Non-Small Cell Lung Cancer
+HOTAIR,Non Small Cell Lung Cancer
+HOTAIR,Oral Cancer
+HOTAIR,Oral Squamous Cell Cancer
+HOTAIR,Oral Squamous Cell Carcinoma
+HOTAIR,Osteoarthritis
+HOTAIR,Osteonecrosis
+HOTAIR,Osteosarcoma
+HOTAIR,Ovarian Cancer
+HOTAIR,Pancreatic Adenocarcinoma
+HOTAIR,Pancreatic Cancer
+HOTAIR,Pancreatic Carcinoma
+HOTAIR,Pancreatic Ductal Adenocarcinoma
+HOTAIR,Papillary Thyroid Cancer
+HOTAIR,Papillary Thyroid Carcinoma
+HOTAIR,Parkinson Disease
+HOTAIR,Pituitary Adenoma
+HOTAIR,Pre-Eclampsia
+HOTAIR,Premature Ovarian Failure
+HOTAIR,Prostate Cancer
+HOTAIR,Psoriasis
+HOTAIR,Renal Cancer
+HOTAIR,Renal Carcinoma
+HOTAIR,Renal Cell Carcinoma
+HOTAIR,Retinoblastoma
+HOTAIR,Rheumatoid Arthritis
+HOTAIR,Rosacea
+HOTAIR,Salivary Adenoid Cystic Carcinoma
+HOTAIR,Sarcoma
+HOTAIR,Sepsis
+HOTAIR,Silicosis
+HOTAIR,Small Cell Lung Cancer
+HOTAIR,Squamous Cell Carcinoma
+HOTAIR,Stomach Cancer
+HOTAIR,Synovial Sarcoma
+HOTAIR,Systemic Sclerosis
+HOTAIR,Thyroid Anaplastic Carcinoma
+HOTAIR,Thyroid Cancer
+HOTAIR,Triple-Negative Breast Cancer
+HOTAIR,Tuberculosis
+HOTAIR,Type 2 Diabetes Mellitus
+HOTAIR,Urinary Bladder Cancer
+HOTAIR,Uterine Cervical Neoplasm
+HOTAIR,Uterine Leiomyoma
+HOTAIR,Vulva Squamous Cell Carcinoma
+HOTAIR,Wilms Tumor
+ST8SIA6-AS1,Bladder Cancer
+ST8SIA6-AS1,Breast Cancer
+ST8SIA6-AS1,Cancer
+ST8SIA6-AS1,Cholangiocarcinoma
+ST8SIA6-AS1,Colorectal Cancer
+ST8SIA6-AS1,COVID-19
+ST8SIA6-AS1,Esophageal Cancer
+ST8SIA6-AS1,Hepatocellular Carcinoma
+ST8SIA6-AS1,Lung Adenocarcinoma
+ST8SIA6-AS1,Lung Cancer
+ST8SIA6-AS1,Pancreatic Cancer
+ST8SIA6-AS1,Periodontitis
+ST8SIA6-AS1,Thyroid Cancer
+TMPO-AS1,Astrocytoma
+TMPO-AS1,Bladder Cancer
+TMPO-AS1,Breast Cancer
+TMPO-AS1,Cervical Cancer
+TMPO-AS1,Colorectal Cancer
+TMPO-AS1,Esophageal Cancer
+TMPO-AS1,Gastric Cancer
+TMPO-AS1,Hepatocellular Carcinoma
+TMPO-AS1,Laryngeal Squamous Cell Carcinoma
+TMPO-AS1,Lung Adenocarcinoma
+TMPO-AS1,Nasopharynx Carcinoma
+TMPO-AS1,Non-Small Cell Lung Cancer
+TMPO-AS1,Non Small Cell Lung Cancer
+TMPO-AS1,Osteosarcoma
+TMPO-AS1,Ovarian Cancer
+TMPO-AS1,Pancreatic Carcinoma
+TMPO-AS1,Periodontitis
+TMPO-AS1,Polycystic Ovary Syndrome
+TMPO-AS1,Prostate Cancer
+TMPO-AS1,Retinoblastoma
+TMPO-AS1,Triple-Negative Breast Cancer
+TMPO-AS1,Wilms Tumor
+SRRM2-AS1,Colon Adenocarcinoma
+SRRM2-AS1,Esophageal Cancer
+SRRM2-AS1,Hepatocellular Carcinoma
+SRRM2-AS1,Thyroid Cancer
+VPS9D1-AS1,Acute Myeloid Leukemia
+VPS9D1-AS1,Breast Cancer
+VPS9D1-AS1,Colon Adenocarcinoma
+VPS9D1-AS1,Colon Cancer
+VPS9D1-AS1,Colorectal Cancer
+VPS9D1-AS1,COVID-19
+VPS9D1-AS1,Esophageal Cancer
+VPS9D1-AS1,Esophagus Squamous Cell Carcinoma
+VPS9D1-AS1,Gastric Cancer
+VPS9D1-AS1,Hepatocellular Carcinoma
+VPS9D1-AS1,Lung Adenocarcinoma
+VPS9D1-AS1,Non-Small Cell Lung Cancer
+VPS9D1-AS1,Non Small Cell Lung Cancer
+VPS9D1-AS1,Ovarian Cancer
+VPS9D1-AS1,Prostate Cancer
+VPS9D1-AS1,Stomach Cancer
+KTN1-AS1,Bladder Cancer
+KTN1-AS1,Colorectal Cancer
+KTN1-AS1,Glioblastoma
+KTN1-AS1,Head And Neck Squamous Cell Carcinoma
+KTN1-AS1,Hepatocellular Carcinoma
+KTN1-AS1,Lung Adenocarcinoma
+KTN1-AS1,Non-Small Cell Lung Cancer
+KTN1-AS1,Pancreatic Cancer
+KTN1-AS1,Thyroid Cancer
+MATN1-AS1,Bladder Cancer
+MATN1-AS1,Esophageal Cancer
+MATN1-AS1,Glioblastoma
+MATN1-AS1,Glioma
+MATN1-AS1,Osteosarcoma
+MATN1-AS1,Thyroid Cancer
+GABPB1-AS1,Astrocytoma
+GABPB1-AS1,Cervical Cancer
+GABPB1-AS1,Clear Cell Renal Cell Carcinoma
+GABPB1-AS1,Colorectal Cancer
+GABPB1-AS1,Esophageal Cancer
+GABPB1-AS1,Glioma
+GABPB1-AS1,Hepatocellular Carcinoma
+GABPB1-AS1,Low-Grade Glioma
+GABPB1-AS1,Melanoma
+GABPB1-AS1,Osteoarthritis
+GABPB1-AS1,Periodontitis
+GABPB1-AS1,Pulmonary Artery Hypertension
+CECR7,Adult Acute Myeloid Leukemia
+CECR7,Esophageal Cancer
+CECR7,Gastric Cancer
+CECR7,Glioblastoma
+CECR7,Glioblastoma Multiforme
+CECR7,Hepatocellular Cancer
+CECR7,Hepatocellular Carcinoma
+CECR7,Thyroid Cancer
+USP3-AS1,Astrocytoma
+USP3-AS1,Esophageal Cancer
+USP3-AS1,Pheochromocytoma
+USP3-AS1,Thyroid Cancer
+CKMT2-AS1,Colorectal Cancer
+CKMT2-AS1,Esophageal Cancer
+CKMT2-AS1,Glioblastoma
+CKMT2-AS1,Medulloblastoma
+CKMT2-AS1,Periodontitis
+ZNF503-AS2,Esophageal Cancer
+ZNF503-AS2,Thyroid Cancer
+CCDC18-AS1,Glioblastoma
+CCDC18-AS1,Periodontitis
+CCDC18-AS1,Psoriasis
+MZF1-AS1,Allergic Rhinitis
+MZF1-AS1,Knee Osteoarthritis
+WASIR2,Bladder Cancer
+WASIR2,Esophageal Cancer
+WASIR2,Glioblastoma
+WASIR2,Lung Adenocarcinoma
+KDM4A-AS1,Esophageal Cancer
+KDM4A-AS1,Head And Neck Squamous Cell Carcinoma
+KDM4A-AS1,Hepatocellular Carcinoma
+LINC01001,Esophageal Cancer
+LINC01001,Osteoarthritis
+LINC01001,Thyroid Cancer
+LINC00240,Acute Myeloid Leukemia
+LINC00240,Cervical Cancer
+LINC00240,COVID-19
+LINC00240,Esophageal Cancer
+LINC00240,Esophagus Squamous Cell Carcinoma
+LINC00240,Gastric Cancer
+LINC00240,Hepatocellular Carcinoma
+LINC00240,Non-Small Cell Lung Cancer
+LINC00240,Thyroid Cancer
+HOXA-AS3,Astrocytoma
+HOXA-AS3,Breast Cancer
+HOXA-AS3,COVID-19
+HOXA-AS3,Esophageal Cancer
+HOXA-AS3,Gastric Cancer
+HOXA-AS3,Glioblastoma
+HOXA-AS3,Glioma
+HOXA-AS3,Hepatocellular Carcinoma
+HOXA-AS3,Lung Adenocarcinoma
+HOXA-AS3,Lung Non-Small Cell Carcinoma
+HOXA-AS3,Malignant Glioma
+HOXA-AS3,Osteoarthritis
+HOXA-AS3,Parkinson Disease
+HOXA-AS3,Pulmonary Artery Hypertension
+HOXA-AS3,Thyroid Cancer
+RAMP2-AS1,Astrocytoma
+RAMP2-AS1,Chondrosarcoma
+RAMP2-AS1,Glioblastoma
+RAMP2-AS1,Lung Adenocarcinoma
+RAMP2-AS1,Periodontitis
+RAMP2-AS1,Thyroid Cancer
+TPT1-AS1,Breast Cancer
+TPT1-AS1,Cervical Cancer
+TPT1-AS1,Colorectal Cancer
+TPT1-AS1,COVID-19
+TPT1-AS1,Cutaneous Malignant Melanoma
+TPT1-AS1,Epithelial Ovarian Cancer
+TPT1-AS1,Esophageal Cancer
+TPT1-AS1,Gastric Cancer
+TPT1-AS1,Glioma
+TPT1-AS1,Liver Cancer
+TPT1-AS1,Malignant Glioma
+TPT1-AS1,Medulloblastoma
+TPT1-AS1,Neuroblastoma
+TPT1-AS1,Osteoarthritis
+TPT1-AS1,Pancreatic Ductal Adenocarcinoma
+TPT1-AS1,Periodontitis
+TPT1-AS1,Psoriasis
+LINC00899,Acute Myeloid Leukemia
+LINC00899,Breast Cancer
+LINC00899,Colon Adenocarcinoma
+LINC00899,Esophageal Cancer
+BCDIN3D-AS1,Astrocytoma
+BCDIN3D-AS1,Cell Renal Cell Carcinoma
+BCDIN3D-AS1,Esophageal Cancer
+BCDIN3D-AS1,Glioblastoma
+BCDIN3D-AS1,Glioblastoma Multiforme
+BCDIN3D-AS1,Head And Neck Squamous Cell Carcinoma
+BCDIN3D-AS1,Melanoma
+LINC00941,Colon Cancer
+LINC00941,Colorectal Cancer
+LINC00941,Esophageal Adenocarcinoma
+LINC00941,Esophageal Cancer
+LINC00941,Esophagus Squamous Cell Carcinoma
+LINC00941,Gastric Cancer
+LINC00941,Head And Neck Squamous Cell Carcinoma
+LINC00941,Hepatocellular Cancer
+LINC00941,Hepatocellular Carcinoma
+LINC00941,Lung Adenocarcinoma
+LINC00941,Non-Small Cell Lung Cancer
+LINC00941,Oral Squamous Cell Carcinoma
+LINC00941,Pancreatic Adenocarcinoma
+LINC00941,Pancreatic Cancer
+LINC00941,Pancreatic Ductal Adenocarcinoma
+LINC00941,Papillary Thyroid Cancer
+LINC00941,Stomach Cancer
+LINC00173,Acute Myeloid Leukemia
+LINC00173,Astrocytoma
+LINC00173,Cervical Cancer
+LINC00173,Esophagus Squamous Cell Carcinoma
+LINC00173,Glioblastoma
+LINC00173,Glioblastoma Multiforme
+LINC00173,Hepatocellular Cancer
+LINC00173,Hepatocellular Carcinoma
+LINC00173,Leukemia
+LINC00173,Myasthenia Gravis
+LINC00173,Nasopharynx Carcinoma
+LINC00173,Non-Small Cell Lung Cancer
+LINC00173,Pancreatic Cancer
+LINC00173,Periodontitis
+LINC00173,Polycystic Ovary Syndrome
+LINC00173,Prostate Cancer
+LINC00173,Small Cell Lung Cancer
+LINC00173,Thyroid Cancer
+LINC00173,Triple-Negative Breast Cancer
+LOXL1-AS1,Atherosclerosis
+LOXL1-AS1,Breast Cancer
+LOXL1-AS1,Cholangiocarcinoma
+LOXL1-AS1,Choriocarcinoma
+LOXL1-AS1,Endometrial Cancer
+LOXL1-AS1,Epithelial Ovarian Cancer
+LOXL1-AS1,Gastric Cancer
+LOXL1-AS1,Glaucoma
+LOXL1-AS1,Glioblastoma
+LOXL1-AS1,Glioma
+LOXL1-AS1,Hepatocellular Carcinoma
+LOXL1-AS1,Intrahepatic Cholangiocarcinoma
+LOXL1-AS1,Liver Cancer
+LOXL1-AS1,Lung Adenocarcinoma
+LOXL1-AS1,Medulloblastoma
+LOXL1-AS1,Non-Small Cell Lung Cancer
+LOXL1-AS1,Non Small Cell Lung Cancer
+LOXL1-AS1,Osteoarthritis
+LOXL1-AS1,Osteoporosis
+LOXL1-AS1,Osteosarcoma
+LOXL1-AS1,Ovarian Cancer
+LOXL1-AS1,Pancreatic Cancer
+LOXL1-AS1,Periodontitis
+LOXL1-AS1,Prostate Cancer
+LOXL1-AS1,Renal Cell Carcinoma
+LOXL1-AS1,Thoracic Aortic Aneurysm
+LOXL1-AS1,Thyroid Cancer
+LINC00630,Childhood Acute Lymphoblastic Leukemia
+LINC00630,Colorectal Cancer
+LINC00630,Esophageal Cancer
+LINC00630,Glioma
+LINC00630,Hepatocellular Carcinoma
+LINC00630,Non-Small Cell Lung Cancer
+LINC00630,Periodontitis
+LINC00630,Pulmonary Artery Hypertension
+LINC00630,Pulpitis
+MCF2L-AS1,Clear Cell Renal Cell Carcinoma
+MCF2L-AS1,Colon Adenocarcinoma
+MCF2L-AS1,Colorectal Cancer
+MCF2L-AS1,Esophageal Cancer
+MCF2L-AS1,Non-Small Cell Lung Cancer
+MCF2L-AS1,Osteoporosis
+MCF2L-AS1,Thyroid Cancer
+RASAL2-AS1,Esophageal Cancer
+RASAL2-AS1,Gastric Cancer
+LINC00882,Cancer
+LINC00882,Chromophobe Renal Cell Carcinoma
+LINC00882,COVID-19
+LINC00882,Gastric Cancer
+LINC00882,Hepatocellular Carcinoma
+FTX,Acute Myeloid Leukemia
+FTX,Asthma
+FTX,Breast Cancer
+FTX,Colorectal Cancer
+FTX,COVID-19
+FTX,Esophageal Cancer
+FTX,Gastric Cancer
+FTX,Glioblastoma Multiforme
+FTX,Glioma
+FTX,Hepatocellular Cancer
+FTX,Hepatocellular Carcinoma
+FTX,High-Grade Serous Ovarian Cancer
+FTX,Lung Adenocarcinoma
+FTX,Lung Cancer
+FTX,Medullary Thyroid Cancer
+FTX,Non-Alcoholic Fatty Liver Disease
+FTX,Non-Small Cell Lung Cancer
+FTX,Non Small Cell Lung Cancer
+FTX,Osteoporosis
+FTX,Osteosarcoma
+FTX,Pancreatic Cancer
+FTX,Pulmonary Artery Hypertension
+FTX,Renal Cell Carcinoma
+FTX,Systemic Lupus Erythematosus
+FTX,Uveal Melanoma
+PITPNA-AS1,Astrocytoma
+PITPNA-AS1,Bladder Cancer
+PITPNA-AS1,Cervical Cancer
+PITPNA-AS1,Glioblastoma
+PITPNA-AS1,Hepatocellular Carcinoma
+PITPNA-AS1,Low-Grade Glioma
+PITPNA-AS1,Lung Squamous Cell Carcinoma
+PITPNA-AS1,Non-Small Cell Lung Cancer
+PITPNA-AS1,Papillary Thyroid Cancer
+PITPNA-AS1,Triple-Negative Breast Cancer
+HOTTIP,Acute Myeloid Leukemia
+HOTTIP,Adrenocortical Carcinoma
+HOTTIP,Atherosclerosis
+HOTTIP,Breast Cancer
+HOTTIP,Cancer
+HOTTIP,Cell Renal Cell Carcinoma
+HOTTIP,Colorectal Cancer
+HOTTIP,Colorectal Carcinoma
+HOTTIP,Coronary Artery Disease
+HOTTIP,Esophageal Cancer
+HOTTIP,Esophageal Squamous Cell Cancer
+HOTTIP,Esophagus Squamous Cell Carcinoma
+HOTTIP,Fibroadenoma
+HOTTIP,Gastric Cancer
+HOTTIP,Gastric Carcinoma
+HOTTIP,Glioma
+HOTTIP,Head And Neck Squamous Cell Carcinoma
+HOTTIP,Hepatitis B
+HOTTIP,Hepatocellular Cancer
+HOTTIP,Hepatocellular Carcinoma
+HOTTIP,Hirschsprung's Disease
+HOTTIP,Laryngeal Cancer
+HOTTIP,Leukemia
+HOTTIP,Liver Fibrosis
+HOTTIP,Lung Adenocarcinoma
+HOTTIP,Lung Cancer
+HOTTIP,Lung Fibrosis
+HOTTIP,Lung Non-Small Cell Carcinoma
+HOTTIP,Lung Small Cell Carcinoma
+HOTTIP,Malignant Glioma
+HOTTIP,Nasopharynx Cancer
+HOTTIP,Nasopharynx Carcinoma
+HOTTIP,Non-Small Cell Lung Cancer
+HOTTIP,Non Small Cell Lung Cancer
+HOTTIP,Oral Cancer
+HOTTIP,Oral Submucous Fibrosis
+HOTTIP,Oral Tongue Squamous Cell Carcinoma
+HOTTIP,Osteosarcoma
+HOTTIP,Ovarian Cancer
+HOTTIP,Ovarian Carcinoma
+HOTTIP,Pancreatic Cancer
+HOTTIP,Pancreatic Carcinoma
+HOTTIP,Pancreatic Ductal Adenocarcinoma
+HOTTIP,Papillary Thyroid Cancer
+HOTTIP,Papillary Thyroid Carcinoma
+HOTTIP,Parkinson Disease
+HOTTIP,Pre-Eclampsia
+HOTTIP,Prostate Cancer
+HOTTIP,Renal Cell Carcinoma
+HOTTIP,Rheumatoid Arthritis
+HOTTIP,Small Cell Lung Cancer
+HOTTIP,Stomach Cancer
+HOTTIP,Systemic Scleroderma
+HOTTIP,Thyroid Cancer
+HOTTIP,Tongue Squamous Cell Carcinoma
+NPPA-AS1,Cardiovascular Disease
+NPPA-AS1,Cervical Cancer
+NPPA-AS1,Esophageal Cancer
+THAP9-AS1,Breast Cancer
+THAP9-AS1,Esophageal Cancer
+THAP9-AS1,Esophagus Squamous Cell Carcinoma
+THAP9-AS1,Gastric Cancer
+THAP9-AS1,Glioblastoma
+THAP9-AS1,Nasopharynx Carcinoma
+THAP9-AS1,Pancreatic Ductal Adenocarcinoma
+USP2-AS1,Colon Adenocarcinoma
+USP2-AS1,Esophageal Cancer
+USP2-AS1,Medulloblastoma
+USP2-AS1,Ovarian Cancer
+USP2-AS1,Thyroid Cancer
+PRKAG2-AS1,Castration Resistant Prostate Cancer
+PRKAG2-AS1,Colon Adenocarcinoma
+PRKAG2-AS1,Esophageal Cancer
+PRKAG2-AS1,Esophagus Squamous Cell Carcinoma
+PRKAG2-AS1,Glaucoma
+PRKAG2-AS1,Glioma
+PRKAG2-AS1,Hepatocellular Carcinoma
+PRKAG2-AS1,Low-Grade Glioma
+PRKAG2-AS1,Medulloblastoma
+PRKAG2-AS1,Thyroid Cancer
+SNHG21,Osteoarthritis
+FGD5-AS1,Acute Myeloid Leukemia
+FGD5-AS1,Acute Myocardial Infarction
+FGD5-AS1,Bladder Cancer
+FGD5-AS1,Colorectal Cancer
+FGD5-AS1,Cutaneous Melanoma
+FGD5-AS1,Esophageal Cancer
+FGD5-AS1,Esophagus Squamous Cell Carcinoma
+FGD5-AS1,Gastric Cancer
+FGD5-AS1,Glioblastoma
+FGD5-AS1,Glioma
+FGD5-AS1,Hepatocellular Carcinoma
+FGD5-AS1,Laryngeal Squamous Cell Carcinoma
+FGD5-AS1,Lung Adenocarcinoma
+FGD5-AS1,Lung Non-Small Cell Carcinoma
+FGD5-AS1,Melanoma
+FGD5-AS1,Neuroblastoma
+FGD5-AS1,Non-Small Cell Lung Cancer
+FGD5-AS1,Non Small Cell Lung Cancer
+FGD5-AS1,Oral Cancer
+FGD5-AS1,Oral Squamous Cell Carcinoma
+FGD5-AS1,Osteoarthritis
+FGD5-AS1,Osteonecrosis
+FGD5-AS1,Osteosarcoma
+FGD5-AS1,Ovarian Cancer
+FGD5-AS1,Pancreatic Cancer
+FGD5-AS1,Periodontitis
+FGD5-AS1,Pulmonary Artery Hypertension
+FGD5-AS1,Renal Cell Carcinoma
+FGD5-AS1,Systemic Lupus Erythematosus
+FGD5-AS1,Tetralogy Of Fallot
+RAD51-AS1,Breast Cancer
+RAD51-AS1,Cancer
+RAD51-AS1,Colorectal Cancer
+RAD51-AS1,Epithelial Ovarian Cancer
+RAD51-AS1,Esophageal Cancer
+RAD51-AS1,Glioblastoma
+RAD51-AS1,Hepatocellular Carcinoma
+SH3BP5-AS1,Astrocytoma
+SH3BP5-AS1,Esophageal Cancer
+SH3BP5-AS1,Lung Adenocarcinoma
+SH3BP5-AS1,Neuroblastoma
+SH3BP5-AS1,Osteoarthritis
+SH3BP5-AS1,Pancreatic Cancer
+SH3BP5-AS1,Periodontitis
+SH3BP5-AS1,Thyroid Cancer
+SH3BP5-AS1,Ulcerative Colitis
+CARD8-AS1,COVID-19
+CARD8-AS1,Esophageal Cancer
+CARD8-AS1,Leukemia
+CARD8-AS1,Lung Adenocarcinoma
+CARD8-AS1,Neuroblastoma
+CARD8-AS1,Non-Small Cell Lung Cancer
+CARD8-AS1,Periodontitis
+MAGI2-AS3,Acute Myeloid Leukemia
+MAGI2-AS3,Alzheimer Disease
+MAGI2-AS3,Asthma
+MAGI2-AS3,Bladder Cancer
+MAGI2-AS3,Breast Cancer
+MAGI2-AS3,Cell Renal Cell Carcinoma
+MAGI2-AS3,Cervical Cancer
+MAGI2-AS3,Cervical Squamous Cell Carcinoma
+MAGI2-AS3,Clear Cell Renal Cell Carcinoma
+MAGI2-AS3,Colorectal Cancer
+MAGI2-AS3,Cutaneous Melanoma
+MAGI2-AS3,Esophageal Cancer
+MAGI2-AS3,Gastric Cancer
+MAGI2-AS3,Gastrointestinal Cancer
+MAGI2-AS3,Glioblastoma
+MAGI2-AS3,Glioblastoma Multiforme
+MAGI2-AS3,Glioma
+MAGI2-AS3,Hepatocellular Carcinoma
+MAGI2-AS3,Intervertebral Disc Degeneration
+MAGI2-AS3,Lung Cancer
+MAGI2-AS3,Lung Squamous Cell Carcinoma
+MAGI2-AS3,Melanoma
+MAGI2-AS3,Nasopharynx Carcinoma
+MAGI2-AS3,Non-Small Cell Lung Cancer
+MAGI2-AS3,Non Small Cell Lung Cancer
+MAGI2-AS3,Ovarian Cancer
+MAGI2-AS3,Prostate Cancer
+SOS1-IT1,Endometrial Cancer
+LUCAT1,Abdominal Aortic Aneurysm
+LUCAT1,Acute Myeloid Leukemia
+LUCAT1,Acute Myocardial Infarction
+LUCAT1,Bladder Cancer
+LUCAT1,Breast Cancer
+LUCAT1,Cancer
+LUCAT1,Cervical Cancer
+LUCAT1,Choroidal Melanoma
+LUCAT1,Clear Cell Renal Cell Carcinoma
+LUCAT1,Colorectal Cancer
+LUCAT1,COVID-19
+LUCAT1,Esophageal Adenocarcinoma
+LUCAT1,Esophageal Cancer
+LUCAT1,Esophageal Squamous Cell Cancer
+LUCAT1,Esophagus Squamous Cell Carcinoma
+LUCAT1,Gastric Cancer
+LUCAT1,Glioblastoma
+LUCAT1,Glioma
+LUCAT1,Head And Neck Squamous Cell Carcinoma
+LUCAT1,Hepatoblastoma
+LUCAT1,Hepatocellular Carcinoma
+LUCAT1,Laryngeal Squamous Cell Carcinoma
+LUCAT1,Liver Cancer
+LUCAT1,Lung Adenocarcinoma
+LUCAT1,Lung Cancer
+LUCAT1,Lung Non-Small Cell Carcinoma
+LUCAT1,Multiple Myeloma
+LUCAT1,Muscle-Invasive Bladder Cancer
+LUCAT1,Non-Small Cell Lung Cancer
+LUCAT1,Oral Squamous Cell Carcinoma
+LUCAT1,Osteosarcoma
+LUCAT1,Ovarian Cancer
+LUCAT1,Pancreatic Cancer
+LUCAT1,Pancreatic Ductal Adenocarcinoma
+LUCAT1,Papillary Thyroid Cancer
+LUCAT1,Prostate Cancer
+LUCAT1,Renal Cell Carcinoma
+LUCAT1,Renal Fibrosis
+LUCAT1,Thoracic Aortic Aneurysm
+LUCAT1,Thyroid Anaplastic Carcinoma
+LUCAT1,Thyroid Cancer
+LUCAT1,Thyroid Carcinoma
+LUCAT1,Tongue Squamous Cell Carcinoma
+LUCAT1,Triple-Negative Breast Cancer
+PTOV1-AS1,Esophageal Cancer
+PTOV1-AS1,Osteosarcoma
+RBFADN,Gastric Cancer
+RBFADN,Periodontitis
+LINC00963,Acute Myeloid Leukemia
+LINC00963,Breast Cancer
+LINC00963,Clear Cell Renal Cell Carcinoma
+LINC00963,Colorectal Cancer
+LINC00963,COVID-19
+LINC00963,Cutaneous Squamous Cell Carcinoma
+LINC00963,Diabetic Retinopathy
+LINC00963,Diffuse Large B-Cell Lymphoma
+LINC00963,Esophageal Cancer
+LINC00963,Esophagus Squamous Cell Carcinoma
+LINC00963,Glioblastoma
+LINC00963,Glioma
+LINC00963,Head And Neck Cancer
+LINC00963,Lung Cancer
+LINC00963,Malignant Glioma
+LINC00963,Melanoma
+LINC00963,Non-Small Cell Lung Cancer
+LINC00963,Oral Cancer
+LINC00963,Osteosarcoma
+LINC00963,Ovarian Cancer
+LINC00963,Papillary Thyroid Cancer
+LINC00963,Prostate Cancer
+LINC00963,Renal Cell Carcinoma
+LINC00958,Bladder Cancer
+LINC00958,Breast Cancer
+LINC00958,Cervical Cancer
+LINC00958,Colorectal Cancer
+LINC00958,Endometrial Carcinoma
+LINC00958,Esophageal Cancer
+LINC00958,Gastric Cancer
+LINC00958,Glioma
+LINC00958,Head And Neck Squamous Cell Carcinoma
+LINC00958,Hepatocellular Carcinoma
+LINC00958,Intervertebral Disc Degeneration
+LINC00958,Lung Adenocarcinoma
+LINC00958,Nasopharynx Cancer
+LINC00958,Nasopharynx Carcinoma
+LINC00958,Neck Squamous Cell Carcinoma
+LINC00958,Non-Small Cell Lung Cancer
+LINC00958,Non Small Cell Lung Cancer
+LINC00958,Oral Squamous Cell Carcinoma
+LINC00958,Osteosarcoma
+LINC00958,Pancreatic Cancer
+LINC00958,Thyroid Cancer
+LINC00958,Urinary Bladder Cancer
+HOTAIRM1,Acute Myeloid Leukemia
+HOTAIRM1,Acute Promyelocytic Leukemia
+HOTAIRM1,Anaplastic Thyroid Cancer
+HOTAIRM1,Astrocytoma
+HOTAIRM1,Atrial Fibrillation
+HOTAIRM1,Bladder Cancer
+HOTAIRM1,Breast Cancer
+HOTAIRM1,Cell Renal Cell Carcinoma
+HOTAIRM1,Clear Cell Renal Cell Carcinoma
+HOTAIRM1,Colorectal Cancer
+HOTAIRM1,Colorectal Carcinoma
+HOTAIRM1,COVID-19
+HOTAIRM1,Diabetic Nephropathy
+HOTAIRM1,Esophageal Cancer
+HOTAIRM1,Gastric Cancer
+HOTAIRM1,Glioblastoma
+HOTAIRM1,Glioblastoma Multiforme
+HOTAIRM1,Glioma
+HOTAIRM1,Head And Neck Cancer
+HOTAIRM1,Hepatitis C
+HOTAIRM1,Hepatocellular Carcinoma
+HOTAIRM1,HIV
+HOTAIRM1,Leukemia
+HOTAIRM1,Liver Cancer
+HOTAIRM1,Lung Adenocarcinoma
+HOTAIRM1,Lung Cancer
+HOTAIRM1,Malignant Glioma
+HOTAIRM1,Melanoma
+HOTAIRM1,Non-Small Cell Lung Cancer
+HOTAIRM1,Non Small Cell Lung Cancer
+HOTAIRM1,Osteoarthritis
+HOTAIRM1,Osteoporosis
+HOTAIRM1,Ovarian Cancer
+HOTAIRM1,Pancreatic Ductal Adenocarcinoma
+HOTAIRM1,Papillary Thyroid Cancer
+HOTAIRM1,Papillary Thyroid Carcinoma
+HOTAIRM1,Parkinson Disease
+HOTAIRM1,Periodontitis
+HOTAIRM1,Polycystic Ovary Syndrome
+HOTAIRM1,Prostate Cancer
+HOTAIRM1,Thyroid Cancer
+HOTAIRM1,Uveal Melanoma
+LINC00649,Acute Myeloid Leukemia
+LINC00649,Ankylosing Spondylitis
+LINC00649,Astrocytoma
+LINC00649,Bladder Cancer
+LINC00649,Inflammatory Bowel Disease
+LINC00649,Muscle-Invasive Bladder Cancer
+LINC00649,Prostate Cancer
+LINC00649,Rheumatoid Arthritis
+LINC00649,Sepsis
+OTUD6B-AS1,Astrocytoma
+OTUD6B-AS1,Bladder Cancer
+OTUD6B-AS1,Breast Cancer
+OTUD6B-AS1,Clear Cell Renal Cell Carcinoma
+OTUD6B-AS1,Colorectal Cancer
+OTUD6B-AS1,Esophageal Cancer
+OTUD6B-AS1,Osteosarcoma
+OTUD6B-AS1,Systemic Scleroderma
+OTUD6B-AS1,Thyroid Cancer
+OTUD6B-AS1,Thyroid Carcinoma
+CBR3-AS1,Bladder Cancer
+CBR3-AS1,Breast Cancer
+CBR3-AS1,Carcinoma
+CBR3-AS1,Colorectal Cancer
+CBR3-AS1,Esophageal Cancer
+CBR3-AS1,Esophageal Squamous Cell Cancer
+CBR3-AS1,Esophagus Squamous Cell Carcinoma
+CBR3-AS1,Gastric Cancer
+CBR3-AS1,Glioma
+CBR3-AS1,Hepatocellular Cancer
+CBR3-AS1,Hepatocellular Carcinoma
+CBR3-AS1,Inflammatory Bowel Disease
+CBR3-AS1,Non-Small Cell Lung Cancer
+CBR3-AS1,Osteosarcoma
+CBR3-AS1,Periodontitis
+CBR3-AS1,Prostate Cancer
+CBR3-AS1,Prostate Neoplasm
+CBR3-AS1,Retinoblastoma
+CBR3-AS1,Rheumatoid Arthritis
+CBR3-AS1,Squamous Cell Carcinoma
+CBR3-AS1,Stomach Cancer
+RASSF8-AS1,Acute Myeloid Leukemia
+RASSF8-AS1,Cervical Cancer
+RASSF8-AS1,Esophageal Cancer
+RASSF8-AS1,Laryngeal Squamous Cell Carcinoma
+RASSF8-AS1,Periodontitis
+TMEM147-AS1,Astrocytoma
+TMEM147-AS1,Bladder Cancer
+LIFR-AS1,Breast Cancer
+LIFR-AS1,Colorectal Cancer
+LIFR-AS1,Esophageal Adenocarcinoma
+LIFR-AS1,Esophageal Cancer
+LIFR-AS1,Gastric Cancer
+LIFR-AS1,Gastric Carcinoma
+LIFR-AS1,Gastric Tumor
+LIFR-AS1,Papillary Renal Cell Carcinoma
+LIFR-AS1,Psoriasis
+LIFR-AS1,Thyroid Cancer
+IQCH-AS1,COVID-19
+IQCH-AS1,Pancreatic Ductal Adenocarcinoma
+IQCH-AS1,Thyroid Cancer
+PCAT6,Bladder Cancer
+PCAT6,Breast Cancer
+PCAT6,Cervical Cancer
+PCAT6,Cholangiocarcinoma
+PCAT6,Colon Adenocarcinoma
+PCAT6,Colon Cancer
+PCAT6,Colorectal Cancer
+PCAT6,Esophageal Cancer
+PCAT6,Gastric Cancer
+PCAT6,Gastrointestinal Stromal Tumor
+PCAT6,Glioblastoma
+PCAT6,Hepatocellular Carcinoma
+PCAT6,Intrahepatic Cholangiocarcinoma
+PCAT6,Lung Cancer
+PCAT6,Lung Non-Small Cell Carcinoma
+PCAT6,Lung Squamous Cell Carcinoma
+PCAT6,Non-Small Cell Lung Cancer
+PCAT6,Non Small Cell Lung Cancer
+PCAT6,Osteosarcoma
+PCAT6,Ovarian Cancer
+PCAT6,Pancreatic Cancer
+PCAT6,Pancreatic Ductal Adenocarcinoma
+PCAT6,Pituitary Adenoma
+PCAT6,Prostate Cancer
+PCAT6,Prostate Neoplasm
+PCAT6,Triple-Negative Breast Cancer
+TTN-AS1,Breast Cancer
+TTN-AS1,Cervical Cancer
+TTN-AS1,Cholangiocarcinoma
+TTN-AS1,Colorectal Adenocarcinoma
+TTN-AS1,Colorectal Cancer
+TTN-AS1,COVID-19
+TTN-AS1,Diabetic Nephropathy
+TTN-AS1,Endometrial Cancer
+TTN-AS1,Esophageal Cancer
+TTN-AS1,Esophagus Squamous Cell Carcinoma
+TTN-AS1,Gallbladder Carcinoma
+TTN-AS1,Gastric Cancer
+TTN-AS1,Glioblastoma
+TTN-AS1,Glioma
+TTN-AS1,Hepatocellular Carcinoma
+TTN-AS1,Lung Adenocarcinoma
+TTN-AS1,Melanoma
+TTN-AS1,Non-Small Cell Lung Cancer
+TTN-AS1,Oral Squamous Cell Carcinoma
+TTN-AS1,Osteosarcoma
+TTN-AS1,Ovarian Cancer
+TTN-AS1,Pancreatic Cancer
+TTN-AS1,Papillary Thyroid Cancer
+TTN-AS1,Papillary Thyroid Carcinoma
+TTN-AS1,Prostate Cancer
+TTN-AS1,Skin Cutaneous Melanoma
+TTN-AS1,Thyroid Cancer
+TTN-AS1,Triple-Negative Breast Cancer
+DAPK1-IT1,Asthma
+DAPK1-IT1,Esophageal Cancer
+DAPK1-IT1,Periodontitis
+LINC00665,Breast Cancer
+LINC00665,Cervical Cancer
+LINC00665,Cholangiocarcinoma
+LINC00665,Colorectal Cancer
+LINC00665,Endometrial Carcinoma
+LINC00665,Esophageal Cancer
+LINC00665,Gastric Cancer
+LINC00665,Glioblastoma
+LINC00665,Glioma
+LINC00665,Hepatocellular Carcinoma
+LINC00665,High-Grade Serous Ovarian Cancer
+LINC00665,Lung Adenocarcinoma
+LINC00665,Lung Non-Small Cell Carcinoma
+LINC00665,Melanoma
+LINC00665,Non-Small Cell Lung Cancer
+LINC00665,Non Small Cell Lung Cancer
+LINC00665,Osteosarcoma
+LINC00665,Ovarian Cancer
+LINC00665,Prostate Cancer
+LINC00665,Systemic Sclerosis
+LINC00665,T-Cell Acute Lymphoblastic Leukemia
+PTPRG-AS1,Astrocytoma
+PTPRG-AS1,Breast Cancer
+PTPRG-AS1,COVID-19
+PTPRG-AS1,Epithelial Ovarian Cancer
+PTPRG-AS1,Esophageal Cancer
+PTPRG-AS1,Gastric Cancer
+PTPRG-AS1,Glioblastoma
+PTPRG-AS1,Nasopharynx Cancer
+PTPRG-AS1,Nasopharynx Carcinoma
+PTPRG-AS1,Non-Small Cell Lung Cancer
+PTPRG-AS1,Osteosarcoma
+TUNAR,Astrocytoma
+TUNAR,Breast Cancer
+TUNAR,Glioma
+TUNAR,Huntington's Disease
+TUNAR,Medulloblastoma
+TUNAR,Pancreatic Cancer
+PSMD6-AS2,Periodontitis
+PSMD6-AS2,Thyroid Cancer
+DLG1-AS1,Astrocytoma
+DLG1-AS1,Cervical Cancer
+DLG1-AS1,Hepatocellular Carcinoma
+DLG1-AS1,Papillary Thyroid Cancer
+DLG1-AS1,Papillary Thyroid Carcinoma
+LINC00707,Bladder Cancer
+LINC00707,Breast Cancer
+LINC00707,Clear Cell Renal Cell Carcinoma
+LINC00707,Colorectal Cancer
+LINC00707,Esophageal Cancer
+LINC00707,Gastric Cancer
+LINC00707,Glioblastoma
+LINC00707,Glioma
+LINC00707,Hepatocellular Carcinoma
+LINC00707,Lung Adenocarcinoma
+LINC00707,Melanoma
+LINC00707,Non-Small Cell Lung Cancer
+LINC00707,Non Small Cell Lung Cancer
+LINC00707,Osteosarcoma
+LINC00707,Ovarian Cancer
+LINC00707,Pneumonia
+SNHG16,Acute Lymphoblastic Leukemia
+SNHG16,Atherosclerosis
+SNHG16,Atrial Fibrillation
+SNHG16,Bladder Cancer
+SNHG16,Breast Cancer
+SNHG16,Cancer
+SNHG16,Cervical Cancer
+SNHG16,Cholangiocarcinoma
+SNHG16,Clear Cell Renal Cell Carcinoma
+SNHG16,Colon Adenocarcinoma
+SNHG16,Colon Cancer
+SNHG16,Colorectal Cancer
+SNHG16,Coronary Heart Disease
+SNHG16,COVID-19
+SNHG16,Diabetic Retinopathy
+SNHG16,Diffuse Large B-Cell Lymphoma
+SNHG16,Endometrial Cancer
+SNHG16,Endometrial Carcinoma
+SNHG16,Epilepsy
+SNHG16,Esophageal Cancer
+SNHG16,Esophageal Squamous Cell Cancer
+SNHG16,Esophagus Squamous Cell Carcinoma
+SNHG16,Gastric Cancer
+SNHG16,Glioblastoma
+SNHG16,Glioma
+SNHG16,Hemangioma
+SNHG16,Hepatocellular Carcinoma
+SNHG16,Laryngeal Squamous Cell Carcinoma
+SNHG16,Leukemia
+SNHG16,Liver Cancer
+SNHG16,Lung Non-Small Cell Carcinoma
+SNHG16,Lymphoma
+SNHG16,Major Depressive Disorder
+SNHG16,Malignant Glioma
+SNHG16,Melanoma
+SNHG16,Multiple Myeloma
+SNHG16,Muscle-Invasive Bladder Cancer
+SNHG16,Myasthenia Gravis
+SNHG16,Nasopharynx Carcinoma
+SNHG16,Neuroblastoma
+SNHG16,Non-Small Cell Lung Cancer
+SNHG16,Non Small Cell Lung Cancer
+SNHG16,Oral Squamous Cell Carcinoma
+SNHG16,Osteoarthritis
+SNHG16,Osteosarcoma
+SNHG16,Ovarian Cancer
+SNHG16,Pancreatic Adenocarcinoma
+SNHG16,Pancreatic Cancer
+SNHG16,Papillary Renal Cell Carcinoma
+SNHG16,Papillary Thyroid Cancer
+SNHG16,Papillary Thyroid Carcinoma
+SNHG16,Pneumonia
+SNHG16,Pre-Eclampsia
+SNHG16,Prostate Cancer
+SNHG16,Prostate Carcinoma
+SNHG16,Retinoblastoma
+SNHG16,Stomach Cancer
+SNHG16,Systemic Sclerosis
+SNHG16,Thyroid Cancer
+SNHG16,Type 2 Diabetes Mellitus
+SNHG16,Urinary Bladder Cancer
+SNHG16,Urothelial Carcinoma
+SNHG16,Wilms Tumor
+VIM-AS1,Astrocytoma
+VIM-AS1,Breast Cancer
+VIM-AS1,Colorectal Cancer
+VIM-AS1,COVID-19
+VIM-AS1,Diabetic Retinopathy
+VIM-AS1,Endometrial Cancer
+VIM-AS1,Esophageal Cancer
+VIM-AS1,Gastric Cancer
+VIM-AS1,Glioblastoma
+VIM-AS1,Glioma
+VIM-AS1,Lung Adenocarcinoma
+VIM-AS1,Pre-Eclampsia
+VIM-AS1,Type 2 Diabetes Mellitus
+INTS6-AS1,Esophageal Cancer
+INTS6-AS1,Periodontitis
+PSMB8-AS1,Astrocytoma
+PSMB8-AS1,Bladder Cancer
+PSMB8-AS1,Esophageal Cancer
+PSMB8-AS1,Glioblastoma
+PSMB8-AS1,Glioma
+PSMB8-AS1,Non-Small Cell Lung Cancer
+PSMB8-AS1,Ovarian Cancer
+PSMB8-AS1,Pancreatic Cancer
+PSMB8-AS1,Periodontitis
+PSMB8-AS1,Systemic Sclerosis
+SDCBP2-AS1,Astrocytoma
+SDCBP2-AS1,Bladder Cancer
+SDCBP2-AS1,Ovarian Cancer
+SDCBP2-AS1,Thyroid Cancer
+NNT-AS1,Bladder Cancer
+NNT-AS1,Breast Cancer
+NNT-AS1,Cell Renal Cell Carcinoma
+NNT-AS1,Cervical Cancer
+NNT-AS1,Cholangiocarcinoma
+NNT-AS1,Chronic Obstructive Pulmonary Disease
+NNT-AS1,Colorectal Cancer
+NNT-AS1,COVID-19
+NNT-AS1,Esophageal Cancer
+NNT-AS1,Gastric Cancer
+NNT-AS1,Glioblastoma Multiforme
+NNT-AS1,Glioma
+NNT-AS1,Hepatocellular Carcinoma
+NNT-AS1,Lung Adenocarcinoma
+NNT-AS1,Lung Cancer
+NNT-AS1,Lung Non-Small Cell Carcinoma
+NNT-AS1,Lung Squamous Cell Carcinoma
+NNT-AS1,Melanoma
+NNT-AS1,Non-Small Cell Lung Cancer
+NNT-AS1,Non Small Cell Lung Cancer
+NNT-AS1,Osteosarcoma
+NNT-AS1,Ovarian Cancer
+NNT-AS1,Pancreatic Cancer
+NNT-AS1,Papillary Thyroid Cancer
+NNT-AS1,Periodontitis
+NNT-AS1,Prostate Cancer
+NNT-AS1,Pulmonary Artery Hypertension
+NNT-AS1,Renal Cell Carcinoma
+CERS6-AS1,Breast Cancer
+CERS6-AS1,Esophageal Cancer
+CERS6-AS1,Glioblastoma
+CERS6-AS1,Pancreatic Cancer
+CERS6-AS1,Pancreatic Ductal Adenocarcinoma
+PINK1-AS,Astrocytoma
+PINK1-AS,Breast Cancer
+PINK1-AS,COVID-19
+PINK1-AS,Diabetes Mellitus
+PINK1-AS,Gastric Cancer
+PINK1-AS,Multiple Sclerosis
+PINK1-AS,Osteoarthritis
+PINK1-AS,Parkinson Disease
+TM4SF19-AS1,Esophageal Cancer
+TM4SF19-AS1,Oligodendroglioma
+ERI3-IT1,Esophageal Cancer
+ERI3-IT1,Thyroid Cancer
+ALMS1-IT1,Esophageal Cancer
+ALMS1-IT1,Lung Adenocarcinoma
+KCNH1-IT1,Esophageal Cancer
+SIK3-IT1,Esophageal Cancer
+SIK3-IT1,Thyroid Cancer
+HOXA10-AS,Acute Myeloid Leukemia
+HOXA10-AS,Esophageal Cancer
+HOXA10-AS,Gastric Cancer
+HOXA10-AS,Glioma
+HOXA10-AS,Lung Adenocarcinoma
+HOXA10-AS,Malignant Glioma
+HOXA10-AS,Non-Alcoholic Fatty Liver
+HOXA10-AS,Oral Squamous Cell Carcinoma
+UGDH-AS1,Esophageal Cancer
+LINC01356,COVID-19
+LINC01356,Esophageal Cancer
+LINC01356,Thyroid Cancer
+NUTM2B-AS1,Esophageal Cancer
+NUTM2B-AS1,Hepatocellular Carcinoma
+NUTM2B-AS1,Periodontitis
+CASC9,Bladder Cancer
+CASC9,Breast Cancer
+CASC9,Cervical Cancer
+CASC9,Colorectal Cancer
+CASC9,COVID-19
+CASC9,Esophageal Cancer
+CASC9,Esophageal Squamous Cell Cancer
+CASC9,Esophagus Squamous Cell Carcinoma
+CASC9,Gastric Cancer
+CASC9,Glioblastoma
+CASC9,Glioma
+CASC9,Head And Neck Squamous Cell Carcinoma
+CASC9,Hemangioma
+CASC9,Hepatocellular Carcinoma
+CASC9,Laryngeal Cancer
+CASC9,Laryngeal Carcinoma
+CASC9,Lung Adenocarcinoma
+CASC9,Lung Cancer
+CASC9,Lung Non-Small Cell Carcinoma
+CASC9,Lung Squamous Cell Carcinoma
+CASC9,Nasopharynx Cancer
+CASC9,Nasopharynx Carcinoma
+CASC9,Non-Small Cell Lung Cancer
+CASC9,Oral Squamous Cell Carcinoma
+CASC9,Ovarian Cancer
+CASC9,Pancreatic Ductal Adenocarcinoma
+CASC9,Papillary Thyroid Cancer
+CASC9,Retinoblastoma
+CASC9,Salivary Adenoid Cystic Carcinoma
+CASC9,Sepsis
+CASC9,Squamous Cell Carcinoma
+CASC9,Stomach Cancer
+CASC9,Thyroid Cancer
+CASC9,Tongue Squamous Cell Carcinoma
+SRGAP3-AS2,Breast Cancer
+SRGAP3-AS2,Lung Adenocarcinoma
+SRGAP3-AS2,Lung Squamous Cell Carcinoma
+ZNF793-AS1,Esophageal Cancer
+ZNF793-AS1,Glioma
+ATP6V1B1-AS1,Glioblastoma
+ATP6V1B1-AS1,Head And Neck Squamous Cell Carcinoma
+GRK5-IT1,Thyroid Cancer
+EDRF1-AS1,COVID-19
+LINC01227,Esophageal Cancer
+LINC01227,Hypertension
+NALT1,Acute Lymphoblastic Leukemia
+NALT1,Bladder Cancer
+NALT1,Gastric Cancer
+NALT1,Precursor Cell Lymphoblastic Leukemia-Lymphoma
+NALT1,T-Cell Acute Lymphoblastic Leukemia
+OR2A1-AS1,Esophageal Cancer
+OR2A1-AS1,Glioblastoma
+OR2A1-AS1,Thyroid Cancer
+CATIP-AS1,Esophageal Cancer
+CATIP-AS1,Periodontitis
+CATIP-AS1,Thyroid Cancer
+LINC01537,Esophageal Cancer
+LINC01537,Laryngeal Squamous Cell Cancer
+LINC01537,Laryngeal Squamous Cell Carcinoma
+LINC01537,Lung Adenocarcinoma
+LINC01537,Lung Cancer
+RAP2C-AS1,Adolescent Idiopathic Scoliosis
+RAP2C-AS1,Esophageal Cancer
+TRPM2-AS,Bladder Cancer
+TRPM2-AS,Breast Cancer
+TRPM2-AS,Colon Adenocarcinoma
+TRPM2-AS,Colorectal Cancer
+TRPM2-AS,Gastric Cancer
+TRPM2-AS,Glioblastoma
+TRPM2-AS,Glioma
+TRPM2-AS,Hepatocellular Carcinoma
+TRPM2-AS,Lung Adenocarcinoma
+TRPM2-AS,Lung Non-Small Cell Carcinoma
+TRPM2-AS,Melanoma
+TRPM2-AS,Multiple Sclerosis
+TRPM2-AS,Non-Small Cell Lung Cancer
+TRPM2-AS,Ovarian Cancer
+TRPM2-AS,Prostate Cancer
+TRPM2-AS,Retinoblastoma
+TRPM2-AS,Thyroid Cancer
+LINC01448,COVID-19
+EXTL3-AS1,Astrocytoma
+EXTL3-AS1,Esophageal Cancer
+MIR133A1HG,Esophageal Cancer
+MIR133A1HG,Oral Squamous Cell Carcinoma
+ZNF30-AS1,Thyroid Cancer
+SVIL-AS1,Esophageal Cancer
+SVIL-AS1,Lung Non-Small Cell Carcinoma
+SVIL-AS1,Non-Small Cell Lung Cancer
+SVIL-AS1,Rheumatoid Arthritis
+LINC01393,Esophageal Cancer
+ZNF337-AS1,COVID-19
+ZNF337-AS1,Esophageal Cancer
+LINC01036,Esophageal Cancer
+LINC01036,Non-Alcoholic Fatty Liver
+LINC01224,Astrocytoma
+LINC01224,Breast Cancer
+LINC01224,Colorectal Cancer
+LINC01224,Esophageal Adenocarcinoma
+LINC01224,Gastric Cancer
+LINC01224,Hepatocellular Carcinoma
+LINC01224,High-Grade Serous Ovarian Cancer
+LINC01224,Lung Adenocarcinoma
+LINC01224,Periodontitis
+LINC01224,Thyroid Cancer
+LINC00680,Esophageal Cancer
+LINC00680,Glioblastoma
+LINC00680,Hepatocellular Carcinoma
+LINC00680,Lung Adenocarcinoma
+LINC00680,Sarcoma
+LINC00680,Systemic Lupus Erythematosus
+PCF11-AS1,Hepatocellular Cancer
+HCP5,Acquired Aplastic Anemia
+HCP5,Acquired Immunodeficiency Syndrome
+HCP5,Acute Myeloid Leukemia
+HCP5,Allergic Rhinitis
+HCP5,Anaplastic Thyroid Cancer
+HCP5,Ankylosing Spondylitis
+HCP5,Bladder Cancer
+HCP5,Breast Cancer
+HCP5,Cervical Cancer
+HCP5,Clear Cell Renal Cell Carcinoma
+HCP5,Colorectal Cancer
+HCP5,Cutaneous Melanoma
+HCP5,Cutaneous Squamous Cell Carcinoma
+HCP5,Diabetic Nephropathy
+HCP5,Diffuse Large B-Cell Lymphoma
+HCP5,Esophageal Cancer
+HCP5,Esophagus Squamous Cell Carcinoma
+HCP5,Follicular Thyroid Carcinoma
+HCP5,Gastric Cancer
+HCP5,Gastric Carcinoma
+HCP5,Glioma
+HCP5,Hepatocellular Carcinoma
+HCP5,Lung Adenocarcinoma
+HCP5,Melanoma
+HCP5,Multiple Myeloma
+HCP5,Muscle-Invasive Bladder Cancer
+HCP5,Neuroblastoma
+HCP5,Non-Small Cell Lung Cancer
+HCP5,Non Small Cell Lung Cancer
+HCP5,Oral Cancer
+HCP5,Oral Squamous Cell Carcinoma
+HCP5,Osteoarthritis
+HCP5,Osteosarcoma
+HCP5,Ovarian Cancer
+HCP5,Pancreatic Cancer
+HCP5,Polycystic Ovary Syndrome
+HCP5,Premature Ovarian Failure
+HCP5,Prostate Cancer
+HCP5,Pulmonary Artery Hypertension
+HCP5,Skin Cutaneous Melanoma
+HCP5,Triple-Negative Breast Cancer
+HCP5,Uveal Melanoma
+KCNQ1OT1,Acute Myeloid Leukemia
+KCNQ1OT1,Acute Myocardial Infarction
+KCNQ1OT1,Acute Promyelocytic Leukemia
+KCNQ1OT1,Asthma
+KCNQ1OT1,Astrocytoma
+KCNQ1OT1,Atherosclerosis
+KCNQ1OT1,Bladder Cancer
+KCNQ1OT1,Breast Cancer
+KCNQ1OT1,Bronchial Asthma
+KCNQ1OT1,Cardiomyopathy
+KCNQ1OT1,Cataract
+KCNQ1OT1,Cholangiocarcinoma
+KCNQ1OT1,Colon Adenocarcinoma
+KCNQ1OT1,Colon Cancer
+KCNQ1OT1,Colorectal Cancer
+KCNQ1OT1,Coronary Artery Disease
+KCNQ1OT1,Cryptorchidism
+KCNQ1OT1,Diabetic Cataract
+KCNQ1OT1,Diabetic Nephropathy
+KCNQ1OT1,Epilepsy
+KCNQ1OT1,Esophageal Cancer
+KCNQ1OT1,Esophagus Squamous Cell Carcinoma
+KCNQ1OT1,Fracture
+KCNQ1OT1,Gastric Cancer
+KCNQ1OT1,Glioblastoma
+KCNQ1OT1,Glioma
+KCNQ1OT1,Hepatocellular Cancer
+KCNQ1OT1,Hepatocellular Carcinoma
+KCNQ1OT1,Kidney Cancer
+KCNQ1OT1,Lung Adenocarcinoma
+KCNQ1OT1,Lung Cancer
+KCNQ1OT1,Lung Non-Small Cell Carcinoma
+KCNQ1OT1,Maxillary Sinus Squamous Cell Carcinoma
+KCNQ1OT1,Melanoma
+KCNQ1OT1,Myocardial Infarction
+KCNQ1OT1,Nasopharynx Carcinoma
+KCNQ1OT1,Neuroblastoma
+KCNQ1OT1,Non-Small Cell Lung Cancer
+KCNQ1OT1,Non Small Cell Lung Cancer
+KCNQ1OT1,Oral Squamous Cell Carcinoma
+KCNQ1OT1,Osteoarthritis
+KCNQ1OT1,Osteomyelitis
+KCNQ1OT1,Osteoporosis
+KCNQ1OT1,Osteosarcoma
+KCNQ1OT1,Ovarian Cancer
+KCNQ1OT1,Papillary Thyroid Cancer
+KCNQ1OT1,Parkinson Disease
+KCNQ1OT1,Pituitary Adenoma
+KCNQ1OT1,Pneumonia
+KCNQ1OT1,Prostate Cancer
+KCNQ1OT1,Renal Cell Carcinoma
+KCNQ1OT1,Seizure
+KCNQ1OT1,Stomach Cancer
+KCNQ1OT1,Systemic Lupus Erythematosus
+KCNQ1OT1,Thyroid Cancer
+KCNQ1OT1,Tongue Cancer
+KCNQ1OT1,Tongue Squamous Cell Carcinoma
+KCNQ1OT1,Triple-Negative Breast Cancer
+TP53TG1,Ataxia Telangiectasia
+TP53TG1,Breast Cancer
+TP53TG1,Cancer
+TP53TG1,Colon Cancer
+TP53TG1,Colorectal Cancer
+TP53TG1,Gastric Cancer
+TP53TG1,Glioblastoma Multiforme
+TP53TG1,Glioma
+TP53TG1,Lung Adenocarcinoma
+TP53TG1,Lung Non-Small Cell Carcinoma
+TP53TG1,Non-Small Cell Lung Cancer
+TP53TG1,Ovarian Cancer
+TP53TG1,Pancreatic Ductal Adenocarcinoma
+TP53TG1,Periodontitis
+TP53TG1,Triple-Negative Breast Cancer
+LINC00310,Breast Cancer
+LINC00310,Duchenne Muscular Dystrophy
+LINC00310,Glioblastoma
+LINC00310,Thyroid Cancer
+LINC00313,Breast Cancer
+LINC00313,Esophageal Cancer
+LINC00313,Glioblastoma
+LINC00313,Glioma
+LINC00313,Hepatocellular Carcinoma
+LINC00313,Kaposi's Sarcoma
+LINC00313,Lung Cancer
+LINC00313,Osteoarthritis
+LINC00313,Osteosarcoma
+LINC00313,Papillary Thyroid Cancer
+LINC00313,Papillary Thyroid Carcinoma
+LINC00313,Thyroid Cancer
+MCM3AP-AS1,Breast Cancer
+MCM3AP-AS1,Cervical Squamous Cell Carcinoma
+MCM3AP-AS1,Chronic Obstructive Pulmonary Disease
+MCM3AP-AS1,Clear Cell Renal Cell Carcinoma
+MCM3AP-AS1,Colorectal Cancer
+MCM3AP-AS1,Endometrioid Carcinoma
+MCM3AP-AS1,Endometriosis
+MCM3AP-AS1,Gastric Cancer
+MCM3AP-AS1,Glioblastoma
+MCM3AP-AS1,Hepatocellular Carcinoma
+MCM3AP-AS1,Lung Cancer
+MCM3AP-AS1,Nasopharynx Carcinoma
+MCM3AP-AS1,Non-Small Cell Lung Cancer
+MCM3AP-AS1,Oral Squamous Cell Carcinoma
+MCM3AP-AS1,Osteoarthritis
+MCM3AP-AS1,Pancreatic Cancer
+MCM3AP-AS1,Papillary Thyroid Cancer
+MCM3AP-AS1,Periodontitis
+MCM3AP-AS1,Prostate Cancer
+MCM3AP-AS1,Sepsis
+MIR155HG,Astrocytoma
+MIR155HG,B-Cell Chronic Lymphocytic Leukemia
+MIR155HG,Breast Cancer
+MIR155HG,Breast Invasive Carcinoma
+MIR155HG,Cancer
+MIR155HG,Cervical Cancer
+MIR155HG,Chronic Lymphocytic Leukemia
+MIR155HG,Chronic Obstructive Pulmonary Disease
+MIR155HG,Clear Cell Renal Cell Carcinoma
+MIR155HG,Colon Cancer
+MIR155HG,Colorectal Cancer
+MIR155HG,Diffuse Large B-Cell Lymphoma
+MIR155HG,Gastric Cancer
+MIR155HG,Glioblastoma
+MIR155HG,Glioma
+MIR155HG,Kidney Renal Papillary Cell Carcinoma
+MIR155HG,Laryngeal Squamous Cell Cancer
+MIR155HG,Liver Cancer
+MIR155HG,Lung Adenocarcinoma
+MIR155HG,Malignant Glioma
+MIR155HG,Melanoma
+MIR155HG,Non-Small Cell Lung Cancer
+MIR155HG,Ovarian Cancer
+MIR155HG,Pancreatic Cancer
+MIR155HG,Pulpitis
+MIR155HG,Rectum Adenocarcinoma
+MIR155HG,Sepsis
+MIR155HG,Stomach Adenocarcinoma
+MIR155HG,Thyroid Anaplastic Carcinoma
+MIR155HG,Thyroid Cancer
+MIR155HG,Uterine Corpus Endometrial Carcinoma
+PSMG3-AS1,Breast Cancer
+PSMG3-AS1,Glioblastoma
+PSMG3-AS1,Lung Adenocarcinoma
+PSMG3-AS1,Lung Squamous Cell Carcinoma
+PSMG3-AS1,Periodontitis
+EPB41L4A-AS1,Breast Cancer
+EPB41L4A-AS1,Cancer
+EPB41L4A-AS1,Cervical Cancer
+EPB41L4A-AS1,Clear Cell Renal Cell Carcinoma
+EPB41L4A-AS1,Colorectal Cancer
+EPB41L4A-AS1,COVID-19
+EPB41L4A-AS1,Esophageal Cancer
+EPB41L4A-AS1,Glioblastoma
+EPB41L4A-AS1,Lung Cancer
+EPB41L4A-AS1,Oral Cancer
+EPB41L4A-AS1,Osteoarthritis
+EPB41L4A-AS1,Periodontitis
+EPB41L4A-AS1,Type 2 Diabetes Mellitus
+LINC00661,COVID-19
+LINC00661,Esophageal Cancer
+SNHG11,Clear Cell Renal Cell Carcinoma
+SNHG11,Colon Adenocarcinoma
+SNHG11,Colorectal Cancer
+SNHG11,Gastric Cancer
+SNHG11,Glioma
+SNHG11,Hepatocellular Carcinoma
+SNHG11,Lung Cancer
+SNHG11,Non-Small Cell Lung Cancer
+SNHG11,Obesity
+SNHG11,Prostate Cancer
+GAS5,Osteoarthritis
+LINC00662,Acute Myeloid Leukemia
+LINC00662,Alzheimer Disease
+LINC00662,Breast Cancer
+LINC00662,Cervical Cancer
+LINC00662,Chordoma
+LINC00662,Colon Cancer
+LINC00662,Esophagus Squamous Cell Carcinoma
+LINC00662,Gastric Cancer
+LINC00662,Glioma
+LINC00662,Hepatocellular Carcinoma
+LINC00662,Lung Cancer
+LINC00662,Melanoma
+LINC00662,Non-Small Cell Lung Cancer
+LINC00662,Oral Squamous Cell Carcinoma
+LINC00662,Osteoarthritis
+LINC00662,Ovarian Cancer
+LINC00662,Parkinson Disease
+LINC00662,Periodontitis
+LINC00662,Prostate Cancer
+GNAS-AS1,Astrocytoma
+GNAS-AS1,Breast Cancer
+GNAS-AS1,Esophageal Cancer
+GNAS-AS1,Glioblastoma
+GNAS-AS1,Lung Non-Small Cell Carcinoma
+GNAS-AS1,Nasopharynx Cancer
+GNAS-AS1,Nasopharynx Carcinoma
+GNAS-AS1,Non-Small Cell Lung Cancer
+GNAS-AS1,Non Small Cell Lung Cancer
+GNAS-AS1,Osteoarthritis
+GNAS-AS1,Osteosarcoma
+GNAS-AS1,Parkinson Disease
+LINC00342,Acute Myeloid Leukemia
+LINC00342,Clear Cell Renal Cell Carcinoma
+LINC00342,Colon Adenocarcinoma
+LINC00342,Colorectal Cancer
+LINC00342,Esophageal Cancer
+LINC00342,Glioblastoma
+LINC00342,Hepatocellular Carcinoma
+LINC00342,Infantile Hemangioma
+LINC00342,Lung Non-Small Cell Carcinoma
+LINC00342,Nasopharynx Carcinoma
+LINC00342,Non-Small Cell Lung Cancer
+LINC00342,Periodontitis
+LBX2-AS1,Abdominal Aortic Aneurysm
+LBX2-AS1,Astrocytoma
+LBX2-AS1,Cerebral Cavernous Malformation
+LBX2-AS1,Colorectal Cancer
+LBX2-AS1,COVID-19
+LBX2-AS1,Esophageal Cancer
+LBX2-AS1,Esophagus Squamous Cell Carcinoma
+LBX2-AS1,Gastric Cancer
+LBX2-AS1,Glioma
+LBX2-AS1,Hepatocellular Carcinoma
+LBX2-AS1,Multiple Myeloma
+LBX2-AS1,Non-Small Cell Lung Cancer
+LBX2-AS1,Ovarian Cancer
+LBX2-AS1,Periodontitis
+LBX2-AS1,Renal Cell Carcinoma
+LBX2-AS1,Thyroid Cancer
+MAGI1-IT1,Epithelial Ovarian Cancer
+MAGI1-IT1,Esophageal Cancer
+MAGI1-IT1,Non-Small Cell Lung Cancer
+MAGI1-IT1,Periodontitis
+LINC00689,Astrocytoma
+LINC00689,Colorectal Cancer
+LINC00689,Esophageal Cancer
+LINC00689,Gastric Cancer
+LINC00689,Glioblastoma
+LINC00689,Glioma
+LINC00689,Hepatocellular Carcinoma
+LINC00689,Osteosarcoma
+LINC00689,Prostate Cancer
+LINC00689,Thyroid Cancer
+LINC00689,Triple-Negative Breast Cancer
+FAM201A,Astrocytoma
+FAM201A,Esophageal Cancer
+FAM201A,Esophagus Squamous Cell Carcinoma
+FAM201A,Glioblastoma Multiforme
+FAM201A,Leukemia
+FAM201A,Lung Adenocarcinoma
+FAM201A,Lung Squamous Cell Cancer
+FAM201A,Lung Squamous Cell Carcinoma
+FAM201A,Non-Small Cell Lung Cancer
+FAM201A,Systemic Lupus Erythematosus
+FAM201A,Thyroid Cancer
+EMX2OS,Alzheimer Disease
+EMX2OS,Astrocytoma
+EMX2OS,Breast Cancer
+EMX2OS,Cell Renal Cell Carcinoma
+EMX2OS,Cervical Cancer
+EMX2OS,Chronic Fatigue Syndrome
+EMX2OS,Clear Cell Renal Cell Carcinoma
+EMX2OS,Esophageal Cancer
+EMX2OS,Gastric Cancer
+EMX2OS,Glioblastoma Multiforme
+EMX2OS,Hypertension
+EMX2OS,Medulloblastoma
+EMX2OS,Ovarian Cancer
+EMX2OS,Parkinson Disease
+EMX2OS,Prostate Cancer
+EMX2OS,Thyroid Anaplastic Carcinoma
+EMX2OS,Thyroid Cancer
+EMX2OS,Wilms Tumor
+LINC00638,Esophageal Cancer
+LINC00638,Periodontitis
+LINC00638,Rheumatoid Arthritis
+TAPT1-AS1,Astrocytoma
+TAPT1-AS1,Esophageal Cancer
+TAPT1-AS1,Thyroid Cancer
+WAC-AS1,Alzheimer Disease
+WAC-AS1,COVID-19
+WAC-AS1,Glioma
+WAC-AS1,Hepatocellular Carcinoma
+WAC-AS1,Periodontitis
+HOXA11-AS,Adrenocortical Carcinoma
+HOXA11-AS,Astrocytoma
+HOXA11-AS,Breast Cancer
+HOXA11-AS,Cancer
+HOXA11-AS,Carcinoma
+HOXA11-AS,Cervical Cancer
+HOXA11-AS,Cervical Carcinoma
+HOXA11-AS,Clear Cell Renal Cell Carcinoma
+HOXA11-AS,Colorectal Cancer
+HOXA11-AS,Endometriosis
+HOXA11-AS,Esophageal Cancer
+HOXA11-AS,Esophageal Squamous Cell Cancer
+HOXA11-AS,Esophagus Squamous Cell Carcinoma
+HOXA11-AS,Fracture
+HOXA11-AS,Gastric Cancer
+HOXA11-AS,Glioblastoma
+HOXA11-AS,Glioma
+HOXA11-AS,Hepatocellular Carcinoma
+HOXA11-AS,Laryngeal Squamous Cell Cancer
+HOXA11-AS,Laryngeal Squamous Cell Carcinoma
+HOXA11-AS,Liver Cancer
+HOXA11-AS,Lung Adenocarcinoma
+HOXA11-AS,Lung Cancer
+HOXA11-AS,Lung Non-Small Cell Carcinoma
+HOXA11-AS,Malignant Glioma
+HOXA11-AS,Melanoma
+HOXA11-AS,Nasopharynx Carcinoma
+HOXA11-AS,Nephroblastoma
+HOXA11-AS,Neuroblastoma
+HOXA11-AS,Non-Small Cell Lung Cancer
+HOXA11-AS,Non Small Cell Lung Cancer
+HOXA11-AS,Obesity
+HOXA11-AS,Oral Squamous Cell Carcinoma
+HOXA11-AS,Osteosarcoma
+HOXA11-AS,Ovarian Cancer
+HOXA11-AS,Papillary Thyroid Cancer
+HOXA11-AS,Parkinson Disease
+HOXA11-AS,Pre-Eclampsia
+HOXA11-AS,Prostate Cancer
+HOXA11-AS,Renal Cancer
+HOXA11-AS,Retinoblastoma
+HOXA11-AS,Stomach Cancer
+HOXA11-AS,Thyroid Cancer
+HOXA11-AS,Tuberculosis
+HOXA11-AS,Uterine Cervical Neoplasm
+HOXA11-AS,Uveal Melanoma
+SNHG1,Acute Myeloid Leukemia
+SNHG1,Alcoholic Steatohepatitis
+SNHG1,Alzheimer Disease
+SNHG1,Astrocytoma
+SNHG1,Atherosclerosis
+SNHG1,Bladder Cancer
+SNHG1,Breast Cancer
+SNHG1,Carotid Stenosis
+SNHG1,Cervical Cancer
+SNHG1,Cholangiocarcinoma
+SNHG1,Clear Cell Renal Cell Carcinoma
+SNHG1,Colon Cancer
+SNHG1,Colorectal Cancer
+SNHG1,Colorectal Carcinoma
+SNHG1,COVID-19
+SNHG1,Depression
+SNHG1,Epilepsy
+SNHG1,Esophageal Cancer
+SNHG1,Esophageal Squamous Cell Cancer
+SNHG1,Esophagus Squamous Cell Carcinoma
+SNHG1,Gastric Cancer
+SNHG1,Glioblastoma
+SNHG1,Glioma
+SNHG1,Hepatocellular Cancer
+SNHG1,Hepatocellular Carcinoma
+SNHG1,Intervertebral Disc Degeneration
+SNHG1,Laryngeal Cancer
+SNHG1,Laryngeal Squamous Cell Cancer
+SNHG1,Laryngeal Squamous Cell Carcinoma
+SNHG1,Liver Cancer
+SNHG1,Low-Grade Glioma
+SNHG1,Lung Cancer
+SNHG1,Lung Non-Small Cell Carcinoma
+SNHG1,Lung Squamous Cell Carcinoma
+SNHG1,Meningioma
+SNHG1,Muscle-Invasive Bladder Cancer
+SNHG1,Nasopharynx Cancer
+SNHG1,Nasopharynx Carcinoma
+SNHG1,Neuroblastoma
+SNHG1,Non-Small Cell Lung Cancer
+SNHG1,Non Small Cell Lung Cancer
+SNHG1,Oral Squamous Cell Carcinoma
+SNHG1,Osteoarthritis
+SNHG1,Osteosarcoma
+SNHG1,Ovarian Cancer
+SNHG1,Ovarian Carcinoma
+SNHG1,Pancreatic Cancer
+SNHG1,Pancreatic Ductal Adenocarcinoma
+SNHG1,Papillary Thyroid Cancer
+SNHG1,Parkinson Disease
+SNHG1,Prostate Cancer
+SNHG1,Pterygium
+SNHG1,Renal Cell Carcinoma
+SNHG1,Rheumatoid Arthritis
+SNHG1,Stomach Cancer
+SNHG1,Systemic Lupus Erythematosus
+SNHG1,Thyroid Cancer
+SNHG1,Uveal Melanoma
+NIFK-AS1,Astrocytoma
+NIFK-AS1,Endometrial Cancer
+NIFK-AS1,Gastric Cancer
+NIFK-AS1,Lung Adenocarcinoma
+LINC00879,Esophageal Cancer
+LINC00879,Periodontitis
+CASC2,Acute Myocardial Infarction
+CASC2,Acute Pancreatitis
+CASC2,Astrocytoma
+CASC2,Atherosclerosis
+CASC2,Bladder Cancer
+CASC2,Breast Cancer
+CASC2,Cancer
+CASC2,Cervical Cancer
+CASC2,Cholangiocarcinoma
+CASC2,Colon Cancer
+CASC2,Colorectal Cancer
+CASC2,COVID-19
+CASC2,Diabetic Nephropathy
+CASC2,Endometrial Cancer
+CASC2,Endometrial Carcinoma
+CASC2,Epithelial Ovarian Cancer
+CASC2,Esophageal Cancer
+CASC2,Esophageal Carcinoma
+CASC2,Esophagus Squamous Cell Carcinoma
+CASC2,Gastric Cancer
+CASC2,Glioblastoma
+CASC2,Glioblastoma Multiforme
+CASC2,Glioma
+CASC2,Hemangioma
+CASC2,Hepatocellular Carcinoma
+CASC2,Lung Adenocarcinoma
+CASC2,Lung Cancer
+CASC2,Malignant Glioma
+CASC2,Malignant Melanoma
+CASC2,Melanoma
+CASC2,Nasopharynx Cancer
+CASC2,Non-Hodgkin Lymphoma
+CASC2,Non-Small Cell Lung Cancer
+CASC2,Non Small Cell Lung Cancer
+CASC2,Oral Squamous Cell Cancer
+CASC2,Oral Squamous Cell Carcinoma
+CASC2,Osteoarthritis
+CASC2,Osteosarcoma
+CASC2,Pancreatic Cancer
+CASC2,Pancreatic Carcinoma
+CASC2,Papillary Thyroid Cancer
+CASC2,Papillary Thyroid Carcinoma
+CASC2,Prostate Cancer
+CASC2,Pulmonary Artery Hypertension
+CASC2,Renal Cell Carcinoma
+CASC2,Rheumatoid Arthritis
+CASC2,Sepsis
+CASC2,Stomach Cancer
+CASC2,Thyroid Cancer
+CASC2,Thyroid Carcinoma
+CASC2,Type 2 Diabetes Mellitus
+TBX5-AS1,Esophageal Cancer
+TBX5-AS1,Lung Adenocarcinoma
+TBX5-AS1,Non-Small Cell Lung Cancer
+TBX5-AS1,Oligodendroglioma
+TINCR,Astrocytoma
+TINCR,Bladder Cancer
+TINCR,Breast Cancer
+TINCR,Cervical Squamous Cell Carcinoma
+TINCR,Chronic Obstructive Pulmonary Disease
+TINCR,Clear Cell Renal Cell Carcinoma
+TINCR,Colorectal Cancer
+TINCR,Cutaneous Squamous Cell Carcinoma
+TINCR,Epithelial Ovarian Cancer
+TINCR,Esophageal Squamous Cell Cancer
+TINCR,Esophagus Squamous Cell Carcinoma
+TINCR,Gastric Cancer
+TINCR,Glioblastoma
+TINCR,Glioma
+TINCR,Hepatocellular Carcinoma
+TINCR,Lung Adenocarcinoma
+TINCR,Lung Cancer
+TINCR,Lung Non-Small Cell Carcinoma
+TINCR,Lung Squamous Cell Carcinoma
+TINCR,Non-Small Cell Lung Cancer
+TINCR,Oral Squamous Cell Carcinoma
+TINCR,Ovarian Cancer
+TINCR,Prostate Cancer
+TINCR,Retinoblastoma
+TINCR,Squamous Cell Carcinoma
+TINCR,Stomach Cancer
+TINCR,Urinary Bladder Cancer
+DGCR5,Astrocytoma
+DGCR5,Bladder Cancer
+DGCR5,Breast Cancer
+DGCR5,Cervical Cancer
+DGCR5,Clear Cell Renal Cell Cancer
+DGCR5,Clear Cell Renal Cell Carcinoma
+DGCR5,Colorectal Cancer
+DGCR5,COVID-19
+DGCR5,Endometrial Carcinoma
+DGCR5,Esophageal Cancer
+DGCR5,Esophagus Squamous Cell Carcinoma
+DGCR5,Gastric Cancer
+DGCR5,Glioblastoma
+DGCR5,Glioblastoma Multiforme
+DGCR5,Glioma
+DGCR5,Hepatocellular Carcinoma
+DGCR5,Huntington's Disease
+DGCR5,Laryngeal Cancer
+DGCR5,Laryngeal Carcinoma
+DGCR5,Lung Adenocarcinoma
+DGCR5,Lung Cancer
+DGCR5,Lung Non-Small Cell Carcinoma
+DGCR5,Non-Small Cell Lung Cancer
+DGCR5,Non Small Cell Lung Cancer
+DGCR5,Pancreatic Cancer
+DGCR5,Pancreatic Ductal Adenocarcinoma
+DGCR5,Papillary Thyroid Carcinoma
+DGCR5,Periodontitis
+DGCR5,Pheochromocytoma
+DGCR5,Prostate Cancer
+DGCR5,Renal Clear Cell Carcinoma
+DGCR5,Schizophrenia
+DGCR5,Thyroid Cancer
+DGCR5,Triple-Negative Breast Cancer
+DGCR5,Urinary Bladder Cancer
+SBF2-AS1,Acute Myeloid Leukemia
+SBF2-AS1,Astrocytoma
+SBF2-AS1,Breast Cancer
+SBF2-AS1,Cancer
+SBF2-AS1,Cervical Cancer
+SBF2-AS1,Clear Cell Renal Cell Carcinoma
+SBF2-AS1,Colorectal Cancer
+SBF2-AS1,Esophageal Cancer
+SBF2-AS1,Esophagus Squamous Cell Carcinoma
+SBF2-AS1,Gastric Cancer
+SBF2-AS1,Glioblastoma
+SBF2-AS1,Glioma
+SBF2-AS1,Hepatocellular Carcinoma
+SBF2-AS1,Lung Adenocarcinoma
+SBF2-AS1,Lung Cancer
+SBF2-AS1,Lung Non-Small Cell Carcinoma
+SBF2-AS1,Non-Small Cell Lung Cancer
+SBF2-AS1,Non Small Cell Lung Cancer
+SBF2-AS1,Osteosarcoma
+SBF2-AS1,Pancreatic Cancer
+SBF2-AS1,Papillary Thyroid Cancer
+SBF2-AS1,Periodontitis
+SBF2-AS1,Small Cell Lung Cancer
+H19,Abdominal Aortic Aneurysm
+H19,Acne
+H19,Acute Lymphoblastic Leukemia
+H19,Acute Myeloid Leukemia
+H19,Acute Myocardial Infarction
+H19,Acute Promyelocytic Leukemia
+H19,Adrenocortical Cancer
+H19,Adrenocortical Carcinoma
+H19,Anaplastic Thyroid Cancer
+H19,Ankylosing Spondylitis
+H19,Aortic Dissection
+H19,Aortic Valve Disease
+H19,Aortic Valve Stenosis
+H19,Asthma
+H19,Astrocytoma
+H19,Atherosclerosis
+H19,Azoospermia
+H19,Becker Muscular Dystrophy
+H19,Biliary Atresia
+H19,Bladder Cancer
+H19,Bladder Carcinoma
+H19,Breast Adenocarcinoma
+H19,Breast Cancer
+H19,Breast Carcinoma
+H19,Breast Invasive Carcinoma
+H19,Calcific Aortic Valve Disease
+H19,Cancer
+H19,Cardiovascular Disease
+H19,Central Nervous System Disease
+H19,Cervical Cancer
+H19,Cervical Carcinoma
+H19,Childhood Leukemia
+H19,Cholangiocarcinoma
+H19,Cholestasis
+H19,Choriocarcinoma
+H19,Chronic Hepatitis B
+H19,Chronic Myeloid Leukemia
+H19,Chronic Myelomonocytic Leukemia
+H19,Clear Cell Renal Cell Carcinoma
+H19,Colon Adenocarcinoma
+H19,Colon Cancer
+H19,Colon Carcinoma
+H19,Colorectal Adenocarcinoma
+H19,Colorectal Cancer
+H19,Colorectal Carcinoma
+H19,Congenital Heart Defect
+H19,Congenital Heart Disease
+H19,Coronary Artery Disease
+H19,Diabetes Mellitus
+H19,Diabetic Nephropathy
+H19,Diabetic Retinopathy
+H19,Dilated Cardiomyopathy
+H19,Disease Of Metabolism
+H19,Duchenne Muscular Dystrophy
+H19,Embryonal Cancer
+H19,Embryonal Carcinoma
+H19,Endometrial Cancer
+H19,Endometrial Carcinoma
+H19,Endometriosis
+H19,Epilepsy
+H19,Epithelial Ovarian Cancer
+H19,Esophageal Cancer
+H19,Esophageal Squamous Cell Cancer
+H19,Esophagus Squamous Cell Carcinoma
+H19,Estrogen-Receptor Positive Breast Cancer
+H19,Fatty Liver Disease
+H19,Gallbladder Cancer
+H19,Gastric Adenocarcinoma
+H19,Gastric Cancer
+H19,Gastric Carcinoma
+H19,Gastric Cardia Adenocarcinoma
+H19,Gastrointestinal Stromal Tumor
+H19,Gastrointestinal System Cancer
+H19,Germ Cell Cancer
+H19,Germ Cell Tumor
+H19,Gestational Choriocarcinoma
+H19,Glaucoma
+H19,Glioblastoma
+H19,Glioblastoma Multiforme
+H19,Glioma
+H19,Growth Hormone-Secreting Pituitary Adenoma
+H19,Head And Neck Squamous Cell Carcinoma
+H19,Heart Disease
+H19,Hepatoblastoma
+H19,Hepatocellular Cancer
+H19,Hepatocellular Carcinoma
+H19,Hodgkin's Lymphoma
+H19,Hyperglycemia
+H19,Hyperhomocysteinemia
+H19,Hypertrophic Cardiomyopathy
+H19,Idiopathic Pulmonary Fibrosis
+H19,Infertility
+H19,Kidney Cancer
+H19,Laryngeal Squamous Cell Cancer
+H19,Laryngeal Squamous Cell Carcinoma
+H19,Leukemia
+H19,Liver Cancer
+H19,Liver Fibrosis
+H19,Lung Adenocarcinoma
+H19,Lung Cancer
+H19,Lung Carcinoma
+H19,Lung Non-Small Cell Carcinoma
+H19,Lung Small Cell Carcinoma
+H19,Lymphedema
+H19,Malignant Glioma
+H19,Malignant Melanoma
+H19,Medulloblastoma
+H19,Melanoma
+H19,Meningioma
+H19,Middle Cerebral Artery Occlusion
+H19,Multiple Myeloma
+H19,Multiple Sclerosis
+H19,Muscular Atrophy
+H19,Muscular Dystrophy
+H19,Myeloproliferative Neoplasm
+H19,Myocardial Infarction
+H19,Nasopharynx Cancer
+H19,Nasopharynx Carcinoma
+H19,Nephroblastoma
+H19,Nephrotic Syndrome
+H19,Neural Tube Defect
+H19,Neuroblastoma
+H19,Non-Alcoholic Fatty Liver
+H19,Non-Alcoholic Fatty Liver Disease
+H19,Non-Small Cell Lung Cancer
+H19,Non Small Cell Lung Cancer
+H19,Obesity
+H19,Oral Squamous Cell Carcinoma
+H19,Oral Submucous Fibrosis
+H19,Osteoarthritis
+H19,Osteoporosis
+H19,Osteosarcoma
+H19,Ovarian Cancer
+H19,Pancreatic Cancer
+H19,Pancreatic Ductal Adenocarcinoma
+H19,Papillary Thyroid Cancer
+H19,Papillary Thyroid Carcinoma
+H19,Parkinson Disease
+H19,Periodontitis
+H19,Pheochromocytoma
+H19,Pituitary Adenoma
+H19,Polycystic Ovary Syndrome
+H19,Polycythemia Vera
+H19,Prader-Willi Syndrome
+H19,Pre-Eclampsia
+H19,Prolactinoma
+H19,Prostate Cancer
+H19,Pulmonary Artery Hypertension
+H19,Pulmonary Fibrosis
+H19,Rectum Cancer
+H19,Renal Cell Carcinoma
+H19,Renal Clear Cell Carcinoma
+H19,Renal Fibrosis
+H19,Retinoblastoma
+H19,Rhabdomyosarcoma
+H19,Rheumatoid Arthritis
+H19,Schizophrenia
+H19,Seminoma
+H19,Sepsis
+H19,Skin Cancer
+H19,Small Cell Lung Cancer
+H19,Squamous Cell Carcinoma
+H19,Stomach Cancer
+H19,Systemic Lupus Erythematosus
+H19,T-Cell Acute Lymphoblastic Leukemia
+H19,Temporal Lobe Epilepsy
+H19,Testicular Cancer
+H19,Testicular Germ Cell Tumor
+H19,Thoracic Aortic Aneurysm
+H19,Thyroid Anaplastic Carcinoma
+H19,Thyroid Cancer
+H19,Tongue Squamous Cell Carcinoma
+H19,Triple-Negative Breast Cancer
+H19,Tumor
+H19,Type 2 Diabetes Mellitus
+H19,Ulcerative Colitis
+H19,Urinary Bladder Cancer
+H19,Uterine Cervical Neoplasm
+H19,Uterine Leiomyoma
+H19,Vascular Disease
+H19,Wilms Tumor
+NEAT1,Abdominal Aortic Aneurysm
+NEAT1,Acquired Immunodeficiency Syndrome
+NEAT1,Acute Cerebral Infarction
+NEAT1,Acute Leukemia
+NEAT1,Acute Lymphoblastic Leukemia
+NEAT1,Acute Myeloid Leukemia
+NEAT1,Acute Promyelocytic Leukemia
+NEAT1,Acute Respiratory Distress Syndrome
+NEAT1,Adult T-Cell Leukemia
+NEAT1,Alcoholic Liver Disease
+NEAT1,Allergic Rhinitis
+NEAT1,Alzheimer Disease
+NEAT1,Amyotrophic Lateral Sclerosis
+NEAT1,Anaplastic Thyroid Cancer
+NEAT1,Asthma
+NEAT1,Astrocytoma
+NEAT1,Atherosclerosis
+NEAT1,Autism
+NEAT1,Autism Spectrum Disorder
+NEAT1,Autoimmune Disease
+NEAT1,Behcet Disease
+NEAT1,Bladder Cancer
+NEAT1,Breast Cancer
+NEAT1,Bronchopneumonia
+NEAT1,Burkitt Lymphoma
+NEAT1,Cancer
+NEAT1,Cardiovascular Disease
+NEAT1,Celiac Disease
+NEAT1,Cervical Cancer
+NEAT1,Cholangiocarcinoma
+NEAT1,Chronic Hepatitis B
+NEAT1,Chronic Lymphocytic Leukemia
+NEAT1,Chronic Myeloid Leukemia
+NEAT1,Clear Cell Renal Cell Carcinoma
+NEAT1,Colon Cancer
+NEAT1,Colorectal Cancer
+NEAT1,Colorectal Carcinoma
+NEAT1,Congenital Heart Disease
+NEAT1,Coronary Artery Disease
+NEAT1,Coronary Atherosclerotic Heart Disease
+NEAT1,COVID-19
+NEAT1,Cryptorchidism
+NEAT1,Degenerative Disc Disease
+NEAT1,Dengue Disease
+NEAT1,Diabetic Cataract
+NEAT1,Diabetic Nephropathy
+NEAT1,Diabetic Retinopathy
+NEAT1,Diffuse Large B-Cell Lymphoma
+NEAT1,Endometrial Adenocarcinoma
+NEAT1,Endometrial Cancer
+NEAT1,Endometrial Carcinoma
+NEAT1,Endometriosis
+NEAT1,Epilepsy
+NEAT1,Esophageal Cancer
+NEAT1,Esophageal Squamous Cell Cancer
+NEAT1,Esophagus Squamous Cell Carcinoma
+NEAT1,Fibroadenoma
+NEAT1,Frontotemporal Dementia
+NEAT1,Gallbladder Cancer
+NEAT1,Gastric Adenocarcinoma
+NEAT1,Gastric Cancer
+NEAT1,Glaucoma
+NEAT1,Glioblastoma
+NEAT1,Glioblastoma Multiforme
+NEAT1,Glioma
+NEAT1,Hemangioma
+NEAT1,Hemorrhagic Fever With Renal Syndrome
+NEAT1,Hepatocellular Cancer
+NEAT1,Hepatocellular Carcinoma
+NEAT1,High-Grade Serous Ovarian Cancer
+NEAT1,Hirschsprung's Disease
+NEAT1,HIV
+NEAT1,Hodgkin's Lymphoma
+NEAT1,Huntington's Disease
+NEAT1,Infantile Hemangioma
+NEAT1,Infertility
+NEAT1,Inflammation
+NEAT1,Inflammatory Bowel Disease
+NEAT1,Kennedy's Disease
+NEAT1,Laryngeal Cancer
+NEAT1,Laryngeal Squamous Cell Cancer
+NEAT1,Laryngeal Squamous Cell Carcinoma
+NEAT1,Leukemia
+NEAT1,Liver Cancer
+NEAT1,Liver Fibrosis
+NEAT1,Low-Grade Glioma
+NEAT1,Lung Adenocarcinoma
+NEAT1,Lung Cancer
+NEAT1,Lung Non-Small Cell Carcinoma
+NEAT1,Lung Squamous Cell Carcinoma
+NEAT1,Lupus Nephritis
+NEAT1,Major Depressive Disorder
+NEAT1,Malignant Glioma
+NEAT1,Malignant Melanoma
+NEAT1,Malignant Pleural Mesothelioma
+NEAT1,Medulloblastoma
+NEAT1,Melanoma
+NEAT1,Multiple Myeloma
+NEAT1,Multiple Sclerosis
+NEAT1,Muscular Atrophy
+NEAT1,Myocardial Infarction
+NEAT1,Nasopharynx Cancer
+NEAT1,Nasopharynx Carcinoma
+NEAT1,Neuroblastoma
+NEAT1,Non-Alcoholic Fatty Liver
+NEAT1,Non-Hodgkin Lymphoma
+NEAT1,Non-Small Cell Lung Cancer
+NEAT1,Non Small Cell Lung Cancer
+NEAT1,Obesity
+NEAT1,Oral Squamous Cell Cancer
+NEAT1,Oral Squamous Cell Carcinoma
+NEAT1,Osteoarthritis
+NEAT1,Osteoporosis
+NEAT1,Osteosarcoma
+NEAT1,Ovarian Cancer
+NEAT1,Pancreatic Cancer
+NEAT1,Pancreatic Ductal Adenocarcinoma
+NEAT1,Papillary Thyroid Cancer
+NEAT1,Papillary Thyroid Carcinoma
+NEAT1,Parkinson Disease
+NEAT1,Pneumonia
+NEAT1,Polycystic Ovary Syndrome
+NEAT1,Pre-Eclampsia
+NEAT1,Prostate Cancer
+NEAT1,Pulmonary Artery Hypertension
+NEAT1,Pulmonary Fibrosis
+NEAT1,Relapsing-Remitting Multiple Sclerosis
+NEAT1,Renal Cell Carcinoma
+NEAT1,Retinoblastoma
+NEAT1,Rheumatoid Arthritis
+NEAT1,Rosacea
+NEAT1,Schizophrenia
+NEAT1,Seizure
+NEAT1,Sepsis
+NEAT1,Sinonasal Squamous Cell Carcinoma
+NEAT1,Small Cell Lung Cancer
+NEAT1,Squamous Cell Carcinoma
+NEAT1,Stomach Cancer
+NEAT1,Systemic Lupus Erythematosus
+NEAT1,Temporal Lobe Epilepsy
+NEAT1,Thyroid Anaplastic Carcinoma
+NEAT1,Thyroid Cancer
+NEAT1,Thyroid Carcinoma
+NEAT1,Tongue Squamous Cell Carcinoma
+NEAT1,Triple-Negative Breast Cancer
+NEAT1,Tuberculosis
+NEAT1,Vulva Squamous Cell Carcinoma
+C1RL-AS1,Esophageal Cancer
+C1RL-AS1,Glioblastoma
+LINC00485,Colorectal Cancer
+LINC00485,Hepatocellular Carcinoma
+LINC00485,Lung Adenocarcinoma
+LINC00485,Lung Cancer
+SNHG10,Acute Myeloid Leukemia
+SNHG10,Astrocytoma
+SNHG10,Atherosclerosis
+SNHG10,Bladder Cancer
+SNHG10,Castration Resistant Prostate Cancer
+SNHG10,Colorectal Cancer
+SNHG10,Epithelial Ovarian Cancer
+SNHG10,Gastric Cancer
+SNHG10,Glioblastoma
+SNHG10,Hepatocellular Carcinoma
+SNHG10,Non-Small Cell Lung Cancer
+SNHG10,Osteosarcoma
+SNHG10,Parkinson Disease
+LINC00641,Acute Myeloid Leukemia
+LINC00641,Bladder Cancer
+LINC00641,Breast Cancer
+LINC00641,Cervical Cancer
+LINC00641,Colorectal Cancer
+LINC00641,Gastric Adenocarcinoma
+LINC00641,Gastric Cancer
+LINC00641,Glioma
+LINC00641,Intervertebral Disc Degeneration
+LINC00641,Lung Cancer
+LINC00641,Non-Small Cell Lung Cancer
+LINC00641,Non Small Cell Lung Cancer
+LINC00641,Periodontitis
+LINC00641,Prostate Adenocarcinoma
+LINC00641,Prostate Cancer
+LINC00641,Thyroid Cancer
+FBXL19-AS1,Acute Myeloid Leukemia
+FBXL19-AS1,Astrocytoma
+FBXL19-AS1,Breast Cancer
+FBXL19-AS1,Cervical Cancer
+FBXL19-AS1,Colorectal Cancer
+FBXL19-AS1,Esophageal Cancer
+FBXL19-AS1,Glioma
+FBXL19-AS1,Hepatocellular Carcinoma
+FBXL19-AS1,Lung Adenocarcinoma
+FBXL19-AS1,Lung Cancer
+FBXL19-AS1,Non-Small Cell Lung Cancer
+FBXL19-AS1,Oligodendroglioma
+FBXL19-AS1,Osteosarcoma
+FBXL19-AS1,Rheumatoid Arthritis
+LINC00482,Bladder Cancer
+LINC00482,COVID-19
+LINC00482,Hepatocellular Carcinoma
+ZNF790-AS1,COVID-19
+ZNF790-AS1,Esophageal Cancer
+ZNF790-AS1,Glioblastoma
+ZNF790-AS1,Periodontitis
+ZNF790-AS1,Thyroid Cancer
+LINC00663,Breast Cancer
+LINC00663,Cell Renal Cell Carcinoma
+LINC00663,COVID-19
+LINC00663,Gastric Cancer
+LINC00663,Glioblastoma
+LINC00663,Glioblastoma Multiforme
+LINC00663,Glioma
+LINC00663,Lung Cancer
+LINC00663,Melanoma
+LINC00663,Pancreatic Cancer
+LINC00663,Prostate Cancer
+LINC00663,Thyroid Cancer
+LEMD1-AS1,Astrocytoma
+LEMD1-AS1,Epithelial Ovarian Cancer
+LEMD1-AS1,Ovarian Cancer
+LEMD1-AS1,Thyroid Cancer
+RUSC1-AS1,Astrocytoma
+RUSC1-AS1,Breast Cancer
+RUSC1-AS1,Cervical Cancer
+RUSC1-AS1,COVID-19
+RUSC1-AS1,Head And Neck Squamous Cell Carcinoma
+RUSC1-AS1,Hepatocellular Carcinoma
+RUSC1-AS1,Osteosarcoma
+RUSC1-AS1,Periodontitis
+LINC01270,Esophageal Adenocarcinoma
+LINC01270,Esophageal Cancer
+LINC01270,Lung Adenocarcinoma
+LINC01270,Triple-Negative Breast Cancer
+MIR646HG,COVID-19
+MIR646HG,Periodontitis
+MIR646HG,Thyroid Cancer
+MIR663AHG,Esophageal Adenocarcinoma
+MIR663AHG,Esophageal Cancer
+MIR663AHG,Psoriasis
+MIR663AHG,Thyroid Cancer
+MIR663AHG,Turner Syndrome
+LINC00319,Acute Myeloid Leukemia
+LINC00319,Bladder Cancer
+LINC00319,Breast Cancer
+LINC00319,Cervical Cancer
+LINC00319,Cutaneous Squamous Cell Carcinoma
+LINC00319,Gastric Cancer
+LINC00319,Glioma
+LINC00319,Laryngeal Squamous Cell Carcinoma
+LINC00319,Lung Adenocarcinoma
+LINC00319,Lung Cancer
+LINC00319,Nasopharynx Cancer
+LINC00319,Nasopharynx Carcinoma
+LINC00319,Non-Small Cell Lung Cancer
+LINC00319,Oral Squamous Cell Carcinoma
+LINC00319,Osteosarcoma
+LINC00319,Ovarian Cancer
+LINC00319,Periodontitis
+LINC00319,Tumor
+TTC28-AS1,Astrocytoma
+TTC28-AS1,COVID-19
+TTC28-AS1,Diabetic Nephropathy
+TTC28-AS1,Esophageal Cancer
+TTC28-AS1,Gastric Cancer
+TTC28-AS1,Glioblastoma
+TTC28-AS1,Glioblastoma Multiforme
+TTC28-AS1,Glioma
+TTC28-AS1,Medulloblastoma
+TTC28-AS1,Pulmonary Artery Hypertension
+TTC28-AS1,Systemic Lupus Erythematosus
+TTC28-AS1,Type 2 Diabetes Mellitus
+STARD7-AS1,COVID-19
+STARD7-AS1,Sepsis
+KIF9-AS1,Astrocytoma
+KIF9-AS1,Cell Renal Cell Carcinoma
+KIF9-AS1,COVID-19
+KIF9-AS1,Glioblastoma Multiforme
+KIF9-AS1,Melanoma
+KIF9-AS1,Nasopharynx Carcinoma
+KIF9-AS1,Renal Cell Carcinoma
+LINC01096,Breast Cancer
+LINC01096,Esophageal Cancer
+LINC01096,Glioblastoma
+LINC01096,Periodontitis
+LINC01096,Triple-Negative Breast Cancer
+HLA-F-AS1,Acute Myeloid Leukemia
+HLA-F-AS1,Colorectal Cancer
+HLA-F-AS1,Esophageal Cancer
+HLA-F-AS1,Hepatocellular Carcinoma
+HLA-F-AS1,Lung Adenocarcinoma
+HLA-F-AS1,Periodontitis
+HLA-F-AS1,Systemic Lupus Erythematosus
+HLA-F-AS1,Thyroid Cancer
+HLA-F-AS1,Triple-Negative Breast Cancer
+LINC00174,Colon Adenocarcinoma
+LINC00174,Colorectal Cancer
+LINC00174,Colorectal Carcinoma
+LINC00174,Diabetic Retinopathy
+LINC00174,Esophageal Cancer
+LINC00174,Glioma
+LINC00174,Hepatocellular Carcinoma
+LINC00174,Low-Grade Glioma
+HOXA-AS2,Acute Lymphoblastic Leukemia
+HOXA-AS2,Acute Myeloid Leukemia
+HOXA-AS2,Acute Promyelocytic Leukemia
+HOXA-AS2,Atrial Fibrillation
+HOXA-AS2,Bladder Cancer
+HOXA-AS2,Breast Cancer
+HOXA-AS2,Cervical Cancer
+HOXA-AS2,Chronic Myeloid Leukemia
+HOXA-AS2,Chronic Obstructive Pulmonary Disease
+HOXA-AS2,Cleidocranial Dysplasia
+HOXA-AS2,Colorectal Cancer
+HOXA-AS2,Endometrial Carcinoma
+HOXA-AS2,Epilepsy
+HOXA-AS2,Esophageal Cancer
+HOXA-AS2,Gallbladder Cancer
+HOXA-AS2,Gallbladder Carcinoma
+HOXA-AS2,Gastric Cancer
+HOXA-AS2,Glioblastoma
+HOXA-AS2,Glioma
+HOXA-AS2,Hepatoblastoma
+HOXA-AS2,Hepatocellular Carcinoma
+HOXA-AS2,Malignant Glioma
+HOXA-AS2,Melanoma
+HOXA-AS2,Multiple Sclerosis
+HOXA-AS2,Nasopharynx Carcinoma
+HOXA-AS2,Non-Small Cell Lung Cancer
+HOXA-AS2,Non Small Cell Lung Cancer
+HOXA-AS2,Oral Squamous Cell Carcinoma
+HOXA-AS2,Osteosarcoma
+HOXA-AS2,Pancreatic Cancer
+HOXA-AS2,Papillary Thyroid Cancer
+HOXA-AS2,Papillary Thyroid Carcinoma
+HOXA-AS2,Parkinson Disease
+HOXA-AS2,Prostate Cancer
+HOXA-AS2,Stomach Cancer
+HOXA-AS2,Thyroid Cancer
+SNHG15,Acute Myeloid Leukemia
+SNHG15,Bladder Cancer
+SNHG15,Breast Cancer
+SNHG15,Cancer
+SNHG15,Cell Renal Cell Carcinoma
+SNHG15,Clear Cell Renal Cell Carcinoma
+SNHG15,Colon Cancer
+SNHG15,Colorectal Cancer
+SNHG15,Diabetic Nephropathy
+SNHG15,Epithelial Ovarian Cancer
+SNHG15,Esophageal Cancer
+SNHG15,Gastric Cancer
+SNHG15,Glioblastoma
+SNHG15,Glioma
+SNHG15,Hepatocellular Cancer
+SNHG15,Hepatocellular Carcinoma
+SNHG15,Hereditary Hemorrhagic Telangiectasia
+SNHG15,Liver Cancer
+SNHG15,Lung Adenocarcinoma
+SNHG15,Lung Cancer
+SNHG15,Lung Non-Small Cell Carcinoma
+SNHG15,Malignant Glioma
+SNHG15,Nasopharynx Carcinoma
+SNHG15,Non-Small Cell Lung Cancer
+SNHG15,Non Small Cell Lung Cancer
+SNHG15,Oral Squamous Cell Carcinoma
+SNHG15,Osteoarthritis
+SNHG15,Osteosarcoma
+SNHG15,Ovarian Cancer
+SNHG15,Pancreatic Cancer
+SNHG15,Pancreatic Ductal Adenocarcinoma
+SNHG15,Papillary Thyroid Cancer
+SNHG15,Papillary Thyroid Carcinoma
+SNHG15,Prostate Cancer
+SNHG15,Renal Cell Carcinoma
+SNHG15,Stomach Cancer
+SNHG15,Systemic Lupus Erythematosus
+SNHG15,Thyroid Cancer
+SNHG15,Uveal Melanoma
+EPHA1-AS1,Periodontitis
+LINC00996,Esophageal Cancer
+LINC00996,Lung Adenocarcinoma
+LINC00996,Oral Squamous Cell Carcinoma
+LINC00996,Ovarian Cancer
+LINC00996,Periodontitis
+LINC00996,Thyroid Cancer
+DLX6-AS1,Adrenocortical Carcinoma
+DLX6-AS1,Astrocytoma
+DLX6-AS1,Autism
+DLX6-AS1,Bladder Cancer
+DLX6-AS1,Breast Cancer
+DLX6-AS1,Cervical Cancer
+DLX6-AS1,Colorectal Cancer
+DLX6-AS1,COVID-19
+DLX6-AS1,Endometrial Cancer
+DLX6-AS1,Esophageal Cancer
+DLX6-AS1,Esophagus Squamous Cell Carcinoma
+DLX6-AS1,Ewing Sarcoma
+DLX6-AS1,Gastric Cancer
+DLX6-AS1,Glioblastoma
+DLX6-AS1,Glioma
+DLX6-AS1,Hepatocellular Carcinoma
+DLX6-AS1,Laryngeal Cancer
+DLX6-AS1,Laryngeal Squamous Cell Cancer
+DLX6-AS1,Laryngeal Squamous Cell Carcinoma
+DLX6-AS1,Liver Cancer
+DLX6-AS1,Low-Grade Glioma
+DLX6-AS1,Lung Adenocarcinoma
+DLX6-AS1,Malignant Glioma
+DLX6-AS1,Nasopharynx Cancer
+DLX6-AS1,Nasopharynx Carcinoma
+DLX6-AS1,Nervous System Disease
+DLX6-AS1,Neuroblastoma
+DLX6-AS1,Non-Small Cell Lung Cancer
+DLX6-AS1,Non Small Cell Lung Cancer
+DLX6-AS1,Osteosarcoma
+DLX6-AS1,Ovarian Cancer
+DLX6-AS1,Pancreatic Cancer
+DLX6-AS1,Pre-Eclampsia
+DLX6-AS1,Prostate Cancer
+DLX6-AS1,Renal Cell Carcinoma
+DLX6-AS1,Thyroid Cancer
+DLX6-AS1,Thyroid Carcinoma
+DLX6-AS1,Triple-Negative Breast Cancer
+SLC26A4-AS1,Alzheimer Disease
+SLC26A4-AS1,Astrocytoma
+SLC26A4-AS1,Breast Cancer
+SLC26A4-AS1,Esophageal Adenocarcinoma
+SLC26A4-AS1,Esophageal Cancer
+SLC26A4-AS1,Gastric Cancer
+SLC26A4-AS1,Glioma
+SLC26A4-AS1,Low-Grade Glioma
+SLC26A4-AS1,Malignant Glioma
+SLC26A4-AS1,Papillary Thyroid Cancer
+SLC26A4-AS1,Papillary Thyroid Carcinoma
+SLC26A4-AS1,Thyroid Cancer
+ZNF252P-AS1,Astrocytoma
+ZNF252P-AS1,Esophageal Cancer
+ZNF252P-AS1,Hepatocellular Carcinoma
+ZNF252P-AS1,Lung Adenocarcinoma
+ZNF252P-AS1,Prostate Cancer
+FIRRE,Colorectal Cancer
+FIRRE,COVID-19
+FIRRE,Diffuse Large B-Cell Lymphoma
+FIRRE,Endometrial Cancer
+FIRRE,Esophageal Cancer
+FIRRE,Hepatocellular Carcinoma
+FIRRE,Neuroblastoma
+FIRRE,Thyroid Cancer
+LINC00652,Acute Lymphoblastic Leukemia
+LINC00652,Astrocytoma
+LINC00652,Esophageal Cancer
+LINC00652,Periodontitis
+LINC00652,Thyroid Cancer
+LINC00339,Astrocytoma
+LINC00339,Breast Cancer
+LINC00339,Clear Cell Renal Cell Carcinoma
+LINC00339,Colorectal Cancer
+LINC00339,Endometriosis
+LINC00339,Gastric Cancer
+LINC00339,Glioblastoma
+LINC00339,Glioblastoma Multiforme
+LINC00339,Glioma
+LINC00339,Hepatocellular Carcinoma
+LINC00339,Laryngeal Squamous Cell Carcinoma
+LINC00339,Non-Small Cell Lung Cancer
+LINC00339,Ovarian Cancer
+LINC00339,Pancreatic Ductal Adenocarcinoma
+LINC00339,Systemic Lupus Erythematosus
+LINC00339,Triple-Negative Breast Cancer
+NOP14-AS1,Astrocytoma
+NOP14-AS1,Esophageal Cancer
+NOP14-AS1,Gastric Cancer
+NOP14-AS1,Periodontitis
+NOP14-AS1,Tongue Squamous Cell Carcinoma
+KRTAP5-AS1,Alzheimer Disease
+KRTAP5-AS1,Astrocytoma
+KRTAP5-AS1,Esophageal Cancer
+KRTAP5-AS1,Gastric Cancer
+KRTAP5-AS1,Hepatocellular Carcinoma
+KRTAP5-AS1,Pancreatic Cancer
+KRTAP5-AS1,Thyroid Cancer
+LINC01089,Astrocytoma
+LINC01089,Breast Cancer
+LINC01089,Cancer
+LINC01089,Epithelial Ovarian Cancer
+LINC01089,Gastric Cancer
+LINC01089,Glioblastoma
+LINC01089,Glioma
+LINC01089,Lung Adenocarcinoma
+LINC01089,Periodontitis
+ASB16-AS1,Adrenocortical Carcinoma
+ASB16-AS1,Cervical Cancer
+ASB16-AS1,Esophageal Cancer
+ASB16-AS1,Gastric Cancer
+ASB16-AS1,Glioma
+ASB16-AS1,Hepatocellular Carcinoma
+ASB16-AS1,Low-Grade Glioma
+ASB16-AS1,Non-Small Cell Lung Cancer
+ASB16-AS1,Non Small Cell Lung Cancer
+ASB16-AS1,Osteosarcoma
+ASB16-AS1,Periodontitis
+LINC00667,Breast Cancer
+LINC00667,Cholangiocarcinoma
+LINC00667,COVID-19
+LINC00667,Glioblastoma
+LINC00667,Glioma
+LINC00667,Nasopharynx Carcinoma
+LINC00667,Non-Small Cell Lung Cancer
+LINC00667,Non Small Cell Lung Cancer
+LINC00667,Polycystic Ovary Syndrome
+LINC00667,Renal Fibrosis
+LINC00667,Thyroid Cancer
+LINC00667,Wilms Tumor
+FLG-AS1,Cervical Cancer
+FLG-AS1,Esophageal Cancer
+FLG-AS1,Esophagus Squamous Cell Carcinoma
+FLG-AS1,Type 2 Diabetes Mellitus
+FLG-AS1,Uveal Melanoma
+LINC01139,Breast Cancer
+LINC01139,Cervical Cancer
+LINC01139,Diabetic Nephropathy
+LINC01139,Epithelial Ovarian Cancer
+LINC01139,Esophageal Cancer
+LINC01139,Glioma
+LINC01139,Hepatocellular Carcinoma
+LINC01139,Hereditary Hemorrhagic Telangiectasia
+LINC01139,Mantle Cell Lymphoma
+LINC01139,Non-Small Cell Lung Cancer
+LINC01139,Non Small Cell Lung Cancer
+LINC01139,Osteoarthritis
+LINC01139,Osteosarcoma
+LINC01139,Ovarian Cancer
+LINC01139,Ovarian Carcinoma
+LINC01139,Pancreatic Adenocarcinoma
+LINC01139,Periodontitis
+LINC01139,Thyroid Cancer
+LINC01139,Triple-Negative Breast Cancer
+PRR7-AS1,Colon Cancer
+PRR7-AS1,Colorectal Cancer
+PRR7-AS1,COVID-19
+PRR7-AS1,Esophageal Cancer
+PRR7-AS1,Glioblastoma
+PRR7-AS1,Uveal Melanoma
+DUBR,Asthma
+DUBR,Atherosclerosis
+DUBR,Cancer
+DUBR,Chronic Obstructive Pulmonary Disease
+DUBR,Colon Adenocarcinoma
+DUBR,Colon Cancer
+DUBR,Glioblastoma
+DUBR,Lung Adenocarcinoma
+DUBR,Neuroblastoma
+DUBR,Periodontitis
+LINC00265,Acute Myeloid Leukemia
+LINC00265,Astrocytoma
+LINC00265,Bladder Cancer
+LINC00265,Colorectal Cancer
+LINC00265,Esophageal Cancer
+LINC00265,Osteosarcoma
+LINC01116,Bladder Cancer
+LINC01116,Breast Cancer
+LINC01116,Cervical Cancer
+LINC01116,Colorectal Cancer
+LINC01116,Endometriosis
+LINC01116,Esophageal Cancer
+LINC01116,Gastric Cancer
+LINC01116,Glioblastoma
+LINC01116,Glioma
+LINC01116,Head And Neck Squamous Cell Carcinoma
+LINC01116,Hepatocellular Carcinoma
+LINC01116,Lung Adenocarcinoma
+LINC01116,Lung Non-Small Cell Carcinoma
+LINC01116,Nasopharynx Cancer
+LINC01116,Nasopharynx Carcinoma
+LINC01116,Neck Squamous Cell Carcinoma
+LINC01116,Non-Small Cell Lung Cancer
+LINC01116,Non Small Cell Lung Cancer
+LINC01116,Oral Squamous Cell Carcinoma
+LINC01116,Osteosarcoma
+LINC01116,Periodontitis
+LINC01116,Pituitary Adenoma
+LINC01116,Prostate Cancer
+LINC01116,Small Cell Lung Cancer
+LINC-PINT,Acute Lymphoblastic Leukemia
+LINC-PINT,Alzheimer Disease
+LINC-PINT,Chronic Obstructive Pulmonary Disease
+LINC-PINT,Colorectal Cancer
+LINC-PINT,COVID-19
+LINC-PINT,Esophageal Cancer
+LINC-PINT,Esophagus Squamous Cell Carcinoma
+LINC-PINT,Gastric Cancer
+LINC-PINT,Glioblastoma
+LINC-PINT,Hepatitis C
+LINC-PINT,Hepatitis C Virus Infection
+LINC-PINT,High-Altitude Pulmonary Edema
+LINC-PINT,Huntington's Disease
+LINC-PINT,Laryngeal Cancer
+LINC-PINT,Laryngeal Carcinoma
+LINC-PINT,Laryngeal Squamous Cell Carcinoma
+LINC-PINT,Lung Adenocarcinoma
+LINC-PINT,Lung Cancer
+LINC-PINT,Melanoma
+LINC-PINT,Non-Small Cell Lung Cancer
+LINC-PINT,Osteosarcoma
+LINC-PINT,Ovarian Cancer
+LINC-PINT,Pancreatic Cancer
+LINC-PINT,Pancreatic Ductal Adenocarcinoma
+LINC-PINT,Parkinson Disease
+LINC-PINT,Periodontitis
+LINC-PINT,Prostate Cancer
+LINC-PINT,Renal Cell Carcinoma
+LINC-PINT,Retinoblastoma
+LINC-PINT,Rheumatoid Arthritis
+LINC-PINT,Systemic Lupus Erythematosus
+LINC-PINT,Thyroid Cancer
+LINC-PINT,Triple-Negative Breast Cancer
+LINC-PINT,Type 2 Diabetes Mellitus
+MALAT1,Acute Lymphoblastic Leukemia
+MALAT1,Acute Megakaryoblastic Leukemia
+MALAT1,Acute Myeloid Leukemia
+MALAT1,Acute Myocardial Infarction
+MALAT1,Acute Pancreatitis
+MALAT1,Acute Respiratory Distress Syndrome
+MALAT1,Adenocarcinoma
+MALAT1,Adrenal Cortical Carcinoma
+MALAT1,Adrenocortical Carcinoma
+MALAT1,Acquired Immunodeficiency Syndrome
+MALAT1,Alzheimer Disease
+MALAT1,Amelogenesis Imperfecta
+MALAT1,Amyotrophic Lateral Sclerosis
+MALAT1,Anaplastic Thyroid Cancer
+MALAT1,Aortic Valve Disease
+MALAT1,Asthma
+MALAT1,Astrocytoma
+MALAT1,Atherosclerosis
+MALAT1,Atrophic Gastritis
+MALAT1,Autoimmune Thyroiditis
+MALAT1,B-Cell Lymphoma
+MALAT1,Beta-Thalassemia
+MALAT1,Bipolar Disorder
+MALAT1,Bladder Cancer
+MALAT1,Bladder Carcinoma
+MALAT1,Bladder Transitional Cell Carcinoma
+MALAT1,Bladder Urothelial Carcinoma
+MALAT1,Breast Cancer
+MALAT1,Calcific Aortic Valve Disease
+MALAT1,Cancer
+MALAT1,Cardiomyopathy
+MALAT1,Cardiovascular Disease
+MALAT1,Cerebral Ischemia
+MALAT1,Cervical Cancer
+MALAT1,Cervical Carcinoma
+MALAT1,Cholangiocarcinoma
+MALAT1,Choriocarcinoma
+MALAT1,Chronic Hepatitis B
+MALAT1,Chronic Lymphocytic Leukemia
+MALAT1,Chronic Myeloid Leukemia
+MALAT1,Chronic Obstructive Pulmonary Disease
+MALAT1,Chronic Periodontitis
+MALAT1,Clear Cell Renal Cell Carcinoma
+MALAT1,Colon Cancer
+MALAT1,Colorectal Cancer
+MALAT1,Coronary Artery Disease
+MALAT1,Coronary Atherosclerosis
+MALAT1,Coronary Atherosclerotic Heart Disease
+MALAT1,Coronary Heart Disease
+MALAT1,COVID-19
+MALAT1,Crohn's Disease
+MALAT1,Cutaneous Squamous Cell Carcinoma
+MALAT1,Depression
+MALAT1,Diabetes Mellitus
+MALAT1,Diabetic Cataract
+MALAT1,Diabetic Nephropathy
+MALAT1,Diabetic Retinopathy
+MALAT1,Differentiated Thyroid Carcinoma
+MALAT1,Diffuse Large B-Cell Lymphoma
+MALAT1,Endometrial Adenocarcinoma
+MALAT1,Endometrial Cancer
+MALAT1,Endometrial Carcinoma
+MALAT1,Endometrial Stromal Sarcoma
+MALAT1,Endometrioid Carcinoma
+MALAT1,Endometrioid Endometrial Cancer
+MALAT1,Endometriosis
+MALAT1,Epilepsy
+MALAT1,Epithelial Ovarian Cancer
+MALAT1,Esophageal Cancer
+MALAT1,Esophageal Squamous Cancer
+MALAT1,Esophageal Squamous Cell Cancer
+MALAT1,Esophagus Squamous Cell Carcinoma
+MALAT1,Ewing Sarcoma
+MALAT1,Fatty Liver Disease
+MALAT1,Fibroadenoma
+MALAT1,Fibroma
+MALAT1,Fibrosarcoma
+MALAT1,Follicular Thyroid Carcinoma
+MALAT1,Gallbladder Cancer
+MALAT1,Gallbladder Carcinoma
+MALAT1,Gastric Adenocarcinoma
+MALAT1,Gastric Cancer
+MALAT1,Gastric Carcinoma
+MALAT1,Gastrointestinal Stromal Tumor
+MALAT1,Gastrointestinal System Cancer
+MALAT1,Gestational Diabetes Mellitus
+MALAT1,Glaucoma
+MALAT1,Glioblastoma
+MALAT1,Glioblastoma Multiforme
+MALAT1,Glioma
+MALAT1,Head And Neck Squamous Cell Carcinoma
+MALAT1,Hemangioma
+MALAT1,Hepatitis
+MALAT1,Hepatoblastoma
+MALAT1,Hepatocellular Cancer
+MALAT1,Hepatocellular Carcinoma
+MALAT1,Hilar Cholangiocarcinoma
+MALAT1,HIV
+MALAT1,Hodgkin's Lymphoma
+MALAT1,Hyperglycemia
+MALAT1,Hypertension
+MALAT1,Hypopharynx Cancer
+MALAT1,Immune Thrombocytopenia
+MALAT1,Infantile Hemangioma
+MALAT1,Intervertebral Degenerative Disc Disease
+MALAT1,Intervertebral Disc Degeneration
+MALAT1,Intracranial Aneurysm
+MALAT1,Kennedy's Disease
+MALAT1,Kidney Cancer
+MALAT1,Knee Osteoarthritis
+MALAT1,Laryngeal Cancer
+MALAT1,Laryngeal Carcinoma
+MALAT1,Laryngeal Squamous Cell Cancer
+MALAT1,Laryngeal Squamous Cell Carcinoma
+MALAT1,Leukemia
+MALAT1,Liver Cancer
+MALAT1,Liver Cirrhosis
+MALAT1,Liver Fibrosis
+MALAT1,Lung Adenocarcinoma
+MALAT1,Lung Cancer
+MALAT1,Lung Non-Small Cell Carcinoma
+MALAT1,Lung Small Cell Carcinoma
+MALAT1,Lung Squamous Cell Carcinoma
+MALAT1,Lymphoma
+MALAT1,Major Depressive Disorder
+MALAT1,Malignant Glioma
+MALAT1,Malignant Melanoma
+MALAT1,Mantle Cell Lymphoma
+MALAT1,Medullary Thyroid Cancer
+MALAT1,Medulloblastoma
+MALAT1,Melanoma
+MALAT1,Meningioma
+MALAT1,Monocytic Leukemia
+MALAT1,Multiple Myeloma
+MALAT1,Multiple Sclerosis
+MALAT1,Muscular Atrophy
+MALAT1,Myasthenia Gravis
+MALAT1,Myeloma
+MALAT1,Myocardial Infarction
+MALAT1,Nasopharynx Cancer
+MALAT1,Nasopharynx Carcinoma
+MALAT1,Neck Squamous Cell Carcinoma
+MALAT1,Neuroblastoma
+MALAT1,Neurodegenerative Disease
+MALAT1,Neuroendocrine Neoplasm
+MALAT1,Non-Alcoholic Fatty Liver
+MALAT1,Non-Alcoholic Fatty Liver Disease
+MALAT1,Non-Hodgkin Lymphoma
+MALAT1,Non-Small Cell Lung Adenocarcinoma
+MALAT1,Non-Small Cell Lung Cancer
+MALAT1,Non Small Cell Lung Cancer
+MALAT1,Obesity
+MALAT1,Obstructive Sleep Apnea
+MALAT1,Oral Squamous Cell Cancer
+MALAT1,Oral Squamous Cell Carcinoma
+MALAT1,Oral Tongue Squamous Cell Carcinoma
+MALAT1,Ossification Of The Posterior Longitudinal Ligament
+MALAT1,Osteoarthritis
+MALAT1,Osteoporosis
+MALAT1,Osteosarcoma
+MALAT1,Ovarian Cancer
+MALAT1,Ovarian Carcinoma
+MALAT1,Ovarian Endometrial Cancer
+MALAT1,Pancreatic Cancer
+MALAT1,Pancreatic Carcinoma
+MALAT1,Pancreatic Ductal Adenocarcinoma
+MALAT1,Papillary Thyroid Cancer
+MALAT1,Papillary Thyroid Carcinoma
+MALAT1,Parkinson Disease
+MALAT1,Periodontal Disease
+MALAT1,Periodontitis
+MALAT1,Pituitary Adenoma
+MALAT1,Polycystic Ovary Syndrome
+MALAT1,Pre-Eclampsia
+MALAT1,Primary Pulmonary Hypertension
+MALAT1,Proliferative Vitreoretinopathy
+MALAT1,Prostate Cancer
+MALAT1,Pulmonary Artery Hypertension
+MALAT1,Pulmonary Fibrosis
+MALAT1,Pulmonary Hypertension
+MALAT1,Renal Cancer
+MALAT1,Renal Carcinoma
+MALAT1,Renal Cell Carcinoma
+MALAT1,Renal Clear Cell Carcinoma
+MALAT1,Retinal Degeneration
+MALAT1,Retinoblastoma
+MALAT1,Rhabdomyosarcoma
+MALAT1,Rheumatoid Arthritis
+MALAT1,Seizure
+MALAT1,Sepsis
+MALAT1,Silicosis
+MALAT1,Skin Cutaneous Melanoma
+MALAT1,Skin Squamous Cell Carcinoma
+MALAT1,Small Cell Lung Cancer
+MALAT1,Squamous Cell Carcinoma
+MALAT1,Stomach Cancer
+MALAT1,Systemic Lupus Erythematosus
+MALAT1,Thymic Cancer
+MALAT1,Thyroid Anaplastic Carcinoma
+MALAT1,Thyroid Cancer
+MALAT1,Thyroid Medullary Carcinoma
+MALAT1,Tongue Cancer
+MALAT1,Tongue Squamous Cell Carcinoma
+MALAT1,Triple-Negative Breast Cancer
+MALAT1,Tumor
+MALAT1,Type 1 Diabetes Mellitus
+MALAT1,Type 2 Diabetes Mellitus
+MALAT1,Ulcerative Colitis
+MALAT1,Unstable Angina
+MALAT1,Urinary Bladder Cancer
+MALAT1,Urothelial Carcinoma
+MALAT1,Uterine Cancer
+MALAT1,Uterine Cervical Neoplasm
+MALAT1,Uveal Melanoma
+MALAT1,Vitiligo
+MALAT1,Vulva Squamous Cell Carcinoma
+PSMA3-AS1,Colorectal Cancer
+PSMA3-AS1,COVID-19
+PSMA3-AS1,Diffuse Large B-Cell Lymphoma
+PSMA3-AS1,Esophageal Cancer
+PSMA3-AS1,Esophagus Squamous Cell Carcinoma
+PSMA3-AS1,Glioma
+PSMA3-AS1,Head And Neck Squamous Cell Carcinoma
+PSMA3-AS1,Hodgkin's Lymphoma
+PSMA3-AS1,Lung Non-Small Cell Carcinoma
+PSMA3-AS1,Oral Squamous Cell Carcinoma
+PSMA3-AS1,Ovarian Cancer
+PSMA3-AS1,Systemic Lupus Erythematosus
+SNHG5,Acute Myeloid Leukemia
+SNHG5,Acute Respiratory Distress Syndrome
+SNHG5,Aortic Aneurysm
+SNHG5,Astrocytoma
+SNHG5,Bladder Cancer
+SNHG5,Bladder Carcinoma
+SNHG5,Breast Cancer
+SNHG5,Chronic Myeloid Leukemia
+SNHG5,Chronic Obstructive Pulmonary Disease
+SNHG5,Clear Cell Renal Cell Carcinoma
+SNHG5,Colorectal Cancer
+SNHG5,Diabetes Mellitus
+SNHG5,Endometrial Cancer
+SNHG5,Endometrial Carcinoma
+SNHG5,Esophageal Cancer
+SNHG5,Esophagus Squamous Cell Carcinoma
+SNHG5,Gastric Cancer
+SNHG5,Glioblastoma
+SNHG5,Glioma
+SNHG5,Hepatocellular Carcinoma
+SNHG5,Kawasaki Disease
+SNHG5,Liver Cancer
+SNHG5,Low-Grade Glioma
+SNHG5,Lung Adenocarcinoma
+SNHG5,Lymphoma
+SNHG5,Malignant Melanoma
+SNHG5,Melanoma
+SNHG5,Myeloid Leukemia
+SNHG5,Nasopharynx Cancer
+SNHG5,Nasopharynx Carcinoma
+SNHG5,Neuroblastoma
+SNHG5,Oral Squamous Cell Carcinoma
+SNHG5,Osteoarthritis
+SNHG5,Osteoporosis
+SNHG5,Osteosarcoma
+SNHG5,Ovarian Cancer
+SNHG5,Parkinson Disease
+SNHG5,Pituitary Adenoma
+SNHG5,Pre-Eclampsia
+SNHG5,Prostate Cancer
+SNHG5,Stomach Cancer
+SNHG5,Systemic Lupus Erythematosus
+SNHG5,T-Cell Acute Lymphoblastic Leukemia
+SNHG5,Thyroid Cancer
+SNHG5,Type 2 Diabetes Mellitus
+SNHG5,Ulcerative Colitis
+LINC00944,Breast Cancer
+LINC00944,Esophageal Adenocarcinoma
+LINC00944,Esophageal Cancer
+LINC00944,Glioblastoma
+LINC00944,Intrahepatic Cholangiocarcinoma
+LINC00944,Osteoarthritis
+LINC00944,Parkinson Disease
+SNHG17,Astrocytoma
+SNHG17,Breast Cancer
+SNHG17,Castration Resistant Prostate Cancer
+SNHG17,Cell Renal Cell Carcinoma
+SNHG17,Colon Adenocarcinoma
+SNHG17,Colorectal Adenocarcinoma
+SNHG17,Colorectal Cancer
+SNHG17,COVID-19
+SNHG17,Esophageal Cancer
+SNHG17,Esophagus Squamous Cell Carcinoma
+SNHG17,Gastric Cancer
+SNHG17,Glioma
+SNHG17,Lung Adenocarcinoma
+SNHG17,Melanoma
+SNHG17,Nasopharynx Carcinoma
+SNHG17,Non-Small Cell Lung Cancer
+SNHG17,Non Small Cell Lung Cancer
+SNHG17,Oral Squamous Cell Carcinoma
+SNHG17,Ovarian Cancer
+SNHG17,Prostate Cancer
+SNHG17,Tongue Squamous Cell Carcinoma
+SNHG17,Type 2 Diabetes Mellitus
+LBX1-AS1,Oral Squamous Cell Carcinoma
+FOXN3-AS1,Neuroblastoma
+FENDRR,Atherosclerosis
+FENDRR,Bladder Cancer
+FENDRR,Breast Cancer
+FENDRR,Cervical Cancer
+FENDRR,Cholangiocarcinoma
+FENDRR,Chronic Myeloid Leukemia
+FENDRR,Chronic Obstructive Pulmonary Disease
+FENDRR,Colon Cancer
+FENDRR,Colorectal Cancer
+FENDRR,Cutaneous Melanoma
+FENDRR,Esophageal Cancer
+FENDRR,Esophagus Squamous Cell Carcinoma
+FENDRR,Gallbladder Cancer
+FENDRR,Gastric Cancer
+FENDRR,Glioblastoma
+FENDRR,Hepatocellular Carcinoma
+FENDRR,Idiopathic Pulmonary Fibrosis
+FENDRR,Liver Cancer
+FENDRR,Lung Adenocarcinoma
+FENDRR,Lung Cancer
+FENDRR,Lung Non-Small Cell Carcinoma
+FENDRR,Lung Squamous Cell Carcinoma
+FENDRR,Malignant Melanoma
+FENDRR,Non-Small Cell Lung Cancer
+FENDRR,Non Small Cell Lung Cancer
+FENDRR,Oral Squamous Cell Carcinoma
+FENDRR,Osteosarcoma
+FENDRR,Pancreatic Cancer
+FENDRR,Pheochromocytoma
+FENDRR,Prostate Cancer
+FENDRR,Renal Cell Carcinoma
+FENDRR,Sepsis
+FENDRR,Stomach Cancer
+FENDRR,Thyroid Cancer
+TOB1-AS1,Cervical Cancer
+TOB1-AS1,Esophageal Cancer
+TOB1-AS1,Gastric Cancer
+TOB1-AS1,Multiple Sclerosis
+TOB1-AS1,Non-Small Cell Lung Cancer
+SOX9-AS1,COVID-19
+SOX9-AS1,Esophageal Cancer
+SOX9-AS1,Glioblastoma
+SOX9-AS1,Hepatocellular Carcinoma
+SOX9-AS1,Thyroid Cancer
+SOX9-AS1,Triple-Negative Breast Cancer
+PCBP1-AS1,Acute Myeloid Leukemia
+PCBP1-AS1,Autism
+PCBP1-AS1,COVID-19
+PCBP1-AS1,Esophageal Cancer
+PCBP1-AS1,Glioblastoma
+PCBP1-AS1,Lung Adenocarcinoma
+PCBP1-AS1,Thyroid Cancer
+TEX41,B-Cell Acute Lymphoblastic Leukemia
+TEX41,COVID-19
+TEX41,Esophageal Cancer
+TEX41,Thyroid Cancer
+HAGLR,Bladder Cancer
+HAGLR,Breast Cancer
+HAGLR,Castration Resistant Prostate Cancer
+HAGLR,Cervical Cancer
+HAGLR,Cholangiocarcinoma
+HAGLR,Colorectal Cancer
+HAGLR,Colorectal Carcinoma
+HAGLR,COVID-19
+HAGLR,Dermatomyositis
+HAGLR,Epithelial Ovarian Cancer
+HAGLR,Esophageal Cancer
+HAGLR,Gastric Cancer
+HAGLR,Glioblastoma
+HAGLR,Glioma
+HAGLR,Hepatocellular Carcinoma
+HAGLR,Liver Cancer
+HAGLR,Lung Adenocarcinoma
+HAGLR,Lung Cancer
+HAGLR,Lung Non-Small Cell Carcinoma
+HAGLR,Melanoma
+HAGLR,Neuroblastoma
+HAGLR,Non-Small Cell Lung Cancer
+HAGLR,Osteosarcoma
+HAGLR,Ovarian Cancer
+HAGLR,Papillary Thyroid Cancer
+HAGLR,Papillary Thyroid Carcinoma
+HAGLR,Pre-Eclampsia
+HAGLR,Prostate Cancer
+HAGLR,Stomach Cancer
+HAGLR,Thyroid Cancer
+HAGLR,Triple-Negative Breast Cancer
+HAGLR,Urinary Bladder Cancer
+LINC00960,Bladder Cancer
+LINC00960,Bladder Urothelial Carcinoma
+LINC00960,Diabetic Nephropathy
+LINC00960,Lung Adenocarcinoma
+LINC00960,Pancreatic Ductal Adenocarcinoma
+LINC00242,Esophageal Cancer
+LINC00242,Gastric Cancer
+ZNF674-AS1,Gastric Cancer
+ZNF674-AS1,Glioblastoma
+ZNF674-AS1,Hepatocellular Cancer
+ZNF674-AS1,Hepatocellular Carcinoma
+ZNF674-AS1,Non-Small Cell Lung Cancer
+ZNF674-AS1,Thyroid Cancer
+LINC01194,Colorectal Cancer
+LINC01194,COVID-19
+LINC01194,Esophageal Cancer
+LINC01194,Laryngeal Squamous Cell Carcinoma
+LINC01194,Lung Adenocarcinoma
+LINC01194,Melanoma
+LINC01194,Non-Small Cell Lung Cancer
+LINC01194,Non Small Cell Lung Cancer
+NPSR1-AS1,Colorectal Cancer
+NPSR1-AS1,COVID-19
+NPSR1-AS1,Esophageal Cancer
+NPSR1-AS1,Hepatocellular Carcinoma
+NPSR1-AS1,Lung Adenocarcinoma
+NPSR1-AS1,Renal Cell Carcinoma
+NPSR1-AS1,Thyroid Cancer
+MIR17HG,Asthma
+MIR17HG,Astrocytoma
+MIR17HG,Cancer
+MIR17HG,Colon Cancer
+MIR17HG,Colorectal Cancer
+MIR17HG,Diffuse Large B-Cell Lymphoma
+MIR17HG,Esophageal Cancer
+MIR17HG,Glioblastoma
+MIR17HG,Glioma
+MIR17HG,Head And Neck Squamous Cell Carcinoma
+MIR17HG,Liver Cancer
+MIR17HG,Non-Small Cell Lung Cancer
+MIR17HG,Osteosarcoma
+MIR17HG,Papillary Thyroid Cancer
+MIR17HG,Parkinson Disease
+MIR17HG,Prostate Cancer
+MIR17HG,Syndrome
+MIR17HG,Uveal Melanoma
+HCG18,Adolescent Idiopathic Scoliosis
+HCG18,Bladder Cancer
+HCG18,Breast Cancer
+HCG18,Colorectal Cancer
+HCG18,Cutaneous Melanoma
+HCG18,Epithelial Ovarian Cancer
+HCG18,Esophageal Cancer
+HCG18,Gastric Cancer
+HCG18,Glioblastoma
+HCG18,Glioma
+HCG18,Hepatocellular Carcinoma
+HCG18,Intervertebral Disc Degeneration
+HCG18,Lung Adenocarcinoma
+HCG18,Lung Cancer
+HCG18,Nasopharynx Cancer
+HCG18,Nasopharynx Carcinoma
+HCG18,Osteoporosis
+HCG18,Osteosarcoma
+HCG18,Periodontitis
+HCG18,Thyroid Cancer
+HCG17,Esophageal Cancer
+HCG17,Thyroid Cancer
+THAP7-AS1,Esophageal Cancer
+THAP7-AS1,Periodontitis
+PRKCQ-AS1,Adolescent Idiopathic Scoliosis
+PRKCQ-AS1,Colon Cancer
+PRKCQ-AS1,Colorectal Adenocarcinoma
+PRKCQ-AS1,Colorectal Cancer
+PRKCQ-AS1,Diffuse Large B-Cell Lymphoma
+PRKCQ-AS1,Gastric Cancer
+PRKCQ-AS1,Glioblastoma
+PRKCQ-AS1,Osteoarthritis
+PRKCQ-AS1,Periodontitis
+PRKCQ-AS1,Psoriasis
+PRKCQ-AS1,Thyroid Cancer
+LINC00863,Systemic Lupus Erythematosus
+FZD10-AS1,Colon Cancer
+FZD10-AS1,Esophageal Cancer
+FZD10-AS1,Oligodendroglioma
+FZD10-AS1,Osteoarthritis
+FZD10-AS1,Thyroid Cancer
+CCDC144NL-AS1,Astrocytoma
+CCDC144NL-AS1,Endometriosis
+CCDC144NL-AS1,Esophageal Adenocarcinoma
+CCDC144NL-AS1,Esophageal Cancer
+CCDC144NL-AS1,Gastric Cancer
+CCDC144NL-AS1,Glioblastoma
+CCDC144NL-AS1,Hepatocellular Carcinoma
+CCDC144NL-AS1,Osteosarcoma
+CCDC144NL-AS1,Ovarian Cancer
+CCDC144NL-AS1,Psoriasis
+CCDC144NL-AS1,Stomach Adenocarcinoma
+CCDC144NL-AS1,Urinary Bladder Cancer
+THUMPD3-AS1,Astrocytoma
+THUMPD3-AS1,Esophageal Cancer
+THUMPD3-AS1,Hepatocellular Carcinoma
+THUMPD3-AS1,Non-Small Cell Lung Cancer
+THUMPD3-AS1,Non Small Cell Lung Cancer
+THUMPD3-AS1,Osteoarthritis
+NR2F1-AS1,Astrocytoma
+NR2F1-AS1,Breast Cancer
+NR2F1-AS1,Cervical Squamous Cell Carcinoma
+NR2F1-AS1,Colorectal Cancer
+NR2F1-AS1,COVID-19
+NR2F1-AS1,Endometrial Cancer
+NR2F1-AS1,Esophageal Cancer
+NR2F1-AS1,Esophagus Squamous Cell Carcinoma
+NR2F1-AS1,Estrogen-Receptor Positive Breast Cancer
+NR2F1-AS1,Gastric Cancer
+NR2F1-AS1,Glioblastoma
+NR2F1-AS1,Hepatocellular Carcinoma
+NR2F1-AS1,Medulloblastoma
+NR2F1-AS1,Neuroblastoma
+NR2F1-AS1,Non-Small Cell Lung Cancer
+NR2F1-AS1,Osteosarcoma
+NR2F1-AS1,Papillary Thyroid Carcinoma
+NR2F1-AS1,Rhabdomyosarcoma
+NR2F1-AS1,Thyroid Cancer
+ZFAS1,Acute Myeloid Leukemia
+ZFAS1,Acute Myocardial Infarction
+ZFAS1,Acute Promyelocytic Leukemia
+ZFAS1,Adrenocortical Carcinoma
+ZFAS1,Atherosclerosis
+ZFAS1,Bladder Cancer
+ZFAS1,Bladder Carcinoma
+ZFAS1,Breast Cancer
+ZFAS1,Cancer
+ZFAS1,Cervical Cancer
+ZFAS1,Cholangiocarcinoma
+ZFAS1,Clear Cell Renal Cell Carcinoma
+ZFAS1,Colon Adenocarcinoma
+ZFAS1,Colon Cancer
+ZFAS1,Colorectal Cancer
+ZFAS1,Diabetes Mellitus
+ZFAS1,Endometrial Carcinoma
+ZFAS1,Epithelial Ovarian Cancer
+ZFAS1,Esophageal Squamous Cell Cancer
+ZFAS1,Esophagus Squamous Cell Carcinoma
+ZFAS1,Gastric Cancer
+ZFAS1,Glioma
+ZFAS1,Head And Neck Squamous Cell Carcinoma
+ZFAS1,Hepatoblastoma
+ZFAS1,Hepatocellular Cancer
+ZFAS1,Hepatocellular Carcinoma
+ZFAS1,Hirschsprung's Disease
+ZFAS1,Lung Adenocarcinoma
+ZFAS1,Lung Non-Small Cell Carcinoma
+ZFAS1,Melanoma
+ZFAS1,Myocardial Infarction
+ZFAS1,Nasopharynx Cancer
+ZFAS1,Nasopharynx Carcinoma
+ZFAS1,Non-Small Cell Lung Cancer
+ZFAS1,Non Small Cell Lung Cancer
+ZFAS1,Obesity
+ZFAS1,Osteoarthritis
+ZFAS1,Osteosarcoma
+ZFAS1,Ovarian Cancer
+ZFAS1,Pancreatic Adenocarcinoma
+ZFAS1,Pancreatic Cancer
+ZFAS1,Papillary Thyroid Cancer
+ZFAS1,Papillary Thyroid Carcinoma
+ZFAS1,Parkinson Disease
+ZFAS1,Polycystic Ovary Syndrome
+ZFAS1,Prostate Cancer
+ZFAS1,Pulmonary Fibrosis
+ZFAS1,Rheumatoid Arthritis
+ZFAS1,Sepsis
+ZFAS1,Stomach Cancer
+ZFAS1,T-Cell Acute Lymphoblastic Leukemia
+ZFAS1,Temporal Lobe Epilepsy
+ZFAS1,Thyroid Cancer
+ZFAS1,Thyroid Carcinoma
+ZFAS1,Triple-Negative Breast Cancer
+ZFAS1,Urinary Bladder Cancer
+HCG11,Astrocytoma
+HCG11,Atherosclerosis
+HCG11,Breast Cancer
+HCG11,Cervical Cancer
+HCG11,Clear Cell Renal Cell Carcinoma
+HCG11,Colorectal Carcinoma
+HCG11,COVID-19
+HCG11,Dilated Cardiomyopathy
+HCG11,Esophagus Squamous Cell Carcinoma
+HCG11,Gastric Cancer
+HCG11,Glioma
+HCG11,Hepatocellular Carcinoma
+HCG11,Laryngeal Cancer
+HCG11,Laryngeal Carcinoma
+HCG11,Low-Grade Glioma
+HCG11,Lung Adenocarcinoma
+HCG11,Medulloblastoma
+HCG11,Non-Small Cell Lung Cancer
+HCG11,Osteoarthritis
+HCG11,Osteosarcoma
+HCG11,Ovarian Cancer
+HCG11,Pancreatic Carcinoma
+HCG11,Prostate Cancer
+HCG11,Uterine Corpus Endometrial Carcinoma
+A1BG-AS1,Breast Cancer
+A1BG-AS1,Hepatocellular Carcinoma
+A1BG-AS1,Nasopharynx Carcinoma
+A1BG-AS1,Thyroid Cancer
+MAPKAPK5-AS1,Colorectal Cancer
+MAPKAPK5-AS1,Glioblastoma Multiforme
+MAPKAPK5-AS1,Hepatocellular Cancer
+MAPKAPK5-AS1,Hepatocellular Carcinoma
+MAPKAPK5-AS1,Pancreatic Ductal Adenocarcinoma
+MAPKAPK5-AS1,Periodontitis
+MAPKAPK5-AS1,Polycystic Ovary Syndrome
+MAPKAPK5-AS1,Psoriasis
+MAPKAPK5-AS1,Rheumatoid Arthritis
+MAPKAPK5-AS1,Thyroid Cancer
+MIR4435-2HG,Bladder Cancer
+MIR4435-2HG,Breast Cancer
+MIR4435-2HG,Cancer
+MIR4435-2HG,Clear Cell Renal Cell Carcinoma
+MIR4435-2HG,Colon Cancer
+MIR4435-2HG,Colorectal Adenocarcinoma
+MIR4435-2HG,Colorectal Cancer
+MIR4435-2HG,COVID-19
+MIR4435-2HG,Esophageal Cancer
+MIR4435-2HG,Esophagus Squamous Cell Carcinoma
+MIR4435-2HG,Gastric Cancer
+MIR4435-2HG,Glioblastoma
+MIR4435-2HG,Glioblastoma Multiforme
+MIR4435-2HG,Glioma
+MIR4435-2HG,Head And Neck Squamous Carcinoma
+MIR4435-2HG,Head And Neck Squamous Cell Carcinoma
+MIR4435-2HG,Hepatocellular Carcinoma
+MIR4435-2HG,HIV
+MIR4435-2HG,Liver Cancer
+MIR4435-2HG,Lung Cancer
+MIR4435-2HG,Lung Non-Small Cell Carcinoma
+MIR4435-2HG,Melanoma
+MIR4435-2HG,Non-Small Cell Lung Cancer
+MIR4435-2HG,Non Small Cell Lung Cancer
+MIR4435-2HG,Oral Carcinoma
+MIR4435-2HG,Oral Squamous Cell Carcinoma
+MIR4435-2HG,Osteoarthritis
+MIR4435-2HG,Osteosarcoma
+MIR4435-2HG,Ovarian Cancer
+MIR4435-2HG,Ovarian Carcinoma
+MIR4435-2HG,Pancreatic Ductal Adenocarcinoma
+MIR4435-2HG,Periodontitis
+MIR4435-2HG,Prostate Cancer
+MIR4435-2HG,Prostate Carcinoma
+MIR4435-2HG,Pterygium
+MIR4435-2HG,Renal Cell Carcinoma
+MIR4435-2HG,Stomach Cancer
+MIR4435-2HG,Thyroid Cancer
+MIR4435-2HG,Triple-Negative Breast Cancer
+MIR4435-2HG,Ulcerative Colitis
+TUG1,Acute Myeloblastic Leukemia
+TUG1,Acute Myeloid Leukemia
+TUG1,Ankylosing Spondylitis
+TUG1,Aortic Valve Disease
+TUG1,Asthma
+TUG1,Atherosclerosis
+TUG1,Autism Spectrum Disorder
+TUG1,B-Cell Lymphoma
+TUG1,Bladder Cancer
+TUG1,Bladder Carcinoma
+TUG1,Bladder Urothelial Carcinoma
+TUG1,Brain Cancer
+TUG1,Breast Cancer
+TUG1,Calcific Aortic Valve Disease
+TUG1,Cancer
+TUG1,Cervical Cancer
+TUG1,Cholangiocarcinoma
+TUG1,Chronic Kidney Disease
+TUG1,Chronic Obstructive Pulmonary Disease
+TUG1,Clear Cell Renal Cell Carcinoma
+TUG1,Colon Cancer
+TUG1,Colorectal Cancer
+TUG1,Diabetes Mellitus
+TUG1,Diabetic Nephropathy
+TUG1,Diffuse Large B-Cell Lymphoma
+TUG1,Endometrial Cancer
+TUG1,Epithelial Ovarian Cancer
+TUG1,Esophageal Squamous Cell Cancer
+TUG1,Esophagus Squamous Cell Carcinoma
+TUG1,Fragile X Syndrome
+TUG1,Gallbladder Cancer
+TUG1,Gallbladder Carcinoma
+TUG1,Gastric Cancer
+TUG1,Glaucoma
+TUG1,Glioblastoma
+TUG1,Glioma
+TUG1,Hepatoblastoma
+TUG1,Hepatocellular Cancer
+TUG1,Hepatocellular Carcinoma
+TUG1,Huntington's Disease
+TUG1,Hypertension
+TUG1,Intervertebral Disc Degeneration
+TUG1,Intrahepatic Cholangiocarcinoma
+TUG1,Irritable Bowel Syndrome
+TUG1,Laryngeal Cancer
+TUG1,Laryngeal Squamous Cell Carcinoma
+TUG1,Lung Adenocarcinoma
+TUG1,Lung Non-Small Cell Carcinoma
+TUG1,Lung Small Cell Carcinoma
+TUG1,Lung Squamous Cell Carcinoma
+TUG1,Lymphoma
+TUG1,Malignant Glioma
+TUG1,Malignant Melanoma
+TUG1,Melanoma
+TUG1,Multiple Myeloma
+TUG1,Multiple Sclerosis
+TUG1,Nasopharynx Cancer
+TUG1,Nasopharynx Carcinoma
+TUG1,Non-Small Cell Lung Cancer
+TUG1,Obesity
+TUG1,Oral Squamous Cell Carcinoma
+TUG1,Osteoarthritis
+TUG1,Osteosarcoma
+TUG1,Ovarian Cancer
+TUG1,Pancreatic Cancer
+TUG1,Pancreatic Carcinoma
+TUG1,Pancreatic Ductal Adenocarcinoma
+TUG1,Papillary Thyroid Carcinoma
+TUG1,Parkinson Disease
+TUG1,Periodontitis
+TUG1,Pre-Eclampsia
+TUG1,Prostate Cancer
+TUG1,Pulmonary Artery Hypertension
+TUG1,Relapsing-Remitting Multiple Sclerosis
+TUG1,Renal Cell Carcinoma
+TUG1,Renal Clear Cell Carcinoma
+TUG1,Sepsis
+TUG1,Small Cell Lung Cancer
+TUG1,Squamous Cell Carcinoma
+TUG1,Stomach Cancer
+TUG1,Systemic Lupus Erythematosus
+TUG1,Thyroid Cancer
+TUG1,Tongue Squamous Cell Carcinoma
+TUG1,Triple-Negative Breast Cancer
+TUG1,Tumor
+TUG1,Ulcerative Colitis
+TUG1,Urinary Bladder Cancer
+TUG1,Urothelial Bladder Cancer
+MEG3,Acute Myeloid Leukemia
+MEG3,Acute Pancreatitis
+MEG3,Acute Promyelocytic Leukemia
+MEG3,Acute Respiratory Distress Syndrome
+MEG3,Adrenocortical Carcinoma
+MEG3,Ankylosing Spondylitis
+MEG3,Aplastic Anemia
+MEG3,Asthma
+MEG3,Atherosclerosis
+MEG3,Bladder Cancer
+MEG3,Bladder Urothelial Carcinoma
+MEG3,Breast Cancer
+MEG3,Cancer
+MEG3,Cardiac Arrest
+MEG3,Cardiovascular Disease
+MEG3,Castration Resistant Prostate Cancer
+MEG3,Cerebrovascular Disease
+MEG3,Cervical Cancer
+MEG3,Cervical Carcinoma
+MEG3,Childhood Acute Lymphoblastic Leukemia
+MEG3,Cholangiocarcinoma
+MEG3,Choriocarcinoma
+MEG3,Chronic Hepatitis B
+MEG3,Chronic Myeloid Leukemia
+MEG3,Chronic Obstructive Pulmonary Disease
+MEG3,Clear Cell Renal Cell Carcinoma
+MEG3,Clinical Nonfunctioning Pituitary Adenoma
+MEG3,Colon Adenocarcinoma
+MEG3,Colon Cancer
+MEG3,Colorectal Adenocarcinoma
+MEG3,Colorectal Cancer
+MEG3,Colorectal Carcinoma
+MEG3,Coronary Artery Disease
+MEG3,COVID-19
+MEG3,Diabetes Mellitus
+MEG3,Diabetic Nephropathy
+MEG3,Diabetic Retinopathy
+MEG3,Endometrial Cancer
+MEG3,Endometrial Carcinoma
+MEG3,Epithelial Ovarian Cancer
+MEG3,Esophageal Cancer
+MEG3,Esophageal Squamous Cell Cancer
+MEG3,Esophagus Squamous Cell Carcinoma
+MEG3,Fracture
+MEG3,Gallbladder Cancer
+MEG3,Gastric Adenocarcinoma
+MEG3,Gastric Cancer
+MEG3,Gastric Cardia Adenocarcinoma
+MEG3,Gestational Diabetes Mellitus
+MEG3,Glaucoma
+MEG3,Glioblastoma
+MEG3,Glioblastoma Multiforme
+MEG3,Glioma
+MEG3,Head And Neck Squamous Cell Carcinoma
+MEG3,Hemangioma
+MEG3,Hepatocellular Cancer
+MEG3,Hepatocellular Carcinoma
+MEG3,Hepatoma
+MEG3,Heroin Dependence
+MEG3,High-Grade Serous Ovarian Cancer
+MEG3,Hirschsprung's Disease
+MEG3,Huntington's Disease
+MEG3,Immune Thrombocytopenia
+MEG3,Immune Thrombocytopenic Purpura
+MEG3,Kidney Cancer
+MEG3,Laryngeal Cancer
+MEG3,Laryngeal Squamous Cell Cancer
+MEG3,Liver Cancer
+MEG3,Liver Cirrhosis
+MEG3,Liver Disease
+MEG3,Liver Fibrosis
+MEG3,Low-Grade Glioma
+MEG3,Lung Adenocarcinoma
+MEG3,Lung Cancer
+MEG3,Lung Non-Small Cell Carcinoma
+MEG3,Lung Squamous Cell Carcinoma
+MEG3,Malignant Glioma
+MEG3,Malignant Melanoma
+MEG3,Medulloblastoma
+MEG3,Melanoma
+MEG3,Meningioma
+MEG3,Metabolic Syndrome
+MEG3,Metabolic Syndrome X
+MEG3,Multiple Myeloma
+MEG3,Multiple Sclerosis
+MEG3,Muscular Atrophy
+MEG3,Myasthenia Gravis
+MEG3,Myelodysplastic Syndrome
+MEG3,Myelofibrosis
+MEG3,Myeloma
+MEG3,Nasopharynx Cancer
+MEG3,Nasopharynx Carcinoma
+MEG3,Nephroblastoma
+MEG3,Neuroblastoma
+MEG3,Non-Alcoholic Fatty Liver Disease
+MEG3,Non-Functional Pituitary Adenoma
+MEG3,Non-Small Cell Lung Cancer
+MEG3,Non Small Cell Lung Cancer
+MEG3,Obesity
+MEG3,Oral Cancer
+MEG3,Oral Squamous Cell Cancer
+MEG3,Oral Squamous Cell Carcinoma
+MEG3,Osteoarthritis
+MEG3,Osteoporosis
+MEG3,Osteosarcoma
+MEG3,Ovarian Cancer
+MEG3,Pancreatic Cancer
+MEG3,Pancreatic Ductal Adenocarcinoma
+MEG3,Pancreatic Endocrine Carcinoma
+MEG3,Papillary Thyroid Cancer
+MEG3,Papillary Thyroid Carcinoma
+MEG3,Parkinson Disease
+MEG3,Periodontitis
+MEG3,Pituitary Adenoma
+MEG3,Pituitary Tumor
+MEG3,Pre-Eclampsia
+MEG3,Primary Myelofibrosis
+MEG3,Prostate Cancer
+MEG3,Psoriasis
+MEG3,Pulmonary Artery Hypertension
+MEG3,Pulmonary Hypertension
+MEG3,Pulpitis
+MEG3,Renal Cell Carcinoma
+MEG3,Renal Clear Cell Carcinoma
+MEG3,Renal Fibrosis
+MEG3,Retinoblastoma
+MEG3,Rheumatoid Arthritis
+MEG3,Sepsis
+MEG3,Small Cell Lung Cancer
+MEG3,Stomach Cancer
+MEG3,T-Cell Lymphoblastic Lymphoma
+MEG3,Testicular Germ Cell Cancer
+MEG3,Testicular Germ Cell Tumor
+MEG3,Thyroid Cancer
+MEG3,Thyroid Carcinoma
+MEG3,Tongue Squamous Cell Carcinoma
+MEG3,Triple-Negative Breast Cancer
+MEG3,Type 1 Diabetes Mellitus
+MEG3,Type 2 Diabetes Mellitus
+MEG3,Urinary Bladder Cancer
+MEG3,Urothelial Carcinoma
+MEG3,Uterine Cervical Neoplasm
+MEG3,Vulva Squamous Cell Carcinoma
+MEG3,Wilms Tumor
+JPX,Acute Megakaryoblastic Leukemia
+JPX,Allergic Rhinitis
+JPX,Asthma
+JPX,Breast Cancer
+JPX,Burkitt Lymphoma
+JPX,COVID-19
+JPX,Glioblastoma Multiforme
+JPX,Glioma
+JPX,Hepatocellular Cancer
+JPX,Hepatocellular Carcinoma
+JPX,Intervertebral Disc Degeneration
+JPX,Lung Cancer
+JPX,Non-Small Cell Lung Cancer
+JPX,Non Small Cell Lung Cancer
+JPX,Oral Squamous Cell Carcinoma
+JPX,Ovarian Cancer
+JPX,Parkinson Disease
+JPX,Periodontitis
+JPX,Prostate Cancer
+JPX,Uveal Melanoma
+DHRS4-AS1,Clear Cell Renal Cell Carcinoma
+DHRS4-AS1,COVID-19
+DHRS4-AS1,Pancreatic Cancer
+DHRS4-AS1,Thyroid Cancer
+TP73-AS1,Acute Myeloid Leukemia
+TP73-AS1,Astrocytoma
+TP73-AS1,Atherosclerosis
+TP73-AS1,Bladder Cancer
+TP73-AS1,Breast Cancer
+TP73-AS1,Cervical Cancer
+TP73-AS1,Cholangiocarcinoma
+TP73-AS1,Clear Cell Renal Cell Carcinoma
+TP73-AS1,Colorectal Cancer
+TP73-AS1,Epithelial Ovarian Cancer
+TP73-AS1,Esophageal Cancer
+TP73-AS1,Esophageal Squamous Cell Cancer
+TP73-AS1,Esophagus Squamous Cell Carcinoma
+TP73-AS1,Gastric Cancer
+TP73-AS1,Glioblastoma
+TP73-AS1,Glioblastoma Multiforme
+TP73-AS1,Glioma
+TP73-AS1,Hepatocellular Carcinoma
+TP73-AS1,Hepatoma
+TP73-AS1,Lung Adenocarcinoma
+TP73-AS1,Lung Cancer
+TP73-AS1,Lung Non-Small Cell Carcinoma
+TP73-AS1,Medulloblastoma
+TP73-AS1,Multiple Myeloma
+TP73-AS1,Nasopharynx Carcinoma
+TP73-AS1,Non-Alcoholic Fatty Liver
+TP73-AS1,Non-Small Cell Lung Cancer
+TP73-AS1,Non Small Cell Lung Cancer
+TP73-AS1,Oligodendroglioma
+TP73-AS1,Osteosarcoma
+TP73-AS1,Ovarian Cancer
+TP73-AS1,Pancreatic Cancer
+TP73-AS1,Pancreatic Ductal Adenocarcinoma
+TP73-AS1,Prostate Cancer
+TP73-AS1,Renal Cell Carcinoma
+TP73-AS1,Retinoblastoma
+TP73-AS1,Triple-Negative Breast Cancer
+LINC00869,Esophageal Cancer
+LINC00869,Gastric Cancer
+LINC00869,Osteoarthritis
+LINC00869,Thyroid Cancer
+DANCR,Acute Myeloid Leukemia
+DANCR,Acute Myocardial Infarction
+DANCR,Astrocytoma
+DANCR,Bladder Cancer
+DANCR,Bone Disease
+DANCR,Brain Cancer
+DANCR,Breast Cancer
+DANCR,Cervical Cancer
+DANCR,Cervical Squamous Cell Carcinoma
+DANCR,Cholangiocarcinoma
+DANCR,Colon Cancer
+DANCR,Colorectal Cancer
+DANCR,Colorectal Carcinoma
+DANCR,COVID-19
+DANCR,Endometrial Cancer
+DANCR,Endometrial Carcinoma
+DANCR,Esophageal Cancer
+DANCR,Esophagus Squamous Cell Carcinoma
+DANCR,Gastric Cancer
+DANCR,Glioblastoma
+DANCR,Glioma
+DANCR,Hepatitis C Virus Infection
+DANCR,Hepatocellular Cancer
+DANCR,Hepatocellular Carcinoma
+DANCR,Idiopathic Pulmonary Fibrosis
+DANCR,Liver Disease
+DANCR,Lung Adenocarcinoma
+DANCR,Lung Cancer
+DANCR,Lung Non-Small Cell Carcinoma
+DANCR,Malignant Glioma
+DANCR,Multiple Myeloma
+DANCR,Nasopharynx Cancer
+DANCR,Nasopharynx Carcinoma
+DANCR,Non-Small Cell Lung Cancer
+DANCR,Non Small Cell Lung Cancer
+DANCR,Oral Squamous Cell Carcinoma
+DANCR,Osteoarthritis
+DANCR,Osteoporosis
+DANCR,Osteosarcoma
+DANCR,Ovarian Cancer
+DANCR,Pancreatic Cancer
+DANCR,Pancreatic Ductal Adenocarcinoma
+DANCR,Papillary Thyroid Cancer
+DANCR,Papillary Thyroid Carcinoma
+DANCR,Periodontitis
+DANCR,Prostate Cancer
+DANCR,Renal Cell Carcinoma
+DANCR,Retinoblastoma
+DANCR,Stomach Cancer
+DANCR,Tongue Squamous Cell Carcinoma
+DANCR,Triple-Negative Breast Cancer
+DANCR,Unstable Angina
+PVT1,Acute Lymphoblastic Leukemia
+PVT1,Acute Myeloid Leukemia
+PVT1,Acute Promyelocytic Leukemia
+PVT1,Acute Respiratory Distress Syndrome
+PVT1,Adenocarcinoma
+PVT1,Anaplastic Large Cell Lymphoma
+PVT1,Anaplastic Thyroid Cancer
+PVT1,Aortic Dissection
+PVT1,Asthma
+PVT1,Astrocytoma
+PVT1,Atherosclerosis
+PVT1,B-Cell Lymphoma
+PVT1,Bladder Cancer
+PVT1,Bladder Urothelial Carcinoma
+PVT1,Breast Cancer
+PVT1,Burkitt Lymphoma
+PVT1,Cancer
+PVT1,Cervical Cancer
+PVT1,Cervical Squamous Cell Carcinoma
+PVT1,Cholangiocarcinoma
+PVT1,Chronic Kidney Disease
+PVT1,Chronic Obstructive Pulmonary Disease
+PVT1,Clear Cell Renal Cell Carcinoma
+PVT1,Cleft Lip
+PVT1,Colon Adenocarcinoma
+PVT1,Colon Cancer
+PVT1,Colorectal Cancer
+PVT1,Congestive Heart Failure
+PVT1,Coronary Artery Disease
+PVT1,Coronary Heart Disease
+PVT1,COVID-19
+PVT1,Diabetes Mellitus
+PVT1,Diabetic Cataract
+PVT1,Diabetic Nephropathy
+PVT1,Diabetic Retinopathy
+PVT1,Diffuse Large B-Cell Lymphoma
+PVT1,Endometrial Cancer
+PVT1,Endometrial Carcinoma
+PVT1,Epithelial Ovarian Cancer
+PVT1,Esophageal Adenocarcinoma
+PVT1,Esophageal Cancer
+PVT1,Esophageal Carcinoma
+PVT1,Esophagus Squamous Cell Carcinoma
+PVT1,Fibroadenoma
+PVT1,Gallbladder Cancer
+PVT1,Gastric Adenocarcinoma
+PVT1,Gastric Cancer
+PVT1,Gestational Diabetes Mellitus
+PVT1,Glioblastoma Multiforme
+PVT1,Glioma
+PVT1,Head And Neck Squamous Cell Carcinoma
+PVT1,Hematologic Cancer
+PVT1,Hepatoblastoma
+PVT1,Hepatocarcinoma
+PVT1,Hepatocellular Cancer
+PVT1,Hepatocellular Carcinoma
+PVT1,Hodgkin's Lymphoma
+PVT1,Kidney Cancer
+PVT1,Laryngeal Squamous Cell Cancer
+PVT1,Laryngeal Squamous Cell Carcinoma
+PVT1,Leukemia
+PVT1,Liver Cancer
+PVT1,Liver Fibrosis
+PVT1,Lung Adenocarcinoma
+PVT1,Lung Cancer
+PVT1,Lung Non-Small Cell Carcinoma
+PVT1,Lung Squamous Cell Cancer
+PVT1,Lung Squamous Cell Carcinoma
+PVT1,Lymphoma
+PVT1,Malignant Glioma
+PVT1,Malignant Pleural Mesothelioma
+PVT1,Melanoma
+PVT1,Multiple Myeloma
+PVT1,Muscle-Invasive Bladder Cancer
+PVT1,Myocardial Infarction
+PVT1,Nasopharynx Cancer
+PVT1,Nasopharynx Carcinoma
+PVT1,Neuroblastoma
+PVT1,Non-Small Cell Lung Adenocarcinoma
+PVT1,Non-Small Cell Lung Cancer
+PVT1,Non Small Cell Lung Cancer
+PVT1,Oral Squamous Cell Carcinoma
+PVT1,Osteoarthritis
+PVT1,Osteosarcoma
+PVT1,Ovarian Cancer
+PVT1,Pancreatic Cancer
+PVT1,Pancreatic Carcinoma
+PVT1,Pancreatic Ductal Adenocarcinoma
+PVT1,Papillary Thyroid Cancer
+PVT1,Papillary Thyroid Carcinoma
+PVT1,Parathyroid Carcinoma
+PVT1,Pituitary Adenoma
+PVT1,Pleural Mesothelioma
+PVT1,Polycystic Ovary Syndrome
+PVT1,Pre-Eclampsia
+PVT1,Prostate Cancer
+PVT1,Pulmonary Fibrosis
+PVT1,Rectum Adenocarcinoma
+PVT1,Relapsing-Remitting Multiple Sclerosis
+PVT1,Renal Cancer
+PVT1,Renal Carcinoma
+PVT1,Renal Cell Carcinoma
+PVT1,Renal Fibrosis
+PVT1,Retinoblastoma
+PVT1,Rheumatoid Arthritis
+PVT1,Sepsis
+PVT1,Sjogren Syndrome
+PVT1,Small Cell Lung Cancer
+PVT1,Squamous Cell Carcinoma
+PVT1,Stomach Cancer
+PVT1,Systemic Lupus Erythematosus
+PVT1,Thyroid Cancer
+PVT1,Triple-Negative Breast Cancer
+PVT1,Tumor
+PVT1,Type 1 Diabetes Mellitus
+PVT1,Type 2 Diabetes Mellitus
+PVT1,Urinary Bladder Cancer
+PVT1,Uterine Cervical Neoplasm
+PVT1,Uveal Melanoma
+GAS5,Acute Myeloid Leukemia
+GAS5,Acute Myocardial Infarction
+GAS5,Acute Respiratory Distress Syndrome
+GAS5,Adrenocortical Carcinoma
+GAS5,Allergic Rhinitis
+GAS5,Astrocytoma
+GAS5,Atherosclerosis
+GAS5,Atrial Fibrillation
+GAS5,Autoimmune Disease
+GAS5,B-Cell Lymphoma
+GAS5,Bladder Cancer
+GAS5,Bladder Carcinoma
+GAS5,Bladder Transitional Cell Carcinoma
+GAS5,Bladder Urothelial Carcinoma
+GAS5,Breast Cancer
+GAS5,Cancer
+GAS5,Cervical Cancer
+GAS5,Childhood Acute Lymphoblastic Leukemia
+GAS5,Chronic Hepatitis B
+GAS5,Chronic Kidney Disease
+GAS5,Clear Cell Renal Cell Carcinoma
+GAS5,Colon Cancer
+GAS5,Colorectal Cancer
+GAS5,Coronary Artery Disease
+GAS5,Coronary Heart Disease
+GAS5,Demyelinating Disease
+GAS5,Diabetes Mellitus
+GAS5,Diabetic Nephropathy
+GAS5,Diabetic Retinopathy
+GAS5,Down Syndrome
+GAS5,Endometrial Cancer
+GAS5,Endometrial Carcinoma
+GAS5,Epithelial Ovarian Cancer
+GAS5,Esophageal Cancer
+GAS5,Esophageal Squamous Cell Cancer
+GAS5,Esophagus Squamous Cell Carcinoma
+GAS5,Gastric Cancer
+GAS5,Gastrointestinal Cancer
+GAS5,Gestational Diabetes Mellitus
+GAS5,Glaucoma
+GAS5,Glioblastoma
+GAS5,Glioblastoma Multiforme
+GAS5,Glioma
+GAS5,Head And Neck Cancer
+GAS5,Hepatitis B Virus Infection
+GAS5,Hepatitis C
+GAS5,Hepatocellular Cancer
+GAS5,Hepatocellular Carcinoma
+GAS5,Her2-Receptor Positive Breast Cancer
+GAS5,HIV
+GAS5,Hypertension
+GAS5,Immune Thrombocytopenia
+GAS5,Inflammation
+GAS5,Inflammatory Bowel Disease
+GAS5,Intervertebral Disc Degeneration
+GAS5,Kidney Cancer
+GAS5,Laryngeal Cancer
+GAS5,Laryngeal Squamous Cell Cancer
+GAS5,Laryngeal Squamous Cell Carcinoma
+GAS5,Leukemia
+GAS5,Liver Cancer
+GAS5,Liver Cirrhosis
+GAS5,Liver Fibrosis
+GAS5,Lung Adenocarcinoma
+GAS5,Lung Cancer
+GAS5,Lung Non-Small Cell Carcinoma
+GAS5,Lung Squamous Cell Carcinoma
+GAS5,Lymphoma
+GAS5,Malignant Glioma
+GAS5,Malignant Melanoma
+GAS5,Malignant Pleural Mesothelioma
+GAS5,Mantle Cell Lymphoma
+GAS5,Melanoma
+GAS5,Multiple Myeloma
+GAS5,Multiple Sclerosis
+GAS5,Muscle-Invasive Bladder Cancer
+GAS5,Myasthenia Gravis
+GAS5,Myeloid Leukemia
+GAS5,Myocardial Infarction
+GAS5,Nasopharynx Cancer
+GAS5,Nasopharynx Carcinoma
+GAS5,Neuroblastoma
+GAS5,Non-Alcoholic Fatty Liver Disease
+GAS5,Non-Small Cell Lung Cancer
+GAS5,Non Small Cell Lung Cancer
+GAS5,Oral Squamous Cell Carcinoma
+GAS5,Osteoporosis
+GAS5,Osteosarcoma
+GAS5,Ovarian Cancer
+GAS5,Ovarian Clear Cell Carcinoma
+GAS5,Pancreatic Cancer
+GAS5,Papillary Thyroid Cancer
+GAS5,Papillary Thyroid Carcinoma
+GAS5,Parkinson Disease
+GAS5,Periodontitis
+GAS5,Pleural Mesothelioma
+GAS5,Polycystic Ovary Syndrome
+GAS5,Pre-Eclampsia
+GAS5,Prostate Cancer
+GAS5,Prostate Carcinoma
+GAS5,Pulmonary Hypertension
+GAS5,Renal Cell Carcinoma
+GAS5,Renal Fibrosis
+GAS5,Rheumatoid Arthritis
+GAS5,Sepsis
+GAS5,Small Cell Lung Cancer
+GAS5,Squamous Cell Carcinoma
+GAS5,Stomach Cancer
+GAS5,Systemic Lupus Erythematosus
+GAS5,T-Cell Leukemia
+GAS5,Thyroid Cancer
+GAS5,Triple-Negative Breast Cancer
+GAS5,Tumor
+GAS5,Type 2 Diabetes Mellitus
+GAS5,Urinary Bladder Cancer
+GAS5,Urothelial Carcinoma
+GAS5,Uterine Cervical Neoplasm
+GAS5,Uveal Melanoma
+GAS5,Varicocele
+LEF1-AS1,Astrocytoma
+LEF1-AS1,Breast Cancer
+LEF1-AS1,Chronic Lymphocytic Leukemia
+LEF1-AS1,Colon Cancer
+LEF1-AS1,Colorectal Cancer
+LEF1-AS1,COVID-19
+LEF1-AS1,Esophageal Cancer
+LEF1-AS1,Esophagus Squamous Cell Carcinoma
+LEF1-AS1,Glioblastoma
+LEF1-AS1,Glioma
+LEF1-AS1,Hepatocellular Carcinoma
+LEF1-AS1,Hereditary Hemorrhagic Telangiectasia
+LEF1-AS1,Lung Cancer
+LEF1-AS1,Non-Small Cell Lung Cancer
+LEF1-AS1,Non Small Cell Lung Cancer
+LEF1-AS1,Oral Squamous Cell Carcinoma
+LEF1-AS1,Osteosarcoma
+LEF1-AS1,Ovarian Cancer
+LEF1-AS1,Parkinson Disease
+LEF1-AS1,Prostate Cancer
+LEF1-AS1,Retinoblastoma
+LEF1-AS1,Thyroid Cancer
+SNHG6,Astrocytoma
+SNHG6,Atherosclerosis
+SNHG6,Bladder Cancer
+SNHG6,Breast Cancer
+SNHG6,Cancer
+SNHG6,Cholangiocarcinoma
+SNHG6,Chondrosarcoma
+SNHG6,Clear Cell Renal Cell Carcinoma
+SNHG6,Colon Adenocarcinoma
+SNHG6,Colon And Rectal Adenocarcinoma
+SNHG6,Colorectal Cancer
+SNHG6,COVID-19
+SNHG6,Diabetic Nephropathy
+SNHG6,Esophageal Cancer
+SNHG6,Esophageal Squamous Cell Cancer
+SNHG6,Esophagus Squamous Cell Carcinoma
+SNHG6,Gallbladder Carcinoma
+SNHG6,Gastric Cancer
+SNHG6,Glioblastoma
+SNHG6,Glioma
+SNHG6,Head And Neck Squamous Cell Carcinoma
+SNHG6,Hepatocellular Cancer
+SNHG6,Hepatocellular Carcinoma
+SNHG6,Hereditary Hemorrhagic Telangiectasia
+SNHG6,Lung Adenocarcinoma
+SNHG6,Lung Cancer
+SNHG6,Lung Non-Small Cell Carcinoma
+SNHG6,Malignant Glioma
+SNHG6,Muscle-Invasive Bladder Cancer
+SNHG6,Nasopharynx Carcinoma
+SNHG6,Non-Small Cell Lung Cancer
+SNHG6,Non Small Cell Lung Cancer
+SNHG6,Osteosarcoma
+SNHG6,Ovarian Clear Cell Carcinoma
+SNHG6,Pancreatic Cancer
+SNHG6,Parkinson Disease
+SNHG6,Prostate Cancer
+SNHG6,Renal Cell Carcinoma
+SNHG6,Small Cell Lung Cancer
+SNHG6,Stomach Cancer
+SNHG6,Tongue Cancer
+SNHG6,Urinary Bladder Cancer
+SNHG6,Wilms Tumor
+MIR4500HG,Astrocytoma
+MIR4500HG,COVID-19
+MIR4500HG,Esophageal Cancer
+MIR4500HG,Glioblastoma
+MIR4500HG,Glioblastoma Multiforme
+MIR4500HG,Thyroid Cancer
+DANT2,COVID-19
+LINC00205,Gastric Cancer
+LINC00205,Glioma
+LINC00205,Hepatoblastoma
+LINC00205,Hepatocellular Carcinoma
+LINC00205,Lung Adenocarcinoma
+LINC00205,Lung Cancer
+LINC00205,Periodontitis
+LINC00205,Retinoblastoma
+LINC00205,Thyroid Cancer
+TRAF3IP2-AS1,Alzheimer Disease
+TRAF3IP2-AS1,Astrocytoma
+TRAF3IP2-AS1,Cocaine Abuse
+TRAF3IP2-AS1,COVID-19
+TRAF3IP2-AS1,Esophageal Cancer
+TRAF3IP2-AS1,Gastric Cancer
+TRAF3IP2-AS1,Glioma
+TRAF3IP2-AS1,Schizophrenia
+CRNDE,Abdominal Aortic Aneurysm
+CRNDE,Acute Myeloid Leukemia
+CRNDE,Adrenocortical Carcinoma
+CRNDE,Asthma
+CRNDE,Bladder Cancer
+CRNDE,Bladder Urothelial Carcinoma
+CRNDE,Breast Cancer
+CRNDE,Cervical Cancer
+CRNDE,Cholangiocarcinoma
+CRNDE,Chronic Lymphocytic Leukemia
+CRNDE,Clear Cell Renal Cell Carcinoma
+CRNDE,Colon Cancer
+CRNDE,Colorectal Cancer
+CRNDE,Colorectal Carcinoma
+CRNDE,Coronary Artery Disease
+CRNDE,Esophageal Cancer
+CRNDE,Gallbladder Cancer
+CRNDE,Gallbladder Carcinoma
+CRNDE,Gastric Cancer
+CRNDE,Glioblastoma
+CRNDE,Glioma
+CRNDE,Head And Neck Squamous Cell Carcinoma
+CRNDE,Hematologic Cancer
+CRNDE,Hepatic Carcinoma
+CRNDE,Hepatoblastoma
+CRNDE,Hepatocellular Carcinoma
+CRNDE,Inflammatory Bowel Disease
+CRNDE,Intervertebral Degenerative Disc Disease
+CRNDE,Intrahepatic Cholangiocarcinoma
+CRNDE,Liver Cancer
+CRNDE,Lung Adenocarcinoma
+CRNDE,Malignant Glioma
+CRNDE,Medulloblastoma
+CRNDE,Melanoma
+CRNDE,Mild Cognitive Impairment
+CRNDE,Multiple Myeloma
+CRNDE,Non-Small Cell Lung Cancer
+CRNDE,Non Small Cell Lung Cancer
+CRNDE,Oral Cancer
+CRNDE,Oral Squamous Cell Carcinoma
+CRNDE,Osteoarthritis
+CRNDE,Osteosarcoma
+CRNDE,Ovarian Cancer
+CRNDE,Pancreatic Cancer
+CRNDE,Pancreatic Ductal Adenocarcinoma
+CRNDE,Papillary Thyroid Cancer
+CRNDE,Papillary Thyroid Carcinoma
+CRNDE,Periodontitis
+CRNDE,Pneumonia
+CRNDE,Pre-Eclampsia
+CRNDE,Prostate Cancer
+CRNDE,Rectum Adenocarcinoma
+CRNDE,Renal Cell Carcinoma
+CRNDE,Sepsis
+CRNDE,Stomach Cancer
+CRNDE,Tongue Squamous Cell Carcinoma
+CRNDE,Wilms Tumor
+NR2F2-AS1,Cervical Cancer
+NR2F2-AS1,Clear Cell Renal Cell Carcinoma
+NR2F2-AS1,Colorectal Cancer
+NR2F2-AS1,COVID-19
+NR2F2-AS1,Esophageal Cancer
+NR2F2-AS1,Glioma
+NR2F2-AS1,Hemangioma
+NR2F2-AS1,Lung Cancer
+NR2F2-AS1,Nasopharynx Cancer
+NR2F2-AS1,Nasopharynx Carcinoma
+NR2F2-AS1,Non-Small Cell Lung Cancer
+NR2F2-AS1,Non Small Cell Lung Cancer
+NR2F2-AS1,Ovarian Cancer
+NR2F2-AS1,Prostate Cancer
+NR2F2-AS1,Prostate Carcinoma
+NR2F2-AS1,Thyroid Cancer
+LINC00622,Alzheimer Disease
+LINC00622,Astrocytoma
+LINC00622,Glioblastoma
+LINC00622,Low-Grade Glioma
+LINC00622,Osteoarthritis
+LIMD1-AS1,Astrocytoma
+LIMD1-AS1,Colon Cancer
+LIMD1-AS1,Glioblastoma
+LIMD1-AS1,Non-Small Cell Lung Cancer
+LIMD1-AS1,Non Small Cell Lung Cancer
+LIMD1-AS1,Parkinson Disease
+LIMD1-AS1,Thyroid Cancer
+LINC00461,Alzheimer Disease
+LINC00461,Astrocytoma
+LINC00461,Breast Cancer
+LINC00461,Colon Cancer
+LINC00461,Colorectal Cancer
+LINC00461,COVID-19
+LINC00461,Esophageal Cancer
+LINC00461,Gastric Cancer
+LINC00461,Glioblastoma
+LINC00461,Glioblastoma Multiforme
+LINC00461,Glioma
+LINC00461,Head And Neck Squamous Cell Carcinoma
+LINC00461,Hepatocellular Carcinoma
+LINC00461,Low-Grade Glioma
+LINC00461,Lung Adenocarcinoma
+LINC00461,Lung Cancer
+LINC00461,Malignant Glioma
+LINC00461,Medulloblastoma
+LINC00461,Multiple Myeloma
+LINC00461,Non-Small Cell Lung Cancer
+LINC00461,Non Small Cell Lung Cancer
+LINC00461,Osteoarthritis
+LINC00461,Rectum Cancer
+LINC00461,Renal Cell Carcinoma
+LINC00461,Thyroid Cancer
+ASH1L-AS1,COVID-19
+ASH1L-AS1,Multiple Myeloma
+ASH1L-AS1,Periodontitis
+ASH1L-AS1,Thyroid Cancer
+TTTY15,Acute Myocardial Infarction
+TTTY15,Astrocytoma
+TTTY15,Cardiovascular Disease
+TTTY15,Colorectal Cancer
+TTTY15,COVID-19
+TTTY15,Esophageal Cancer
+TTTY15,Esophagus Squamous Cell Carcinoma
+TTTY15,Myocardial Infarction
+TTTY15,Non-Small Cell Lung Cancer
+TTTY15,Non Small Cell Lung Cancer
+TTTY15,Prostate Cancer
+DLGAP1-AS1,Allergic Rhinitis
+DLGAP1-AS1,Colorectal Carcinoma
+DLGAP1-AS1,Gastric Cancer
+DLGAP1-AS1,Glioblastoma
+DLGAP1-AS1,Glioma
+DLGAP1-AS1,Hepatocellular Carcinoma
+DLGAP1-AS1,Periodontitis
+DLGAP1-AS1,Wilms Tumor
+PAX8-AS1,Acute Myeloid Leukemia
+PAX8-AS1,Breast Cancer
+PAX8-AS1,Cervical Cancer
+PAX8-AS1,Childhood Acute Lymphoblastic Leukemia
+PAX8-AS1,Colorectal Cancer
+PAX8-AS1,Esophageal Cancer
+PAX8-AS1,Gestational Diabetes Mellitus
+PAX8-AS1,Glioblastoma
+PAX8-AS1,Head And Neck Squamous Cell Carcinoma
+PAX8-AS1,Hepatocellular Carcinoma
+PAX8-AS1,Lymphoblastic Leukemia
+PAX8-AS1,Malignant Pleural Mesothelioma
+PAX8-AS1,Papillary Thyroid Carcinoma
+PAX8-AS1,Skin Cutaneous Melanoma
+PAX8-AS1,Thyroid Cancer
+PAX8-AS1,Uterine Cervical Neoplasm
+PAX8-AS1,Uterine Corpus Endometrial Carcinoma
+SNHG20,Bladder Cancer
+SNHG20,Breast Cancer
+SNHG20,Cervical Cancer
+SNHG20,Clear Cell Renal Cell Carcinoma
+SNHG20,Colorectal Cancer
+SNHG20,Epithelial Ovarian Cancer
+SNHG20,Esophagus Squamous Cell Carcinoma
+SNHG20,Gastric Cancer
+SNHG20,Glioblastoma
+SNHG20,Glioma
+SNHG20,Hepatocellular Cancer
+SNHG20,Hepatocellular Carcinoma
+SNHG20,Laryngeal Squamous Cell Cancer
+SNHG20,Lung Adenocarcinoma
+SNHG20,Lung Cancer
+SNHG20,Lung Non-Small Cell Carcinoma
+SNHG20,Lung Squamous Cell Carcinoma
+SNHG20,Nasopharynx Cancer
+SNHG20,Nasopharynx Carcinoma
+SNHG20,Non-Alcoholic Fatty Liver
+SNHG20,Non-Small Cell Lung Cancer
+SNHG20,Non Small Cell Lung Cancer
+SNHG20,Oral Squamous Cell Carcinoma
+SNHG20,Osteosarcoma
+SNHG20,Ovarian Cancer
+SNHG20,Prostate Cancer
+SNHG20,Silicosis
+SNHG20,Stomach Cancer
+SNHG20,Systemic Lupus Erythematosus
+SNHG20,Tumor
+LINC00163,Esophageal Adenocarcinoma
+LINC00163,Esophageal Cancer
+LINC00163,Gastric Cancer
+LINC00163,Lung Cancer
+LINC00163,Narcolepsy
+LINC00163,Papillary Thyroid Cancer
+NUTM2A-AS1,Astrocytoma
+NUTM2A-AS1,Diffuse Large B-Cell Lymphoma
+NUTM2A-AS1,Esophageal Cancer
+NUTM2A-AS1,Gastric Cancer
+NUTM2A-AS1,Hodgkin's Lymphoma
+NUTM2A-AS1,Lung Non-Small Cell Carcinoma
+NUTM2A-AS1,Non-Small Cell Lung Cancer
+NUTM2A-AS1,Pulpitis
+ENTPD1-AS1,Astrocytoma
+ENTPD1-AS1,Colorectal Cancer
+ENTPD1-AS1,COVID-19
+ENTPD1-AS1,Esophageal Cancer
+ENTPD1-AS1,Ovarian Cancer
+ENTPD1-AS1,Periodontitis
+ENTPD1-AS1,Stomach Cancer
+ENTPD1-AS1,Thyroid Cancer
+ENTPD1-AS1,Ulcerative Colitis
+ZBED3-AS1,Astrocytoma
+ZBED3-AS1,Breast Cancer
+ZBED3-AS1,Esophageal Cancer
+ZBED3-AS1,Gastric Cancer
+ZBED3-AS1,Melanoma
+SCAMP1-AS1,Astrocytoma
+SCAMP1-AS1,Bladder Cancer
+SCAMP1-AS1,Systemic Lupus Erythematosus
+OIP5-AS1,Acute Myeloid Leukemia
+OIP5-AS1,Allergic Asthma
+OIP5-AS1,Allergic Rhinitis
+OIP5-AS1,Alzheimer Disease
+OIP5-AS1,Aortic Dissection
+OIP5-AS1,Astrocytoma
+OIP5-AS1,Atherosclerosis
+OIP5-AS1,Bladder Cancer
+OIP5-AS1,Breast Cancer
+OIP5-AS1,Breast Carcinoma
+OIP5-AS1,Bronchial Asthma
+OIP5-AS1,Calcific Aortic Valve Disease
+OIP5-AS1,Cataract
+OIP5-AS1,Cerebrovascular Disease
+OIP5-AS1,Cervical Cancer
+OIP5-AS1,Cervical Carcinoma
+OIP5-AS1,Chronic Obstructive Pulmonary Disease
+OIP5-AS1,Clear Cell Renal Cell Carcinoma
+OIP5-AS1,Colon Adenocarcinoma
+OIP5-AS1,Colon Cancer
+OIP5-AS1,Colorectal Cancer
+OIP5-AS1,Coronary Atherosclerosis
+OIP5-AS1,COVID-19
+OIP5-AS1,Cutaneous Melanoma
+OIP5-AS1,Endometrial Carcinoma
+OIP5-AS1,Esophageal Cancer
+OIP5-AS1,Esophagus Squamous Cell Carcinoma
+OIP5-AS1,Gastric Cancer
+OIP5-AS1,Glioblastoma
+OIP5-AS1,Glioblastoma Multiforme
+OIP5-AS1,Glioma
+OIP5-AS1,Hemangioma
+OIP5-AS1,Hepatoblastoma
+OIP5-AS1,Hepatocellular Carcinoma
+OIP5-AS1,Kaposi's Sarcoma
+OIP5-AS1,Laryngeal Squamous Cell Cancer
+OIP5-AS1,Laryngeal Squamous Cell Carcinoma
+OIP5-AS1,Liver Hepatocellular Carcinoma
+OIP5-AS1,Lung Adenocarcinoma
+OIP5-AS1,Lung Cancer
+OIP5-AS1,Lung Carcinoma
+OIP5-AS1,Melanoma
+OIP5-AS1,Multiple Myeloma
+OIP5-AS1,Multiple Sclerosis
+OIP5-AS1,Muscle-Invasive Bladder Cancer
+OIP5-AS1,Nasopharynx Carcinoma
+OIP5-AS1,Non-Small Cell Lung Cancer
+OIP5-AS1,Oral Cancer
+OIP5-AS1,Oral Squamous Cell Carcinoma
+OIP5-AS1,Osteoarthritis
+OIP5-AS1,Osteosarcoma
+OIP5-AS1,Ovarian Cancer
+OIP5-AS1,Ovarian Carcinoma
+OIP5-AS1,Pancreatic Cancer
+OIP5-AS1,Pancreatic Ductal Adenocarcinoma
+OIP5-AS1,Papillary Thyroid Cancer
+OIP5-AS1,Parkinson Disease
+OIP5-AS1,Periodontitis
+OIP5-AS1,Primary Open Angle Glaucoma
+OIP5-AS1,Prostate Cancer
+OIP5-AS1,Retinoblastoma
+OIP5-AS1,Sarcoma
+OIP5-AS1,Thyroid Cancer
+LINC00847,Esophageal Cancer
+LINC00847,Periodontitis
+TDRG1,Aplastic Anemia
+TDRG1,Cervical Cancer
+TDRG1,Diabetic Retinopathy
+TDRG1,Endometrial Cancer
+TDRG1,Endometrial Carcinoma
+TDRG1,Epithelial Ovarian Cancer
+TDRG1,Esophageal Cancer
+TDRG1,Esophageal Squamous Cell Cancer
+TDRG1,Esophagus Squamous Cell Carcinoma
+TDRG1,Gastric Cancer
+TDRG1,Gastric Carcinoma
+TDRG1,Glioblastoma Multiforme
+TDRG1,Non-Small Cell Lung Cancer
+TDRG1,Osteosarcoma
+TDRG1,Ovarian Cancer
+TDRG1,Pre-Eclampsia
+TDRG1,Stomach Cancer
+TDRG1,Stomach Carcinoma
+TDRG1,Testicular Cancer
+TDRG1,Thyroid Cancer
+XIST,Acute Lymphoblastic Leukemia
+XIST,Acute Myeloid Leukemia
+XIST,Acute Myocardial Infarction
+XIST,Alcoholic Liver Disease
+XIST,Alzheimer Disease
+XIST,Atherosclerosis
+XIST,B-Cell Acute Lymphoblastic Leukemia
+XIST,Bladder Cancer
+XIST,Bladder Carcinoma
+XIST,Breast Cancer
+XIST,Cancer
+XIST,Cervical Cancer
+XIST,Cervical Squamous Cell Carcinoma
+XIST,Chronic Obstructive Pulmonary Disease
+XIST,Colon Cancer
+XIST,Colorectal Cancer
+XIST,Coronary Artery Disease
+XIST,COVID-19
+XIST,Cryptorchidism
+XIST,Cystic Fibrosis
+XIST,Diabetes Mellitus
+XIST,Diabetic Nephropathy
+XIST,Dilated Cardiomyopathy
+XIST,Down Syndrome
+XIST,Duchenne Muscular Dystrophy
+XIST,Endometriosis
+XIST,Epithelial Ovarian Cancer
+XIST,Esophageal Cancer
+XIST,Esophageal Squamous Cancer
+XIST,Esophageal Squamous Cell Cancer
+XIST,Esophagus Squamous Cell Carcinoma
+XIST,Fibrosarcoma
+XIST,Gastric Cancer
+XIST,Glioblastoma
+XIST,Glioma
+XIST,Hematologic Cancer
+XIST,Hepatocellular Cancer
+XIST,Hepatocellular Carcinoma
+XIST,Hyperglycemia
+XIST,Inflammation
+XIST,Intervertebral Degenerative Disc Disease
+XIST,Intervertebral Disc Degeneration
+XIST,Keratoconus
+XIST,Laryngeal Squamous Cell Cancer
+XIST,Laryngeal Squamous Cell Carcinoma
+XIST,Leiomyoma
+XIST,Leukemia
+XIST,Liver Cancer
+XIST,Lung Adenocarcinoma
+XIST,Lung Cancer
+XIST,Lung Non-Small Cell Carcinoma
+XIST,Major Depressive Disorder
+XIST,Malignant Glioma
+XIST,Malignant Melanoma
+XIST,Medulloblastoma
+XIST,Melanoma
+XIST,Metabolic Syndrome
+XIST,Multiple Sclerosis
+XIST,Myocardial Infarction
+XIST,Nasopharynx Cancer
+XIST,Nasopharynx Carcinoma
+XIST,Neuroblastoma
+XIST,Neurodegenerative Disease
+XIST,Non-Small Cell Lung Cancer
+XIST,Non Small Cell Lung Cancer
+XIST,Oral Squamous Cell Carcinoma
+XIST,Ossification Of The Posterior Longitudinal Ligament
+XIST,Osteoarthritis
+XIST,Osteoporosis
+XIST,Osteosarcoma
+XIST,Ovarian Cancer
+XIST,Pancreatic Cancer
+XIST,Pancreatic Carcinoma
+XIST,Papillary Thyroid Cancer
+XIST,Papillary Thyroid Carcinoma
+XIST,Parkinson Disease
+XIST,Periodontitis
+XIST,Pneumonia
+XIST,Polycystic Ovary Syndrome
+XIST,Precursor Cell Lymphoblastic Leukemia-Lymphoma
+XIST,Prostate Cancer
+XIST,Psoriasis
+XIST,Pulpitis
+XIST,Renal Cell Carcinoma
+XIST,Retinoblastoma
+XIST,Rheumatoid Arthritis
+XIST,Stomach Cancer
+XIST,Systemic Lupus Erythematosus
+XIST,Testicular Cancer
+XIST,Testicular Germ Cell Cancer
+XIST,Testicular Germ Cell Tumor
+XIST,Thyroid Anaplastic Carcinoma
+XIST,Thyroid Cancer
+XIST,Triple-Negative Breast Cancer
+XIST,Type 2 Diabetes Mellitus
+XIST,Urinary Bladder Cancer
+XIST,Uveal Melanoma
+XIST,Wilms Tumor
+RHPN1-AS1,Breast Cancer
+RHPN1-AS1,Cervical Cancer
+RHPN1-AS1,Colorectal Cancer
+RHPN1-AS1,Endometrial Cancer
+RHPN1-AS1,Epithelial Ovarian Cancer
+RHPN1-AS1,Esophageal Cancer
+RHPN1-AS1,Gastric Cancer
+RHPN1-AS1,Glioma
+RHPN1-AS1,Head And Neck Squamous Cell Carcinoma
+RHPN1-AS1,Hepatocellular Carcinoma
+RHPN1-AS1,Nasopharynx Carcinoma
+RHPN1-AS1,Non-Small Cell Lung Cancer
+RHPN1-AS1,Osteoarthritis
+RHPN1-AS1,Osteosarcoma
+RHPN1-AS1,Ovarian Cancer
+RHPN1-AS1,Prostate Cancer
+RHPN1-AS1,Retinoblastoma
+RHPN1-AS1,Uveal Melanoma
+MEG8,Angelman Syndrome
+MEG8,Atherosclerosis
+MEG8,Bladder Cancer
+MEG8,Bone-Invasive Pituitary Adenoma
+MEG8,Cerebral Cavernous Malformation
+MEG8,Colon Cancer
+MEG8,Diabetic Nephropathy
+MEG8,Esophageal Cancer
+MEG8,Gestational Diabetes Mellitus
+MEG8,Glioblastoma
+MEG8,Glioblastoma Multiforme
+MEG8,Hemangioma
+MEG8,Hepatocellular Carcinoma
+MEG8,Liver Fibrosis
+MEG8,Lung Cancer
+MEG8,Myocardial Infarction
+MEG8,Non-Small Cell Lung Cancer
+MEG8,Osteoarthritis
+MEG8,Ovarian Cancer
+MEG8,Pancreatic Cancer
+MEG8,Prader-Willi Syndrome
+MEG8,Syndrome
+MEG8,Thyroid Cancer
+MEG8,Wilms Tumor
+KLF3-AS1,Breast Cancer
+KLF3-AS1,COVID-19
+KLF3-AS1,Esophageal Cancer
+KLF3-AS1,Esophagus Squamous Cell Carcinoma
+KLF3-AS1,Gastric Cancer
+KLF3-AS1,Medulloblastoma
+KLF3-AS1,Osteoarthritis
+KLF3-AS1,Periodontitis
+LINC00472,Astrocytoma
+LINC00472,Atherosclerosis
+LINC00472,Atrial Fibrillation
+LINC00472,Breast Cancer
+LINC00472,Clear Cell Renal Cell Carcinoma
+LINC00472,Colorectal Cancer
+LINC00472,Epithelial Ovarian Cancer
+LINC00472,Esophageal Cancer
+LINC00472,Gastric Cancer
+LINC00472,Hepatocellular Carcinoma
+LINC00472,Lung Adenocarcinoma
+LINC00472,Lung Squamous Cell Carcinoma
+LINC00472,Non-Small Cell Lung Cancer
+LINC00472,Non Small Cell Lung Cancer
+LINC00472,Osteosarcoma
+LINC00472,Ovarian Cancer
+LINC00472,Pancreatic Cancer
+LINC00472,Pterygium
+LINC00472,Sepsis
+LINC00472,Thyroid Cancer
+LINC00472,Tongue Squamous Cell Carcinoma
+LINC00472,Triple-Negative Breast Cancer
+MIR600HG,Astrocytoma
+MIR600HG,Autism
+MIR600HG,Colorectal Cancer
+MIR600HG,Esophageal Cancer
+MIR600HG,Low-Grade Glioma
+MIR600HG,Pancreatic Adenocarcinoma
+MIR600HG,Pancreatic Ductal Adenocarcinoma
+MIR600HG,Tuberculosis
+SNHG3,Acute Myeloid Leukemia
+SNHG3,Alzheimer Disease
+SNHG3,Bladder Cancer
+SNHG3,Breast Cancer
+SNHG3,Cervical Cancer
+SNHG3,Chronic Myeloid Leukemia
+SNHG3,Clear Cell Renal Cell Carcinoma
+SNHG3,Colorectal Cancer
+SNHG3,Esophageal Cancer
+SNHG3,Gastric Cancer
+SNHG3,Glaucoma
+SNHG3,Glioma
+SNHG3,Hepatocellular Cancer
+SNHG3,Hepatocellular Carcinoma
+SNHG3,Intrahepatic Cholangiocarcinoma
+SNHG3,Laryngeal Cancer
+SNHG3,Laryngeal Carcinoma
+SNHG3,Laryngeal Squamous Cell Carcinoma
+SNHG3,Liver Cancer
+SNHG3,Lung Adenocarcinoma
+SNHG3,Lung Non-Small Cell Carcinoma
+SNHG3,Non-Small Cell Lung Cancer
+SNHG3,Non Small Cell Lung Cancer
+SNHG3,Oral Squamous Cell Carcinoma
+SNHG3,Osteosarcoma
+SNHG3,Ovarian Cancer
+SNHG3,Papillary Thyroid Cancer
+SNHG3,Papillary Thyroid Carcinoma
+SNHG3,Parkinson Disease
+SNHG3,Prostate Cancer
+SNHG3,Small Cell Lung Cancer
+SNHG3,Systemic Lupus Erythematosus
+SNHG3,Triple-Negative Breast Cancer
+LINC00852,Colon Adenocarcinoma
+LINC00852,Colon Cancer
+LINC00852,Lung Adenocarcinoma
+LINC00852,Osteosarcoma
+LINC00852,Ovarian Cancer
+LINC00852,Periodontitis
+LINC00467,Acute Myeloid Leukemia
+LINC00467,Astrocytoma
+LINC00467,Colorectal Cancer
+LINC00467,Esophageal Cancer
+LINC00467,Esophagus Squamous Cell Carcinoma
+LINC00467,Gastric Cancer
+LINC00467,Glioblastoma
+LINC00467,Glioblastoma Multiforme
+LINC00467,Glioma
+LINC00467,Head And Neck Squamous Cell Carcinoma
+LINC00467,Hepatocellular Carcinoma
+LINC00467,Lung Adenocarcinoma
+LINC00467,Muscle-Invasive Bladder Cancer
+LINC00467,Neuroblastoma
+LINC00467,Non-Obstructive Azoospermia
+LINC00467,Non-Small Cell Lung Cancer
+LINC00467,Osteosarcoma
+LINC00467,Periodontitis
+FOXD2-AS1,Astrocytoma
+FOXD2-AS1,Bladder Cancer
+FOXD2-AS1,Bladder Carcinoma
+FOXD2-AS1,Breast Cancer
+FOXD2-AS1,Cancer
+FOXD2-AS1,Cervical Cancer
+FOXD2-AS1,Colorectal Cancer
+FOXD2-AS1,Cutaneous Melanoma
+FOXD2-AS1,Esophageal Cancer
+FOXD2-AS1,Esophageal Squamous Cell Cancer
+FOXD2-AS1,Esophagus Squamous Cell Carcinoma
+FOXD2-AS1,Gallbladder Cancer
+FOXD2-AS1,Gastric Adenocarcinoma
+FOXD2-AS1,Gastric Cancer
+FOXD2-AS1,Glioma
+FOXD2-AS1,Hepatocellular Carcinoma
+FOXD2-AS1,Laryngeal Carcinoma
+FOXD2-AS1,Laryngeal Squamous Cell Carcinoma
+FOXD2-AS1,Lung Cancer
+FOXD2-AS1,Lung Non-Small Cell Carcinoma
+FOXD2-AS1,Melanoma
+FOXD2-AS1,Nasopharynx Cancer
+FOXD2-AS1,Nasopharynx Carcinoma
+FOXD2-AS1,Neck Squamous Cell Carcinoma
+FOXD2-AS1,Non-Small Cell Lung Cancer
+FOXD2-AS1,Oral Squamous Cell Carcinoma
+FOXD2-AS1,Osteoarthritis
+FOXD2-AS1,Osteosarcoma
+FOXD2-AS1,Ovarian Cancer
+FOXD2-AS1,Papillary Thyroid Cancer
+FOXD2-AS1,Pre-Eclampsia
+FOXD2-AS1,Pterygium
+FOXD2-AS1,Rheumatoid Arthritis
+FOXD2-AS1,Stomach Adenocarcinoma
+FOXD2-AS1,Thyroid Cancer
+FOXD2-AS1,Tongue Squamous Cell Carcinoma
+FOXD2-AS1,Ulcerative Colitis
+LINC00525,Astrocytoma
+LINC00525,Bladder Cancer
+LINC00525,Chordoma
+LINC00525,Colorectal Cancer
+LINC00525,Esophageal Adenocarcinoma
+LINC00525,Lung Adenocarcinoma
+LINC00525,Muscle-Invasive Bladder Cancer
+LINC00525,Non-Small Cell Lung Cancer
+LINC00525,Non Small Cell Lung Cancer
+LINC00525,Periodontitis
+LINC00525,Spinal Chordoma
+MIR503HG,Astrocytoma
+MIR503HG,Bladder Cancer
+MIR503HG,Cervical Squamous Cell Carcinoma
+MIR503HG,Choriocarcinoma
+MIR503HG,Colon Cancer
+MIR503HG,Colorectal Cancer
+MIR503HG,Esophageal Cancer
+MIR503HG,Fibrosis
+MIR503HG,Gastric Cancer
+MIR503HG,Head And Neck Squamous Cell Carcinoma
+MIR503HG,Hepatocellular Carcinoma
+MIR503HG,Non-Small Cell Lung Cancer
+MIR503HG,Non Small Cell Lung Cancer
+MIR503HG,Osteosarcoma
+MIR503HG,Ovarian Cancer
+MIR503HG,Pre-Eclampsia
+MIR503HG,Pulmonary Artery Hypertension
+MIR503HG,Testicular Cancer
+MIR503HG,Triple-Negative Breast Cancer
+MIR503HG,Uterine Cancer
+LINC00839,Breast Cancer
+LINC00839,Gastric Cancer
+LINC00839,Glioblastoma
+LINC00839,Lung Adenocarcinoma
+LINC00839,Lung Squamous Cell Carcinoma
+LINC00839,Melanoma
+LINC00839,Neuroblastoma
+LINC00839,Osteoarthritis
+LINC00839,Periodontitis
+LINC00839,Thyroid Cancer
+SNHG7,Astrocytoma
+SNHG7,Atherosclerosis
+SNHG7,Bladder Cancer
+SNHG7,Breast Cancer
+SNHG7,Cervical Cancer
+SNHG7,Chromophobe Renal Cell Carcinoma
+SNHG7,Colon Cancer
+SNHG7,Colorectal Cancer
+SNHG7,COVID-19
+SNHG7,Diabetic Retinopathy
+SNHG7,Esophageal Cancer
+SNHG7,Gastric Cancer
+SNHG7,Glioblastoma
+SNHG7,Head And Neck Squamous Cell Carcinoma
+SNHG7,Hepatic Carcinoma
+SNHG7,Hepatocellular Carcinoma
+SNHG7,Hypopharynx Cancer
+SNHG7,Liver Fibrosis
+SNHG7,Lung Adenocarcinoma
+SNHG7,Lung Cancer
+SNHG7,Lung Non-Small Cell Carcinoma
+SNHG7,Malignant Melanoma
+SNHG7,Malignant Pleural Mesothelioma
+SNHG7,Melanoma
+SNHG7,Nasopharynx Cancer
+SNHG7,Nasopharynx Carcinoma
+SNHG7,Neuroblastoma
+SNHG7,Non-Small Cell Lung Cancer
+SNHG7,Non Small Cell Lung Cancer
+SNHG7,Osteoarthritis
+SNHG7,Osteosarcoma
+SNHG7,Ovarian Cancer
+SNHG7,Pancreatic Cancer
+SNHG7,Pituitary Adenoma
+SNHG7,Prostate Cancer
+SNHG7,Renal Cell Carcinoma
+SNHG7,Stomach Cancer
+SNHG7,Thyroid Cancer
+SNHG7,Thyroid Carcinoma
+SNHG7,Tumor
+SNHG7,Uveal Melanoma
+SNHG12,Astrocytoma
+SNHG12,Atherosclerosis
+SNHG12,Bladder Cancer
+SNHG12,Breast Cancer
+SNHG12,Cancer
+SNHG12,Cerebral Ischemia
+SNHG12,Cervical Cancer
+SNHG12,Cervical Squamous Cell Carcinoma
+SNHG12,Clear Cell Renal Cell Carcinoma
+SNHG12,Colorectal Cancer
+SNHG12,Endometrial Cancer
+SNHG12,Endometrial Carcinoma
+SNHG12,Esophageal Cancer
+SNHG12,Esophageal Squamous Cell Cancer
+SNHG12,Esophagus Squamous Cell Carcinoma
+SNHG12,Gastric Cancer
+SNHG12,Gastric Carcinoma
+SNHG12,Glioblastoma
+SNHG12,Glioma
+SNHG12,Hepatocellular Carcinoma
+SNHG12,Laryngeal Cancer
+SNHG12,Laryngeal Squamous Cell Carcinoma
+SNHG12,Liver Cancer
+SNHG12,Lung Adenocarcinoma
+SNHG12,Lung Cancer
+SNHG12,Lung Non-Small Cell Carcinoma
+SNHG12,Malignant Glioma
+SNHG12,Nasopharynx Cancer
+SNHG12,Nasopharynx Carcinoma
+SNHG12,Non-Small Cell Lung Cancer
+SNHG12,Non Small Cell Lung Cancer
+SNHG12,Oral Squamous Cell Carcinoma
+SNHG12,Osteosarcoma
+SNHG12,Ovarian Cancer
+SNHG12,Pancreatic Cancer
+SNHG12,Papillary Thyroid Cancer
+SNHG12,Papillary Thyroid Carcinoma
+SNHG12,Parkinson Disease
+SNHG12,Pre-Eclampsia
+SNHG12,Prostate Cancer
+SNHG12,Pulmonary Artery Hypertension
+SNHG12,Renal Cell Carcinoma
+SNHG12,Stomach Cancer
+SNHG12,Triple-Negative Breast Cancer
+DLEU2,Astrocytoma
+DLEU2,B-Cell Chronic Lymphocytic Leukemia
+DLEU2,B-Cell Lymphoma
+DLEU2,Cervical Cancer
+DLEU2,Chronic Lymphocytic Leukemia
+DLEU2,Chronic Myeloid Leukemia
+DLEU2,Clear Cell Renal Cell Carcinoma
+DLEU2,COVID-19
+DLEU2,Endometrial Cancer
+DLEU2,Esophageal Adenocarcinoma
+DLEU2,Esophageal Cancer
+DLEU2,Esophagus Squamous Cell Carcinoma
+DLEU2,Gastric Cancer
+DLEU2,Glioblastoma Multiforme
+DLEU2,Glioma
+DLEU2,HBV-Related Hepatocellular Carcinoma
+DLEU2,Hepatocellular Carcinoma
+DLEU2,Laryngeal Cancer
+DLEU2,Laryngeal Carcinoma
+DLEU2,Laryngeal Squamous Cell Carcinoma
+DLEU2,Lymphoma
+DLEU2,Mantle Cell Lymphoma
+DLEU2,Medulloblastoma
+DLEU2,Multiple Myeloma
+DLEU2,Myeloid Neoplasm
+DLEU2,Myeloma
+DLEU2,Non-Small Cell Lung Cancer
+DLEU2,Non Small Cell Lung Cancer
+DLEU2,Osteosarcoma
+DLEU2,Ovarian Cancer
+DLEU2,Pancreatic Cancer
+DLEU2,Thyroid Cancer
+DLEU2,Wilms Tumor
+OLMALINC,Astrocytoma
+OLMALINC,Colorectal Cancer
+OLMALINC,Lung Adenocarcinoma
+OLMALINC,Lung Cancer
+OLMALINC,Melanoma
+OLMALINC,Neuroblastoma
+OLMALINC,Osteosarcoma
+OLMALINC,Pancreatic Cancer
+OLMALINC,Periodontitis
+OLMALINC,Renal Carcinoma
+OLMALINC,Thyroid Cancer
+OLMALINC,Type 2 Diabetes Mellitus
+LINC00473,Abdominal Aortic Aneurysm
+LINC00473,Astrocytoma
+LINC00473,Breast Cancer
+LINC00473,Cervical Cancer
+LINC00473,Colorectal Cancer
+LINC00473,Depression
+LINC00473,Esophageal Cancer
+LINC00473,Esophagus Squamous Cell Carcinoma
+LINC00473,Gastric Cancer
+LINC00473,Glioblastoma
+LINC00473,Glioma
+LINC00473,Head And Neck Squamous Cell Carcinoma
+LINC00473,Hepatocellular Carcinoma
+LINC00473,Lung Adenocarcinoma
+LINC00473,Lung Cancer
+LINC00473,Lung Non-Small Cell Carcinoma
+LINC00473,Mucoepidermoid Carcinoma
+LINC00473,Nephroblastoma
+LINC00473,Non-Alcoholic Fatty Liver
+LINC00473,Non-Small Cell Lung Cancer
+LINC00473,Obesity
+LINC00473,Osteoarthritis
+LINC00473,Osteosarcoma
+LINC00473,Pancreatic Cancer
+LINC00473,Pre-Eclampsia
+LINC00473,Prostate Cancer
+LINC00473,Renal Cell Carcinoma
+LINC00473,Rheumatoid Arthritis
+LINC00473,Salivary Gland Cancer
+LINC00473,Thyroid Cancer
+LINC00473,Type 1 Diabetes Mellitus
+LINC00473,Wilms Tumor
+LINC01278,Childhood Acute Lymphoblastic Leukemia
+LINC01278,Colorectal Cancer
+LINC01278,Dilated Cardiomyopathy
+LINC01278,Esophageal Cancer
+LINC01278,Hepatocellular Carcinoma
+LINC01278,Osteosarcoma
+LINC01278,Pulmonary Artery Hypertension
+LINC01270,Type 1 Diabetes Mellitus
+MIR17HG,Type 1 Diabetes Mellitus
+MCM3AP-AS1,Alzheimer Disease
+LINC00152,Alzheimer Disease
+XXbac-BPG308K3.5,Thyroid Cancer
+PSMG3-AS1,Alzheimer Disease
+RP11-458D21.1,Esophageal Cancer
+RP11-458D21.1,Thyroid Cancer
+OLMALINC,Osteoporosis
+LINC00667,Hereditary Hemorrhagic Telangiectasia
+RPARP-AS1,Muscle-Invasive Bladder Cancer
+lnc-AC092329.1-1,Osteoarthritis
+lnc-AF131215.2.1-1,Osteoarthritis
+lnc-AGER-1,Colorectal Cancer
+lnc-AP000525.1-3,Osteoarthritis
+lnc-ATP6V1G3-4,Osteoarthritis
+lnc-BZW1-1,Osteoarthritis
+lnc-C11orf54-1,Osteoarthritis
+lnc-CWF19L2-1,Osteoarthritis
+lnc-FBXW7-5,Osteoarthritis
+lnc-GATAD1-2,Osteoarthritis
+lnc-GNAI2-2,Osteoarthritis
+lnc-GNB4-1,Osteoarthritis
+lnc-GNB4-1,Tetralogy Of Fallot
+lnc-HIST4H4-1,Osteoarthritis
+lnc-KLRF1-1,Osteoarthritis
+lnc-LANCL2-2,Osteoarthritis
+lnc-LRP8-4,Osteoarthritis
+lnc-MAP2K6-5,Osteoarthritis
+lnc-MCTP2-1,Osteoarthritis
+lnc-P4HA2-2,Osteoarthritis
+lnc-PDK3-1,Hepatocellular Carcinoma
+lnc-PDK3-1,Tetralogy Of Fallot
+lnc-POTEG-4,Alzheimer Disease
+lnc-POTEG-4,Osteoarthritis
+lnc-PPIAL4B-2,Osteoarthritis
+lnc-RBM4-1,Osteoarthritis
+lnc-RP3-377D14.1.1-1,Osteoarthritis
+lnc-RPE-1,Osteoarthritis
+lnc-SLFN12-1,Osteoarthritis
+lnc-SPRYD3-1,Osteoarthritis
+lnc-TNK2-2,Osteoarthritis
+lnc-XRN2-2,Alzheimer Disease
+lnc-XRN2-2,Osteoarthritis
+NR_122111,Intervertebral Degenerative Disc Disease
+XXbac-BPG246D15.8,Autism

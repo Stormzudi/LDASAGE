@@ -1,0 +1,14 @@
+2022-09-18 08:32:12  | INFO> 0:00:00.017003  | Namespace(dataset='lnc-dis', down_model='lgb', dropout=0.0, epoch=10, hidden_channels=[256, 128], lncRNA_miRNA='lncRNA_miRNA_association.csv', miRNA_disease='miRNA_disease_association.csv', num_edges=1180, num_features=233, num_nodes=267, out_channels=64, path_dataset='F:\\Python\\Python_learning\\BJUT\\LDASAG\\dataset/', pre_model=None, train='traindata', weight=[0.7, 0.3])
+2022-09-18 08:32:13  | INFO> 0:00:00.927107  | Epoch:001, Loss:0.7023, train:0.8550, val:0.8388, Test:0.8536
+2022-09-18 08:32:13  | INFO> 0:00:01.320197  | Epoch:002, Loss:0.6982, train:0.8608, val:0.8421, Test:0.8568
+2022-09-18 08:32:13  | INFO> 0:00:01.696283  | Epoch:003, Loss:0.6933, train:0.8654, val:0.8455, Test:0.8597
+2022-09-18 08:32:14  | INFO> 0:00:02.081371  | Epoch:004, Loss:0.6884, train:0.8644, val:0.8486, Test:0.8627
+2022-09-18 08:32:14  | INFO> 0:00:02.461455  | Epoch:005, Loss:0.6809, train:0.8713, val:0.8515, Test:0.8655
+2022-09-18 08:32:15  | INFO> 0:00:02.840541  | Epoch:006, Loss:0.6742, train:0.8737, val:0.8532, Test:0.8673
+2022-09-18 08:32:15  | INFO> 0:00:03.228629  | Epoch:007, Loss:0.6706, train:0.8725, val:0.8536, Test:0.8678
+2022-09-18 08:32:15  | INFO> 0:00:03.602713  | Epoch:008, Loss:0.6620, train:0.8780, val:0.8534, Test:0.8677
+2022-09-18 08:32:16  | INFO> 0:00:03.989802  | Epoch:009, Loss:0.6579, train:0.8723, val:0.8527, Test:0.8668
+2022-09-18 08:32:16  | INFO> 0:00:03.990801  | Final Val:0.8536
+2022-09-18 08:32:16  | INFO> 0:00:03.990801  | Final Test:0.8678
+2022-09-18 08:32:16  | INFO> 0:00:03.991802  | Final Weight:[0.7, 0.3]
+2022-09-18 08:32:16  | INFO> 0:00:03.991802  | the downModel: lgb
