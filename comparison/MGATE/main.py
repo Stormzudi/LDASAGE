@@ -7,7 +7,8 @@ model: main.py
 @Author: Stormzudi
 """
 
-from Code.MGATE.utils import BuildDataset, buildDataLoder, getFeature, SimpleMSELoss
+from Code.MGATE.utils import BuildDataset, buildDataLoder, \
+    getFeature, SimpleMSELoss, bulid_graph
 from Code.MGATE.mgate import MGATE
 import torch
 from torch_geometric.utils import negative_sampling
@@ -34,7 +35,7 @@ args = {
 
 path = "../../dataset/valdata/"
 bd = BuildDataset()
-adj_c, adj_l, adj_m, adj_d, adj_ld, adj_lm, adj_md = bd.getData(path)
+index, adj_c, adj_l, adj_m, adj_d, adj_ld, adj_lm, adj_md = bd.getData(path)
 adj_c, adj_l, adj_m, adj_d, adj_ld, adj_lm, adj_md = \
     torch.from_numpy(adj_c).float(), \
     torch.from_numpy(adj_l).float(), \
@@ -94,7 +95,6 @@ def train(adj_c):
     return loss
 
 
-
 for epoch in range(1, args["epoch"]):
     loss = train(adj_c)
 
@@ -102,4 +102,80 @@ for epoch in range(1, args["epoch"]):
           f'Loss: {loss:.4f}, ')
 
 
+# 5 下游通过 cross 来实现分类
+def downModel(z, path):
+
+    index, edges_index, node_attr, label = bulid_graph(path)
+
+    # 1 load dataset
+    train_data, val_data, test_data = buildDataLoder(node_attr, edges_index, y=label)
+    # We perform a new round of negative sampling for every training epoch:
+    neg_edge_index = negative_sampling(
+        edge_index=train_data.edge_index, num_nodes=train_data.num_nodes,
+        num_neg_samples=train_data.edge_label_index.size(1))
+
+    # add edges (train_edge, neg_edge)
+    edge_label_index = torch.cat(
+        [train_data.edge_label_index, neg_edge_index],
+        dim=-1,
+    )
+
+    edge_label = torch.cat([
+        train_data.edge_label,
+        train_data.edge_label.new_zeros(neg_edge_index.size(1))
+    ], dim=0).numpy()
+
+    out = torch.cat((z[edge_label_index[0]], z[edge_label_index[1]]), dim=1).detach().numpy()
+
+    train_data_d, test_data_d, train_labels_d, test_labels_d = train_test_split(out, edge_label,
+                                                                                test_size=0.1, random_state=50)
+
+    # fit and predict
+    import lightgbm as lgb
+    lgb_train = lgb.Dataset(train_data_d, train_labels_d)
+    params = {'num_leaves': 48,
+              'min_child_samples': 20,
+              'min_data_in_leaf': 0,
+              'objective': 'binary',
+              'max_depth': -1,
+              'learning_rate': 0.05,
+              "min_sum_hessian_in_leaf": 15,
+              "boosting": "gbdt",
+              "feature_fraction": 0.3,
+              "bagging_freq": 1,
+              "bagging_fraction": 0.8,
+              "bagging_seed": 1,
+              "lambda_l1": 0.3,  # l1
+              'lambda_l2': 0.01,  # l2
+              "verbosity": -1,
+              "nthread": -1,
+              'metric': {'binary_logloss', 'auc'},
+              "random_state": 1,
+              "n_estimators": 200,
+              "max_bin": 425,
+
+              }
+    gbm = lgb.train(params, lgb_train)
+    pred = gbm.predict(test_data_d)
+
+    # save auc score
+    data_ = pd.DataFrame({
+        'pred': pred,
+        'labels': test_labels_d
+    })
+    date = datetime.date.today()
+    data_.to_csv("{}_MGATE_0.91.csv".format(date))
+
+
 a = 1
+index_ld = index["index_lncRNA"].copy()
+index_ld.update(index["index_disease"])
+
+z = out_cross_fusion[list(index_ld.values())]
+
+downModel(z, path)
+
+
+
+
+

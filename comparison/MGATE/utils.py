@@ -113,6 +113,13 @@ class BuildDataset():
         idx = np.unique(np.concatenate(
             [data_ld['lncRNA'].values, data_lm['miRNA'].values, data_md['disease'].values]))
         idx_map = {j: i for i, j in enumerate(idx)}
+
+        index = dict()
+        index.update({"index_lncRNA": {i: j for i, j in idx_map.items() if i in data_ld['lncRNA'].values}})
+        index.update({"index_disease": {i: j for i, j in idx_map.items() if i in data_ld['disease'].values}})
+        index.update({"index_miRNA": {i: j for i, j in idx_map.items() if i in data_md['miRNA'].values}})
+        index.update({"index_all":idx_map})
+
         self.len_l, self.len_m, self.len_d = len(np.unique(data_ld['lncRNA'].values)), len(np.unique(data_lm['miRNA'].values)), len(np.unique(data_md['disease'].values))
 
         # 1. Given similarity matrix S(intra_L, intra_M, intra_D)
@@ -145,7 +152,7 @@ class BuildDataset():
                            np.hstack((A_LM.T, A_MD, S_mm)))
                           )
 
-        return adj_c, S_ll, S_mm, S_dd, M_interLD, M_interLM, M_interMD
+        return index, adj_c, S_ll, S_mm, S_dd, M_interLD, M_interLM, M_interMD
         # return adj_c, adj_l, adj_m, adj_d, adj_ld, adj_lm, adj_md
 
 
@@ -171,6 +178,86 @@ def getFeature(adj, min=0, max=5):
     row, col = adj.shape
     return np.random.randint(min, max, (row, col))
 
+def bulid_graph(path):
+    """
+    return: data (Type: Data)
+    :param path: the dataset path
+    """
+    global idx_map
+
+    names = ['lncRNA_disease', 'miRNA_disease', 'lncRNA_miRNA']
+    datasets = ['{}_association.csv'.format(name) for name in names]
+
+    # index_lncRNA = {}
+    # index_mRNA = {}
+    # index_disease = {}
+    index = {}
+
+    for name in datasets:
+        with open("{}{}".format(path, name), encoding="utf-8") as f:
+            data = pd.read_csv(f)
+            # data = np.loadtxt(f, str, delimiter=",", skiprows=1)
+        # build Adj
+        if name == "lncRNA_disease_association.csv":
+            idx = np.unique(data.values.flatten())
+            idx_map = {j: i for i, j in enumerate(idx)}
+
+            edges = np.array(list(map(idx_map.get, data.values.flatten())),
+                             dtype=np.int32).reshape(data.shape)
+
+            edges_index = torch.tensor(edges.T, dtype=torch.long)
+            index_lncRNA = {i: j for i, j in idx_map.items() if i in data['lncRNA'].values}
+            index_disease = {i: j for i, j in idx_map.items() if i in data['disease'].values}
+            index["index_lncRNA"] = index_lncRNA
+            index["index_disease"] = index_disease
+            index["edges"] = edges
+
+
+        elif name == "miRNA_disease_association.csv":
+            # index_mRNA
+            idx_miRNA = np.unique(data['miRNA'].values)
+            index_miRNA = {j: i for i, j in enumerate(idx_miRNA)}
+            index["index_miRNA"] = index_miRNA
+
+            # get disease embedding
+            node_disease_row = np.array(list(map(index["index_disease"].get, data['disease'].values)))
+            node_miRNA_col = np.array(list(map(index["index_miRNA"].get, data['miRNA'].values)))
+
+            sparse_mx = sp.coo_matrix((np.ones(data.shape[0]), (node_disease_row, node_miRNA_col)),
+                                      shape=(len(idx), len(idx_miRNA)),
+                                      dtype=np.float32)
+            disease_embedding = sparse_mx.toarray()
+
+
+        elif name == "lncRNA_miRNA_association.csv":
+
+            # get lncRNA embedding
+            node_lncRNA_row = np.array(list(map(index["index_lncRNA"].get, data['lncRNA'].values)))
+            node_miRNA_col = np.array(list(map(index["index_miRNA"].get, data['miRNA'].values)))
+
+            sparse_mx = sp.coo_matrix((np.ones(data.shape[0]), (node_lncRNA_row, node_miRNA_col)),
+                                      shape=(len(idx), len(idx_miRNA)),
+                                      dtype=np.float32)
+            lncRNA_embedding = sparse_mx.toarray()
+
+        else:
+            pass
+
+    # build the node embedding (node : lncRNA、disease、 the dim of embedding : n(miRNA))
+    node_attr = torch.zeros(len(idx_map), len(index_miRNA), dtype=torch.float32)
+    labels = list()
+    for i,v in idx_map.items():
+        if i in index_lncRNA:
+            node_attr[v, :] = torch.from_numpy(lncRNA_embedding[v,:])
+            labels.append(1)
+        else:
+            node_attr[v, :] = torch.from_numpy(disease_embedding[v,:])
+            labels.append(0)
+
+    return index, edges_index, node_attr, torch.tensor(labels, dtype=torch.int64)
+
+
+
 class SimpleMSELoss(nn.Module):
     def __init__(self):
         super(SimpleMSELoss, self).__init__()
@@ -183,5 +270,5 @@ if __name__ == '__main__':
 
     path = "../../dataset/valdata/"
     bd = BuildDataset()
-    adj_c, adj_l, adj_m, adj_d, adj_ld, adj_lm, adj_md = bd.getData(path)
+    index, adj_c, adj_l, adj_m, adj_d, adj_ld, adj_lm, adj_md = bd.getData(path)
     a = 1
