@@ -54,6 +54,10 @@
 
 
 
+（3）模型对比结果
+
+![image](https://github.com/Stormzudi/LDASAGE/blob/master/images/result.png)
+
 
 
 ### 3 代码
